@@ -1,0 +1,12 @@
+{
+    "center": "33.607178,-9.243092,14",
+    "format": "pbf",
+    "version": "2",
+    "minzoom": "0",
+    "maxzoom": "14",
+    "description": "tiles.mbtiles",
+    "name": "tiles.mbtiles",
+    "type": "overlay",
+    "json": "{\"vector_layers\": [ { \"id\": \"cluster\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"area\": \"Number\", \"density\": \"Number\", \"distance\": \"Number\", \"grid\": \"String\", \"r_0___I\": \"Number\", \"sum_pop\": \"Number\", \"x\": \"Number\", \"y\": \"Number\"} } ] }",
+    "bounds": "29.599565,-11.721235,40.436634,-0.995267"
+}
