@@ -163,7 +163,7 @@
             "Aerial Imagery": ae
         };
 
-        let vecTileLayer = L.vectorGrid.protobuf("data/tiles/{z}/{x}/{y}.pbf", {
+        let vecTileLayer = L.vectorGrid.protobuf("https://www.zimf.de/mbtileserver/services/nesp/tiles/{z}/{x}/{y}.pbf", {
                 rendererFactory: L.canvas.tile,
                 vectorTileLayerStyles: {
                     long_list_prelim: function(prop, zoom) {

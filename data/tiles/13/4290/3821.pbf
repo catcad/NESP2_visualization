@@ -1,912 +1,0 @@
-еЅx
-kedco_lines(А osm_idname
-other_tags"
-20429"
-Kurna Feeder"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"33""
-21784"&
-$BOLA BRANCH,(KOFAR NASSARAWA FEEDER)"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"11""
-22118"C
-ADURUMIN ZUNGURA BRANCH,SABUWAR KOFA BRANCH (IBRAHIM TAIWO FEEDER)"
-22124"J
-HGEZAWA 2 BRANCH,GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22125":
-8GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-21793"
-KOFAR NASSARAWA"
-20437"@
->Sudanese Consulate Branch, Emirs Palace Branch, (Kurna Feeder)"
-22115"?
-=AMINU BABBA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22137"1
-/WALI BRANCH, MUBI BRANCH,(IBRAHIM TAIWO FEEDER)"
-12901"
-YUSIF ALI BRANCH"
-12360"
-Sharada Industrial"
-21782".
-,ALKALI HAMZA BRANCH,(KOFAR NASSARAWA FEEDER)"
-22126"%
-#HALAL BRANCH,(IBRAHIM TAIWO FEEDER)"
-22139"+
-)YAN-SIMINTI BRANCH,(IBRAHIM TAIWO FEEDER)"
-74"
-	Audu Bako"
-73"
-22357"	
--233541"
-CLUB 33KV FEEDER"
-12637"
-	CBN cont."
-22378"
-Abbas Road Branch"
-11705"
-
-branches"
-11499"
-Ahmadu Bello"
-11701"
-Tukur Road Branch"
-11591"
-Badawa"
-11510"
-Sultan by Korau road branch"
-11504"
-Lamido road left"
-11606"
-Lamido crescent"
-13272"	
-Gaskiya"
-11596"
-	H Hadejia"
-21790".
-,KABARIN WALI BRANCH,(KOFAR NASSARAWA FEEDER)"
-20418"$
-"Emir Palace Branch, (Kurna Feeder)"
-22133"P
-NMTN BRANCH, DURUMIN ZUNGURA BRANCH, SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22128"
-IBRAHIM TAIWO"
-20436"8
-6Sarkin Gini Branch, Emir Palace Branch, (Kurna Feeder)"
-22131"<
-:LIBRARY BRANCH,SABUWAR KOFAR BRANCH,(IBRAHIM TAIWO FEEDER)"
-22138"G
-EWRECCA GIDAN RIJIYA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22135",
-*SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22134"8
-6MUBI BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-12468"
-Ajasa I. G. Branch"G
-E"operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"11""
-21788".
-,HAUREN BALAGU BRANCH,(KOFAR NASSARAWA FEEDER"
-20423""
- Gidan Radio Branch, Kurna Feeder"
-20331"
-GIDAN RADIO"
-11988"
-Jifatu branch"
-12055"§
-°"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-20431"
-12470"
-Ajasa Helious Branch"
-12473"
-Ajasa Cooperative Branch"
-12462"
-Ajasa MTN Branch"
-22116";
-9BARRACK BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-12057"
-12469"
-Ajasa Rumfa Branch"
-12464"
-Ajasa"
-20430"
-12896"
-DANAGUNDI-ZARIA ROAD"
-12648""
- Engr Rabiu M Kwankwaso Residence"
-12475"
-Ajasa Kwankwaso Branch"
-12463"
-Ajasa Gandu Branch"
-20426"%
-#Jill Plastic Branch, (Kurna Feeder)"
-20435"%
-#Rahama Radio Branch, (Kurna Feeder)"
-12452"
-20410"1
-/ABY Branch, Jill Plastic Branch, (Kurna Feeder)"
-12474"
-Ajasa NSTI Branch"
-20427"
-12451"
-Ajasa Unity Bank Branch"
-20516"0
-.H&M Construcion Company Branch, (Kurna Feeder)"
-12467"
-Ajasa MTN Ummi Branch"
-20428"
-12619"%
-#CBN Feeder SAM 03 Kassim A Burkullu"
-12476"
-12604"
-Ado Bayero Mall branch"
-12466"
-Ajasa Hassan Branch"
-12601"•
-Ґ"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"1","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-12477"
-Ajasa BBY Branch"
-12459"
-Ajasa Ado Mill Branch"
-12598"
-12479"
-Ajasa ECO Branch"
-12471"
-Ajasa Mr. Biggis Branch"
-11995"
-branch"
-12058"
-22354"
-Audu Bako to Matan fada"
-22355"
-22353"
-22352"
-12607"
-Audu Bako Dedicated"
-22381"
-22382"
-11993"
-State Road branch"
-11994"
-Yahuza Suya"
-61"	
--233539"
-62",
-*Audu Bako to Tamandu court by Prince hotel"	
--233543"
-22364"
-12659"
-Prince Hotel Dedicated"
-22366"
-11029"
-Dantata Qtrs Branch"
-11027"
-Col Umar Dikko Branch"
-12633"
-22362"
-60"
-Audu Bako to Airtel"
-11028"
-12628"
-12638"
-68"
-Audu Bako to Jigawa road"
-22367"
-22383"
-59"
-Audu Bako to Yan Dutse"
-22359"
-22384"
-12627"
-53"
-12606"
-12645"
-Dedicated Audu Bako"
-11982"
-	Ali Sa'ad"
-11981"
-Ali Sa'ad branch"
-12457" 
-Ajasa Branch By Abubakar N. A."
-12610"
-11987"
-Iyaka Road branch"	
--233501"
-Borno Avenue branch"
-11984"	
-Dr Bala"
-12612"
-11978"•
-Ґ"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-12608"
-12653"
-Golden star mill branch"
-12656"
-Maitangaran branch"
-12478"
-Ajasa SKY Branch"
-12461"
-Ajasa Darussalam Branch"
-12495""
- Marhaba Ja'oji By Abubakar N. A."
-12613"
-11991"
-Pension Board branch"
-12614"
-11732"
-Emir Palace branch"
-12647"
-Emir Palace Nassarawa"
-11997"
-sokoto road branch"
-11745"
-Sokoto Road branch"
-11986"
-Ibrahim Dabo branch"
-11992"
-Samson Rogers"
-12642"
-City scape branch"
-11980"
-Airtel Booster Station branch"
-12620"
-11985"
-
-IHS branch"
-11990"
-NACB branch"
-11989"
-12643"
-Country Mall"
-12465"
-AjasaKERD Branch"
-12456"
-Ajasa Airtel Branch"
-12472"
-12453"
-12900"
-SHARADA BUSNESS UNIT BRNCH"
-12458"
-12455"
-12460"
-Ajasa Sahad Branch"
-12497")
-'Marhaba Texaco Branch By Abubakar N. A."
-12492"(
-&Marhaba Union Branch By Abubakar N. A."
-12494"(
-&Marhaba Nitel Branch By Abubakar N. A."
-12503"*
-(Marhaba Hausawa Branch By Abubakar N. A."
-12501",
-*Marhaba Yusif Ali Branch By Abubakar N. A."
-12500"
-12499",
-*Marhaba yusif Ali Branch By Abubakar N. A."
-12493",
-*Marhaba M. Murata Branch By Abubakar N. A."
-12502".
-,Marhaba Dan Gwogola Branch By Abubakar N. A."
-12894"
-12496"
-Marhaba SSG By Abubakar N. A."
-12504"*
-(Marhaba Permier Clinic By Abubakar N. A."
-12898"
-RIBADO ROAD BRANCH"
-12899"
-12491"&
-$Hausawa MTN Branch By Abubakar N. A."
-12489"*
-(Hausawa Sankara Branch By Abubakar N. A."
-12488",
-*Hausawa Social Well Fire By Abubakar N. A."
-12895"
-12487"0
-.Hausawa Dahiru Gwaram Branch By Abubakar N. A."
-12486"*
-(Hausawa Primary Branch By Abubakar N. A."
-12498".
-,Marhaba Masallachi Murtala By Abubakar N. A."
-12954"
-MOTGAGE BANK BRANCH"
-12483"3
-1Hausawa Shu'aibu Maigida Branch By Abubakar N. A."
-12484""
- Hausawa Branch By Abubakar N. A."
-12490".
-,Hausawa Babban layi Branch By Abubakar N. A."
-12505"%
-#Marhaba Yan Azara By Abubakar N. A."
-12600"•
-Ґ"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-12480"%
-#Hausawa Main Line By Abubakar N. A."
-12485"-
-+Hausawa Press Road Branch By Abubakar N. A."
-12956"
-12955"
-12725"
-SARKIN GOBIR"
-12719"
-KARKASARA FEEDER,"
-12723"
-LAYIN MAINGUWA BRANCH"
-12720"
-12897"
-DANGOTE BRANCH"
-12724"
-MAIUNGUWA BRANCH"
-12718"
-12722"
-11715"
-11681"
-11683"
-Abdullahi Bayero Branch"
-11680"
-12630"
-11679"
-11723"	
-samanja"
-11684"
-
-Alu Avenue"
-11721"	
-branche"
-11688"
-Dambazau Road"
-52"
-Audu Bako to Luggard Avenue"
-12618"
-11699"
-
-State Road"
-12644"
-Dangote Group"
-12641"
-Cabinet Office"
-12651"
-
-Gen. Akilu"
-11712"
-11697"
-Race Course"
-11488"
-"operator"=>"KEDCO""
-12657"	
-Miyyeti"
-11500"
-12658"
-Muhammad Abacha"
-12615"
-11501"
-11690"
-Kwairanga branch"
-11730"
-Commissioner Road branch"
-12611"
-11740"
-MTN Booster Station branch"
-22379"
-
-Ado Gwaram"
-12646"
-Deputy Governor's House"
-22380"
-12654"
-Government House Dedicated"
-12596"
-12609"
-12599"
-11725"
-11726"
-Ahmad Daku branch"
-11742"
-Marhaba branch"
-12617"
-11727"
-Alh. Gwanau branch"
-11704"
-11743"
-Nafiu Rabiu branch"
-11737"%
-#Industrial Court Guest House branch"
-11728"
-Aminu Sule Garo branch"
-11735"
-Garkuwa branch"
-11738"
-
-Kabir Koki"
-11744"
-Nuhu Bamalli branch"
-11486"
-11490"
-11512"'
-%Sultan road/Ahmadu Bello Ahmadu Bello"
-22372"
-Magajin Rumfa Right Branch"
-12605"
-
-Afficent"
-12603"
-
-Abdulfatah"
-12622"
-11511"
-Sultan road branch"
-11495"≥
-∞"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"250","circuits"=>"3","frequency"=>"50","layer"=>"3","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-13280"
-11513"
-22374"
-22373"
-22375"
-11507"
-11498"
-Ahmadu Bello Kwairanga Branch"
-11506"
-Magajin Rumfa Left Branch"	
--233449"
-11502"
-Farhan Branch"	
--233451"
-11608"
-Madugu link"
-13267"	
--233447"
-13273"	
--233445"
-11598"
-
-SSS Branch"	
--233481"
-11593"
-Dan Kabobranch"
-13266"	
--233485"
-Lamido terrace"
-11607"
-11720"
-11694""
- Race Course (Magaji Rumfa T-Off)"
-12616"
-11689"
-Race Course (Kura Road T-Off)"
-12655"
-IITA"
-11709"
-11676"
-Race Course (Engr Wali T-Off)"
-12621"
-12660"
-Standard Specialist Hospital"
-11693"
-Lautai Branch"
-11746"
-Tarauni Massalaci"
-11733"
-Engr. Sani Bala"
-11747"
-11748"
-13173"
-TARAUNI GARDEN"
-11711"
-11706"
-11691"
-Laila Buhari Branch"
-11698"
-Sabara Avenue"
-11957"
-NTA Qtrs branch"
-11722"
-masama branch"
-11692"
-13161"
-HOTORO FEEDER"
-13156"
-HOTORO (BRANCH)"
-20035"
-NNPC FDR 6 (GUARANTEE BRANCH)"
-11718"
-11687"
-Bashir Magashi"
-11700"
-Tofa General Textile Branch"
-11686"
-Bashir Magashi Right Branch"
-12873"
-KUNDILA (BASHIR GUMEL BRANCH)"
-19994"-
-+NNPC FDR 6 FROM DAKATA TS.TE/OME MARIRI B.U"
-11979"§
-°"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"line","voltage"=>"11""
-11724"
-11996"
-20014"!
-NNPC FDR 6(COUNTRY MALL BRANCH)"
-20016"!
-(NNPC FDR 6COUNTRY MALL BRANCH)"
-11729"
-Assalam Schools branch"
-12652"
-Golden Pharmcy branch"
-11736"
-Incubation Centre branch"
-11739"
-11749"	
-Tarauni"
-11734"
-Farm Centre branch"
-20015"
-12482"-
-+Hausawa Yar Fulani Branch By Abubakar N. A."
-12953"
-ECO Bank BRANCH"
-12952"
-AKTH BRANCH"
-12481"
-
-ZARIA ROAD"Х
-Т"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"3X15000","substation"=>"Distribution","voltage"=>"33""
-19993"
-12890"%
-#KUNDILA(Phase 1 BRANCH NEAR MOSQUE)"
-20066"
-NNPC FDR 6 (YANLEMO LEG)"
-11731"
-Daurawa branch"
-20017"
-13162"
-12881""
- KUNDILA (EGYPTIAN SCHOOL BRANCH)"
-13157"
-HOTORO (DAURAWA BRANCH)"
-13168"
-MTN BTS TEE OFF"
-12880"
-KUNDILA (CITY HALL BRANCH)"
-12872"!
-KUNDILA(BABA IMPOSSIBLE BRANCH)"
-12715"
-KARKASARA FEEDER,ADNAN.SAM05"
-12721"
-12717"
-12713"
-BILAL MOSQUE BRANH"
-12882"
-KUNDILA FEEDER"
-20065"
-12883"
-KUNDILA (PHASE 3 BRANCH)"
-12714"
-12885"
-13164"
-11741"
-Maiduguri road branch"
-19996"
-13172"
-HOTORO (RAHINA HOUSE BRANCH)"
-13171"
-MUSA GWADABE S/S TEE OFF"
-20003"!
-NNPC FDR 6(ALYUMA HOUSE BRANCH)"
-20006"'
-%NNPC FDR 6 (BANK OF THE NORTH BRANCH)"
-20007"
-20051"
-NNPC FDR 6(NDIC BRANCH)"
-12892"
-SABUWAR KASUWA TEE OFF"
-12871"!
-KUNDILA (BASHIR MAITAMA BRANCH)"
-12876" 
-KUNDILA(DALHATU BAYERO BRANCH)"
-12870"
-KUNDILA (AIRTEL BTS)"
-12874"
-12878"
-KUNDILA(DANGI BRANCH)"
-12875"
-DALHATU BAYERO TEE OFF"
-12877"
-KUNDILA (DANGI BRANC)"
-12884"
-12889"
-KUNDILA(NAIBI WALI BRANCH)"
-12879"
-KUNDILA(HANGA BRANCH)"
-12887"
-KUNDILA(LABARAN BRANCH"
-20061"
-NNPC FDR6 (VETNARIA BRANCH)"
-12589"
-UNGUWA UKU ( VETNARIA BRANCH)"
-20055"
-TEE OFF KUNDILA"
-20062"
-VETNARIA TEE OFF 33KV FDR6"
-12593"
-UNGUWA UKU FDR"
-20069"
-NNPC FDR 6( YANLEMO LEG)"
-12886"
-KUNDILA(LABARAN BRANCH)"
-12587"
-UNGUWA UKU FDR LGA TEE OFF"
-12590" 
-UNGUWA UKU FDR YANKIFI TEE OFF"
-12577"
-MTN BTS S/S TEE OFF"
-11600"
-Sankore branch"
-11601"
-Umar Galadima"
-11589"
-After Sankore"	
--233483"
-11708"
-11685"
-Bashir Magashi Left Branch"
-19992"
-13163"
-12891"
-KUNDILA (REB QUATERSBRANCH)"
-12888"
-KUNDILA(LIMAWA BRANCH)"
-12588"
-UNGUWA UKU FDR TASHA TEE OFF"
-12869"
-HASSAN GWARZO BRANCH"
-12712"!
-BILAL MOSQUE BRANCH,ADNAN,SAM05"
-20068"
-12586"$
-"UNGUWA UKU ( LAYIN YARBAWA BRANCH)  "	№О2я!m)gAWKk-3 "
-	5n.
-*( "	÷О	R5#љ~їqA13I E A 	"	Ыц	
- 
-"	gи	
-7w "k	Я÷кR-N1vMr[pSАyZM@?V[8O")»њ'Гa}ўk? &Ёх5#5M1=a{#	Ѕ z [!;" ";Y50O! "	OЇ	P∞HЦ "		№m "
-	2¬1Я* "	 ц$ЯЄ "
-	Яж6 "		ИUV "	ЮЯ*ДB "	¶Я	†ƒ "	фЯ"%,SM  "	¬Я,@"`
- !"	кЯ@†ЬМM  "#"	юјЂњ=Я $%"	кЯ* <
-$$ &'"	Є"ЯЦ†NP" ()"	ƒ%Я
-= *+"1	И1ЯВ8#h,1ћА%X*UV# ov«Њqz°§ЯЃE@ХР  ,-"	Р.J2ЕM mк й  1) ./"	¬;ЯR
-
-ЏzЦЮ  01"	ь4Я
-' 23"
-	р7Я% 45"	Љ:Яw†Щ“ 67"	ј;Я$ CL 89"	Џ=y
-N :;"	д{2|$r/ 8) <="	№ОJ)b1КJ16q9ѓЁЦЯ& >?"	Ґёp6$=M @A"A	Я®™d?<+÷Ыд√ЎўЮўtе6л(л÷MTb©Jo*FS8U-
-KХПЯ BC"
-	»иK! DE"	Џр
-c FG"
-	ґ к); HI"/	Ї№К)+?Iєї/uЅ[Qу>*в;xh$40¶M
-" JK"	Ц™B!,&&j9Im LMN"	§А
-Qz OP"	Єж
-
- QR"	‘и
- ST"	§	і(NG UV"	Ю÷
-g WX"	И№	
-. Y""	№ОZ~»4<@@WЊ*ЊdnШ, д<ћ Z[N"	Є
-К"="E%
- \]N"	∆Ґ"W# ^_N"	ЪД
-F `a"	–жЛ]
-8 b#",	Ядr†vT>∞2AЪГDБBЌ =-.QФўђЙ cdN"	X–аpМI efN"=	ЯцЇD!\CX?“ЯъяjeT[JcRБ
-ЬV^Ъ<9Bc)#/K-?j≤C9 g"-	Я™b†дЬаЄбф.Т!]TїФ«РЧYщЋ hi"	n§
-t jk"	Тю
-" lmN"	ЎіЗяаЛ noN"	ƒЮ
-& pq"	ј
-іJ$ІMQХ%S(_ rs"	в
-ю
-[$ tMN"	и
-ј:?ѕ3Ы3	3§Щ uv"		Ю
-в
-ГY wxN"	ш
-®"	6 yq"	ђ
-ь-B√  z{N"	‘Ш:	18i6A/ |}"	тƒ
-  ~N"
-	иРW}  Аq"	ю	шGИЁ!?Z БВ"L	ЯЦЏ8XZ`rжxuxП*9&ВЪ§џ~Ж Въ&Ѓ∆’ЕїAњ
-;Ц ГoN"И	Ь
-ҐТk¬ФД*,024/t$DЇн"4.BH†ји§	
-KЬЂ±ҐЇ/ БdW7	09*µRнr3uйf£≠%ЧҐЋr 2Т¶.ЦTX№\іTfд ДЕ"	шЏ
-Y ЖЗN"	ИА )A ИЙ"	Љи5j¶ КЛN"	Жё"µЫ	 ] МНN"	ƒҐ
-< ОЙ"	ъ∞
-}/" ПРN"	ƒё: &` &(CN7B	 СТN"	 ђ†Г УФ"	¬А
-0 Х#"#	О–	b!&7~?FЖ+≤/¶'zEn6аѓ ЦЧ"	®ь
-J ШЧ"	®ь"D>
-" ЩЧ"	ђђ
- ЪЧ"		ђђ
-ђ ЫЬ"	–ИяAJН* ЭЧ"	 ЎJ>к’Eї	9(o
-G 	Э% ЮЧ"	 Ў
-( Я†"	¶¬
-` °Ґ"		Тф
-Д2 £Ч"
-	в№
-є† §#"
-	шж
-Ж•& •¶"	фґJ@r?X#@/X4t+ І#"	юј
- ®"	∆МPҐ ©™"	 Z"	# Ђ"	ди*$F(\D‘>A( ђ≠"	∞Ки9z Ѓѓ"	фё
-f% ∞%"	МИLґFќ ±"
-	РЬ6,l ≤≥"	Ю“
-~7 і≠"		Ш–
-Ц µ%"	КЊI’" ґ%"	ЖТ	2Я@;СMй3 ЈЄ"	дТ	"kЭ'fq є"
-	 ЊTz Ї"	ВМ
-
-+ їЉ"		§в
-µ љ"	 Њ
-v3 Њ"	ВМ
-JМ њ%"	Їю
-С!€ ј"		§в
-О$ ЅЬ"	ЪТ2;&-ѓ/8©їCTщ ¬√"
-	Юц>i ƒ≈"
-	»Т,M ∆«"	в»"2U(C–і »…"	ЉЖ
-&)(  В"	ЮМBD='WoЫІmБ{Ы Ћћ"	ОЄ<Л,W Ќќ"
-	 Ш
- ≠\ ѕ–"N	Љ!Ш “еўQљњСЫ}]<)ЩFЋЭ9Б±A#≥m-HЧ<g<oЎ•1ў	©'XЩ:ЖO' —В"	ҐЪJ+))-qQ{i]MZЯ	0Q “”"	ц†
-& ‘В"	оЦ:FоV$"тМ8Ђ ’÷"	кЊ
-? „Ў"	ът
- ўЏN"	ЄдpЮ
-
- џ№N"	ф¬
-( Ёё"	аф+?M[6 яВ"(	∆§r'ЄЙ±iXІb8Ш,№ аб"	÷А
-+< вВ".	ЏіКТ0~. +'
-
-.’ЋГ-95D~&О" гд"	Ац√S еж"		рВ
-— зи"		 Њ
-™* йк"	аВ
-9 лм"	ю§e•7 но"	ґи
-qr пр"
-	цв
-КЭ ст"	∆в
-M уВ"?	ИТЇ%Cj_<+'$№ш@(¶≤9DYXЉ≤::авnsra%»ўpqgO фх"	ДҐF/МЛ цч"	§– "АГTo! шч"	§ћ
-TH щъ"
-	ЬФ
-ґ“ ыьN"
-	оФ!
-љО эюN"	ћ§%
- €…"
-	ю	“"y6I
-# А…"	Ъ	т 2÷№)[(ETiФ% БВ"	ірB6ЩJ8x%H-H Г…"
-	§	÷% Д…"	р
-ќ$
-N ЕЖN"
-	шШ 0 ЗИ"
-	¶ъ&!%ay ЙК"	∞Ц*
-S# ЛМ"
-	»ш,& НО"	ќ
-∞/јБ  ПР"	†
-ф3
-G3 СР"	О§3
-#-  ТУ"	дЖ2"’ЮY>ж∞ ФХ"	дЖ2
-$ ЦЧ"	кё2†оКмТ Шi"Д	Яиъ†∆<МFЪBВ™MЏњиСЬљprВОвж$$JC®эТuФƒЬД4vN§DzLl">А.
-JjhNh"Р
-XBfL3ТQ`+Џw≤Sb7МЕ8&6fjj3 ЩЪ"
-	жю#
-Б° ЫЬ"	ДР"љйOm$ ЭЮ"	»Т!2£ЉЧВm{/ ЯЮ"	§ќ#
-$L †°"		“Ю&
-GП Ґ£"	∆™$
-9 §•"	ъ∆%
-! ¶i"	ђ™$
-4? І®"1	тЉ+К]Ђo„OБ!Э±#K%5$7ЗP/ІX0ЫX ©™"	Ьф,"О§nКDIЖ Ђђ"x	м$–+Џ>#k[a{бй,'	TVЪМ*#Jге°С;Aпн7E<".щ–!";,MBG\W(Я~л∆kRЅЃЙдo*Н&_V{2+)ѓО™аВЎ(,nФ ≠Ѓ"	∆ф-
- ѓ∞"		№ƒ/
-Бn ±≤"	Љю-†∆МҐ ≥і"		М∆'
-∆'* µґ"	ќ∞J>dVxЖ§:d*4h98Lиё74 ЈЄ"	юЬ"
-G єЇ"9	№$Љ+ВAKA£Ц£ZQЩc±Г÷БКЛ ПЧАЫ”Э~eL”Н їЉ"	тЉ+bґ¶Ua љЃ"S	ь“,Т9г0cR:@∞ё&qbЭДЧ\K4y6!m6%"CJ?69I}ч9AC;K!#!)aЕ
- ЊЃ"
-	цД5>/>9  њј"	ъ∞9"'EбеЩ≥]O Ѕ¬"	ЦО;B165@56 √ƒ"(	÷ж5jџћ M@І®S@KR!*szK:©ЮѕўE;# ≈¬"	∆№8&6/	  ∆«"	ФЖ;*JJWpMJъШ.  »…"	оƒ7)+/7-  ¬"	ОЦ5
-^_ Ћ¬"	Ц!ґ9?2•ФЙЮ ћ)"	ƒ ¶
-o Ќ'"	ю#ДЈDБ8€H ќѕ"	§$rгV]( –'"		ќ!Д
-hЪ/ —%""	Їю
-JUЖѕОп¶ЛPI=dї}ЧЩЯ “'"	§$r
-% ”‘"	А$и
-6$ ’÷"	†#‘Ш* „Ў"	Є&÷
-' ўЏ"	ђ$ъ	:÷%Ж	Щ
-ѕL§ D. џ№"	§в"J'2#МT ЁВ"F	®Ґ  G•Рж)<P+≤Љ	M/®*T"T:6tАъБМЗЅ± ёя"	Ц%шу_є5c аб"	Ж&“	
- вг"	ƒ%§
-`c де"
-	Њ'д
-√Ї ж)"	И*Ж
-OV зи"H	≤%ЯЇI†	3J6;zUФl(Д.оlЮ®@6В∞ƒ‘РШ^:§TмЏмшzZƒА йк"	Љ*а	
-* лм"
-	ш*§	 ! н+"
-	ј'р.&jj оп"	ц+а
-1 рВ"
-	Р,И
-Ѓі# с+"	К,Џ2ЮКМ5 1Qµ( ту"	Ь-≤:∞л+[%Е-їQэ=°$ фх"	Ш$Џ2I#ЈKЅCщUС+/_- цВ"	Ф ИR'€#Гq»0Ъ4Аd*>0t  чш"	ф"ц
-2 щъ"	Ў#т
- ыь"	Љ%®
-Y эъ"	Ў#тhnЂХQ4 ю€"&	м%ВjwI2Б7Щ∞x~PќО-†B А”"		т%Ґ
-NТ$ БВ"	Д#÷!*ЧЛ±≠mq∆л' В”"	Ї#д
->[ Гъ"M	к&÷в
-ЧХ‘p∆ЕЙп#„N/!Щ/ЭPэD+#q
-°С #Фx~d  ДЕ"	Ї%ћ*є'£   ЖЗ"	ъ%“?µЂґR ИВ"D	ю(¶ЇњЊ¬ЉL<ШRТ2N
-Rj`L"0F&Ѕш‘ћ*ЩъХ[ЭшtN ЙК"	к+¶
-4! Л)"	о.™
-( МН"	і*¬
- ОП"		№,Џ
-Г РС"	О.“СJs ТУ"	ј,§
-@> ФХ"0	Ї%‘В@Бpф‘
-№Ѓlpј6&Rђ>4$+<cАљ03/ ЦЧ"!	≤,Џb№ЊР ((J~& Шк"	Ї0,
-b Щк"	И0ш
-R, ЪЫ"	р/Њ"м
-	)» ЬЭ"		Д1™
-qЯ ЮЯ"	О3¬
- †°"	д3Ѓ
-!! ҐВ"	ж4Є
-*ceЙi©≥ £§"	“4Ґ
-5•qЩ7Ч •¶"
-	÷4Ш J% І7"	Ж7“BУ#)1П-)I  ®Ы"	ф4к*Z~>ШЃ" ©Э"	Д1™
-R' ™Э"	Ѓ1ю
-)S ЂЭ"	Ѓ1ю
-$ ђЭ"	К2Т7Чk4 ≠Ѓ"&	О,Рj(np&0
-6Z(h8іќЕb/¶3Т3ОIF ѓ∞"	К2Т>Nƒ3 ±5"&	™8“jYp&$Ї®Ѓо 0Kж=К#F.
-" ≤≥"	“4Ґ
-24p§J>!И і5"	Р8ƒ
- µґ"	Ь96,"Є( Ј7"	Ц94JЧ∞Gl)ф ∞
- ,x Єґ"	“9і
-0 є7"#	Ѓ:Яju†&@6h<:B`Тъ Їґ"	о9Ґ",
-x їЉ"		¶;¬
-
-ѓ љ7"	А=А
- Њњ"	Ю;А	хг@, ј7"	Ж7“RHЏFОкH ∞"ЊN8 Ѕ¬"		÷9Д
-3Ю √¬"	∞8М
-r ƒ)"	Д<∆
-" ≈∆"	К0Д"VЙрУ#%J «В"<	Ю0К™JНёх_їЌ{#w%ЙмK`lЪJЬ&8?ф'ЖH$.F>% »…"	ђ1ю:РTL( Hcnє(!@Б  Ћ"	д0∞
-+J ћ)"	÷1¬
- Ќќ"	и2м
- ѕВ"	р1ь"@*2Р\" –—"	ј0†
-4 “”"	К0м<GіЭ$ ‘’"	»0Т:ќ	N®%Co1 ÷„"		Џ0к
-sД Ў’"	р4»
-! ў’"	М5“Ф£" Џџ"
-	д7ф! №)"	ƒ;д
-
- Ё)"	Ц;Њ
-, ёя"	А8ДBђІРЭzє)5г 7"Ђlг аб"	Ю;Т"dКTНw вг"	в= ":Q- де"	¶:÷«•Ђ& жя"	Ш<ќњБ$ зи"	–7ьBd*!& 6!BB йк"	т:В
-
-U лм"	Ѓ<™"%**!> н)"	Ў>Т
-& оп"	ґ;Д:
-ТЉvH®vМR рс"		–>Ь
-СY ту"	ј?Џ"	(M~чо фх"	Р<ё
-D цч"	И?ј ≠ЩЂ{ шщ"
-	ц!Ж #* ъщ"	¶!¬ 
-4? ыФ"	Љ!Ш 
-*," ьэ"	м Ў#:99+5-)+/haCO ю€"
-	Ь"А%AEma АБ"	ф#а$
-E? ВГ"	Р$Њ 
-pp ДЕ"	И'ё!
-J0$ ЖХ"	ґ%ƒ$2ЬН$3#?•±* ЗИ"	¶!¬ :ФЖАВ$"»ƒОД((
- ЙК"	ё$м#it<Fит' Лэ"	Р(к(BУ;7)AOџб МН"	ЏШ+КЛN5)C ОП"	Д#Ґ+3#AЗ) РС"	К!†,R
-|`pАZJB(|!	 ТУФ"	ю$Ф+2A:r^7	KQ Хч"	Д&ц*
-x ЦЧ"	К'ш,**95Чs ШЩ"
-	и%о+
-м÷ ЪЫ"	Ь- " °Ш, Ьэ"	Ф)Ж*eЯ+ Эи"	ђ%“+RF/Y "	»>Ъ,∞! ЮЯ"	ж(в.*ґѓС †°"	А-в)*'>V)o Ґ£"	ґ-а)
-2 §•"$	“+»2j§;¶5QLуcEЌu ¶І"	≤/Љ.
-Vr ®©"d	¬%к+jVT~bЇƒК–ђЄФМ∆вє“Йt√и7>cb	ы ВЙЯ}УњїйЂЫc3+Б}ўп©ІqpЂ…+l ™¬"
-	Љ"а:{led Ђ¬"	§#і;
- 1 ђ≠"	ґ%Ў?"8DF8, Ѓѓ"	Є%∞+JRNXJ(0* RV`tґоґшш§ ∞Щ"
-	‘)ƒ/
-ъ≤ ±≤"	М1¬0"Лф?
- ≥©"		м-ђ5
-eЖ і≤"	 -м4¬0@ µи"2	ќ,д)Ґhl-V7TQ*K"PЙ()$MNm$C<OpєrЫ3Xk~]t9 ґЈ"	†3Ш"
-6(N Єч"@	Ѓ<™¬A)}3_Б≈6°XM\-./D7\5F3fЁИБЎ1F=4?k6GЭ(# e«\ єЇ"		Ю1р%
-Ъ  їЉ"	¶0§'
-  љЊ"	а1Ц%Ў њј"	†5и** Ѕј"	Ж6≤ >0b6ƒВ ¬√"	Џ7Љ!
-8[) ƒ≈"	÷.ц,J(IТзCbП1 :a$> ∆«"
-	‘:†!
-’З" »…"	∞9Ъ#*t°
-В≈vг  Ћ"
-	ґ;М pD ћ…"	§:ш!®ƒb, Ќќ"	ц;™%ўп ѕ–"	Ѓ=и#"*Ж	 —“"	 >Ф'S?”С+I ”≤";	Ї/Љ-ТR<іl|≠ јјоЮРІho8U,#ОЙrЫBS∞«rНJIly†≥ ‘’"	®<к)ЗІ1?O3 ÷„"
-	ф:Џ+
-аТ Ўў"	Ї9И-"fDxVЎР
-+ Џџ"	ќ,ц2JЎ≤nM`{§ПHE,/F?ZН,K- №Ё"	А1†8b BI'NE<>L¶?
- ёя"		Ў5Њ1
-Хm аб"	Ў5Њ1*bs.-N<"$F вг"8	 %ж+ВH JPЖhИЪ™‘¶М‘ЪћЏ&ВШДЖИі <""B. де" 	¶0®7JДD`<ФЉҐ∞ҐмNђHv4^! жз"	и<Љ/* q№#"У–)F2 ий"$	Ж6Њ=j`iL)0@	@b<Ф1ЬG|	‘KА- A  кл"	∞<ф:2 #!!-S) мн"	Ю<ь9
-,  оп"	В@Т
-Ю	 jAю рс"	†Aв
-
-O  ту"	Т;Тё† " ф¬"	Ґ9Ґ2ё∆
-r х)"	РA™
-)" цч"	ј?Џ:@k3
-2I(1  шч"	†Aі"ЯЛwg0 щи""	т:Вj2&B*А4L<8&**$l6HD,Ъz ъы"	‘@р$
-L" ьэ"	 >Ф'"ґxvJ""
-" ю€"	АAр9*Kё3ћР
-†6$ АБ"	ОР=:5".VЬж8#P$ ВГ"	д$ґ<:yh&(* Т@\	W4 ДЩ"
-	≤8М@8n&# ЕЖ"	–8ё@:ƒ5^'&J4.;x
-nigeria_cluster(А FID" ый  "	†AЯ јBњB  њB

@@ -1,4361 +1,0 @@
-⁄°x
-kedco_lines(Ä osm_idname
-other_tags"
-17214"
-GAIDA MAIN LINE"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"33""
-22100"	
-DAWANAU"
-65"
-
-BUK (NIPP)"è
-å"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15","substation"=>"injection","voltage"=>"33""
-12078"
-	Kwankwaso"
-22213"
-22217"
-21911"
-	BACHIRAWA"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"11""
-21916"
-21915"
-21597"
-21594"
-BACHIRAWA FEEDER"
-128"
-Barrack Feeder"
-20521"
-Nefza Branch, (Kurna Feeder)"
-20523"4
-2Tope Tajudeen Branch, Nefza Branch, (Kurna Feeder)"
-20522"
-19482"
-
-kaura goje"
-19483"
-KAURA GOJE (shinge branch)"
-19485"
-
-KAURA GOJE"
-19971"
-
-TUDUN WADA"
-17470"
-IDH"
-17471"
-17469"
-17362"
-11785"
-Gezawa feeder"Q
-O"operator"=>"KEDCO","power"=>"line","ref"=>"33KV GEZAWA FEEDER","voltage"=>"33""
-12706"
-AMINU KANO(DAUSAYI BRANCH)"
-17323"
-AMINU KANO FEEDER"
-22161"
-22421"
-11KV AMINU KANO FEEDER"h
-f"cables"=>"triple","gauge"=>"150","operator"=>"KEDCO","power"=>"line","unit"=>"Kabuga","voltage"=>"11""
-12364"!
-BUK FDR BRANCH (IBRAHIM KHALIL)"
-12120"
-BUK FDR BRANCH"	
--233523"
-12343"
-BUK FDR BRANCH (AG)"
-12119"
-BUK FDR BRANCH(R/SHEHU)"
-12363"
-UNITY BRANCH"	
--233525"
-12355"
-BUK FDR BRANCH(DORAWA Y/KIFI)"
-12344"
-BUK FDR BRANCH (UBALE CUSTOM)"
-12356"
-BUK FDR BRANCH(UBALE CUSTOM)"
-12348"
-11KV R/ZAKI FDR"
-11932" 
-BUK FDR RIMIMN GATA SUB BRANCH"
-11931"
-BUK 33KV FDR R/GATA BRANCH"
-11933"&
-$BUK 33KV FDR (UNGUWAR WAMBAI BRANCH)"
-69"
-BUK Feeder - Dan Bare Branch"
-12362"
-
-BUK BRANCH"
-11934"
-BUK FDR BRANCH (IO LAWAL)"
-57"
-
-BUK Feeder"
-11935"
-BUK FDR BRANCH (ADO BAYERO)"
-11945"
-BUK FDR BRANCH(MAIUNGUWA)"
-12823"
-Chiranchi Santana Branch"G
-E"operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"11""
-12829"
-Chiranchi Riga Branch"
-12064"
-BUK FDR BRANCH TASIU"
-11946"
-BUK BRANCH( SADIQ)"
-11948"
-BUK FDR BRANCH IMAM WALI"
-11949"
-11977"
-12059"
-BUK FDR BRANCH(T/YOLA)"
-12004"
-11975"
-BUK FDR BRANCH 2ND GATE"
-11976"
-11950"
-BUK FDR BRANCH SADIQ 2"
-12822"
-Chiranchi Old Airforti Branch"
-11947"
-BUK FDR APCU BRANCH"
-11951"
-BUK FDR SUB BRANCH(FORESTRY)"
-12831"
-Chiranchi Tinga Branch"
-12830" 
-Chiranchi Unguwar Amare Branch"
-12825""
- Chiranchi Gidan Mahukatai Branch"
-12821"
-Chiranchi Gidan Sarki Branch"
-13386"/
--Gobirawa Branch, Dorayi Branch(Kabuga Feeder)"
-13384"B
-@B.U.K Outlet Branch,Gobirawa Branch,Dorayi Branch(Kabuga Feeder)"
-13390",
-*Karshenwaya, Dorayi Branch (Kabuga Feeder)"
-12832" 
-Chiranchi Unguwar Bello Branch"
-12833"
-Chiranchi Kanfako Branch"
-12824" 
-Chiranchi Durawar Malla Branch"
-12828"
-	Chiranchi"
-12840"6
-4Chiranchi Gidan Sarkin Dutse Branch By Abubakar N. A"
-12841"-
-+Chiranchi Dr. Ahmad Branch By Abubakar N. A"
-20251"#
-!Chiranchi Branch By Abubakar N. A"
-12837"
-12836"0
-.Chiranchi Gado da Masu Branch By Abubakar N. A"
-12835"/
--Chiranchi Hassan Gaya Branch By Abubakar N. A"
-12834"5
-3Chiranchi Gidan Sarki Dutse Branch By Abubakar N. A"
-21910"
-21908"
-21917"
-20695".
-,MAI-UNGUWA ALI BRANCH,(FEDERAL SECT. FEEDER)"
-20686">
-<FILLING BALL BRANCH,KOFAR RUWA BRANCH,(FEDERAL SECT. FEEDER)"
-20701">
-<YAN-DILLALAI BRANCH,KOFAR RUWA BRANCH,(FEDERAL SECT. FEEDER)"
-20681"&
-$ALBARKA BRANCH,(FEDERAL SECT.FEEDER)"
-20682"*
-(DAN-DINSHE BRANCH,(FEDERAL SECT. FEEDER)"
-22070"
-21912"
-20692"*
-(KOFAR RUWA BRANCH,(FEDERAL SECT. FEEDER)"
-20278",
-*KEY STONE BANK BRANCH,(ORTHOPEADIC FEEDER)"
-20413"'
-%Alaj Petroleum Branch, (Kurna Feeder)"
-20282"(
-&MUSA ILIYA BRANCH,(ORTHOPEADIC FEEDER)"
-20439""
- Zenith Bank Branch, Kurna Feeder"
-20696";
-9MAKABARTA BRANCH,KOFAR RUWA BRANCH,(FEDERAL SECT. FEEDER)"
-20704"
-federal sect."
-20685"'
-%ESTATE 2 BRANCH,(FEDERAL SECT.FEEDER)"
-12691"
-A/KANO"
-12685"
-"operator"=>"KEDCO""
-12690"
-12689"
-11KV A/KANO( K/WAIKA BRANCH)"
-20276":
-8BADAKKARA BRANCH,KOFAR WAIKA BRANCH,(ORTHOPEADIC FEEDER)"
-12688"
-11KV AMINU KANO FDR"
-12686"
-11KV A/KANO FDR"
-22342"h
-f"cables"=>"single","gauge"=>"100","operator"=>"KEDCO","power"=>"line","unit"=>"Kabuga","voltage"=>"11""
-20683"'
-%DAN-INU BRANCH,(FEDERAL SECT. FEEDER)"
-20702"&
-$ZAIN 1 BRANCH,(FEDERAL SECT. FEEDER)"
-20694"/
--KWANAR YAN-TAYA BRANCH,(FEDERAL SECT. FEEDER)"
-20279")
-'KOFAR-WAIKA BRANCH,(ORTHOPEADIC FEEDER)"
-20292"8
-6MALAMAI BRANCH,KOFAR WAIKA BRANCH,(ORTHOPEADIC FEEDER)"
-20283"
-ORTHOPEADIC"
-20433"#
-!Orthopedic Branch, (Kurna Feeder)"
-20275"8
-6A.B.Y BRANCH,YALWAN NASIDI BRANCH,(ORTHOPEADIC FEEDER)"
-20280"=
-;LITI KUL-KULBRNCH,YALWAN NASIDI BRANCH,(ORTHOPEADIC FEEDER)"
-20286",
-*YALWAN- NASIDI BRANCH,(ORTHOPEADIC FEEDER)"
-12692"
-AMINU KANO(WRECA BRANCH)"
-21891"%
-#PRISON BRANCH,(KOFAR NA'ISA FEEDER)"
-21890"0
-.MTN BRANCH,PRISON BRANCH,(KOFAR NA'ISA FEEDER)"
-20285"@
->YALWA PRIMARY BRANCH,YALWAN NASIDI BRANCH,(ORTHOPEADIC FEEDER)"
-17335"
-Jakara"
-21871"2
-0AYAGI BRANCH,AISAMI BRANCH,(KOFAR NA'ISA FEEDER)"
-134"
-Bukavu"
-17446"
-
-Nomansland"
-20412"6
-4AUB Alluminium Branch, Fed Sec Branch,(Kurna Feeder)"
-20414"!
-Alh. Ahmad Branch, Kurna Feeder"
-20434"
-20277"&
-$ESTATE 3 BRANCH,(ORTHOPEADIC FEEDER)"
-20684"(
-&ESTATE 1 BRANCH,(FEDERAL SECT. FEEDER)"
-20513"6
-4Aminu Ado Branch, Federal Sec Branch, (Kurna Feeder)"
-20700"K
-IUMAR ABDUL-AZEEZ BRANCH,GWAMMAJA YAN-KATAKO BRANCH,(FEDERAL SECT. FEEDER)"
-20415"
-20420"$
-"Federal Sec Branch, (Kurna Feeder)"
-20689"3
-1GWAMMAJA YAN-KATAKO BRANCH,(FEDERAL SECT. FEEDER)"
-20687"-
-+GWAMMAJA BOLA BRANCH,(FEEDERAL SECT.FEEDER)"
-20422"8
-6Federal Sec Sub Branch, Fed Sec Branch, (Kurna Feeder)"
-20697"*
-(MASALLACHI BRANCH,(FEDERAL SECT. FEEDER)"
-20688"C
-AGWAMMAJA MASALLACHI BRANCH,GWAMMAJA BRANCH,(FEDERAL SECT. FEEDER)"
-20496" 
-Airport Branch, (Kurna Feeder)"
-20503"+
-)Kabo Air Guest Inn Branch, (Kurna Feeder)"
-20512"%
-#Saidu Welder Branch, (Kurna Feeder)"
-17440"
-Nomansland,MTN branch"
-17445""
- Nomansland,Saidu Maiwalda branch"
-20497"%
-#Badala Hotel Branch, (Kurna Feeder)"
-20495"
-20505"$
-"Max Air Ltd Branch, (Kurna Feeder)"
-20502"/
--Joster Branch, Airport Branch, (Kurna Feeder)"
-17432"
-Nomansland,Baban Gwari branch"
-20498"1
-/Digital Bridge Institute Branch, (Kurna Feeder)"
-20691"%
-#KANZU BRANCH,(FEDERAL SECT. FEEDER)"
-20438"#
-!Uba Leader Branch, (Kurna Feeder)"
-17438" 
-Nomansland,Katsina Road branch"
-20511"&
-$Sabon Gari BU Branch, (Kurna Feeder)"
-20500"%
-#EFCC Kano HQ Branch, (Kurna Feeder)"
-17434"#
-!Nomansland,Custom barracks,branch"
-20501"
-INEC Branch, (Kurna Feeder)"
-17444"$
-"Nomansland,Police quarters, branch"
-17437"
-Nomansland,Hajj Camp,branch"
-20284"&
-$UBA LIDA BRANCH,(ORTHOPEADIC FEEDER)"
-20693"*
-(KUKAR IDAU BRANCH,(FEDERAL SECT. FEEDER)"
-20690"/
--INTER-CELLUULAR BRANCH,(FEDERAL SECT. FEEDER)"
-20281",
-*MUMBAYYA HOUSE BRANCH,(ORTHOPEADIC FEEDER)"
-19620""
- B.OLOJA BRANCH,(GWAMMAJA FEEDER)"
-19626"6
-4MTN BTS BRANCH,MAKAFIN DALA BRANCH,(GWAMMAJA FEEDER)"
-19621"5
-3B.OLOJA Old branch, B.OLOJA BRANCH,(GWMMAJA FEEDER)"
-19624"'
-%MAKAFIN DALA BRANCH,(GWAMMAJA FEEDER)"
-19625"7
-5MASA'UDU BRANCH,MAKAFIN DALA BRANCH,(GWAMMAJA FEEDER)"
-20699")
-'NURA GAGO BRANCH,(FEDERAL SECT. FEEDER)"
-19630"$
-"ZAIN NO.2 BRANCH,(GWAMMAJA FEEDER)"
-19627"(
-&Tagwayen Gida Branch,(GWAMMAJA FEEDER)"
-20698"2
-0MTN BRANCH,SAWAKIL BRANCH,(FEDERAL SECT. FEEDER)"
-20705"'
-%sawakil branch,(federal sect. feeder)"
-19628"$
-"ZAIN BRANCH NO.3,(GWAMMAJA FEEDER)"
-19622"&
-$GADAR SALGA BRANCH,(GWAMMAJA FEEDER)"
-17333"$
-"Bakin Zuwo Branch, (Jakara Feeder)"
-17334"3
-1Econet Branch, Bakin Zuwo Branch, (Jakara Feeder)"
-19374"(
-&Masallci Branch, (Katsina Road Feeder)"
-17337"*
-(Maternity Relief Branch, (Jakara Feeder)"
-17336"
-12553""
- Sani Mainagge (Marmara Hospital)"
-20411"
-AGF Branch, (Kurna Feeder)"
-19623"
-
-GWAMMAJA"
-17439"
-20524";
-9Triumph Printing House Branch, IDH Branch, (Kurna Feeder)"
-19371"(
-&Abbatoir Branch, (Katsina Road Feeder)"
-20514")
-'Clinical Plastic Branch, (Kurna Feeder)"
-19372"
-KATSINA ROAD"
-19629"#
-!ZAIN NO.1BRANCH,(GWAMMAJA FEEDER)"
-20429"
-Kurna Feeder"
-18725"
-Fagge"
-19373",
-*Kofar Wambai Branch, (Katsina Road Feeder)"
-21783"G
-EALKANTARA BRANCH,YOLA BRANCH, MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21801"F
-DYOLA 2 BRANCH, YOLA 1 BRANCH,MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21802"5
-3YOLA BRANCH,MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21800";
-9YAN-ITACE BRANCH, MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21794")
-'MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21786")
-'ECOBANK BRANCH,(KOFAR NASSARAWA FEEDER)"
-18732"*
-(Wambai Dalbe Jiya Branch, (Fagge Feeder)"
-18731"$
-"Wambai Bula Branch, (Fagge Feeder)"
-18728"%
-#KASUWAR KOFAR BRANCH,(Fagge feeder)"
-21785"C
-ADORAYI BRANCH,YOLA BRANCH,MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21795"*
-(SHAHUCHI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21904";
-9MURTALA MUHAMMED HOSPITAL BRANCH,(KOFAR NASSARAWA FEEDER)"
-21799"'
-%UNITY BRANCH,(KOFAR NASSARAWA FEEDER)"
-21903",
-*YAN-SANTSI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21803"9
-7ZANGO BRANCH,KOFAR MATA BRANCH,(KOFAR NASSARAWA FEEDER)"
-20432"2
-0Murtala Muhammad Hospital Branch, (Kurna Feeder)"
-21787"=
-;EMERGENCY BRANCH,KOFAR MATA BRANCH,(KOFAR NASSARAWA FEEDER)"
-17224"	
-G/Dutse"ï
-í"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15MVA","substation"=>"distribution","voltage"=>"33""
-17223"é
-ã"cables"=>"3","circuits"=>"1","frequency"=>"50","layer"=>"1","operator"=>"KEDCO","power"=>"BUK G/Dutse branch","voltage"=>"33","wires"=>"3""
-12707"
-Kabuga"
-12551"
-Sani Mainagge (KCC Line)"
-17295"4
-2WATC Education Quarters II Branch, (Kabuga Feeder)"
-12007"
-BUK FDR BRANCH SHOP WELL KANO"
-12709"
-Kabuga N ID Card branch"
-12006"
-BUK FDR BRANCH FCE KANO"
-17293"!
-MTN BTS Branch, (Kabuga Feeder)"
-17287"
-Gamco Branch, (Kabuga Feeder)"
-12005"%
-#BUK FDR BRANCH DUKA WUYA SUB BRANCH"
-17284"%
-#Dan Gwalalo Relief, (Kabuga Feeder)"
-12710"
-17285"
-Dan Gwalalo, (Kabuga Feeder)"
-17297"
-WTC School, (Kabuga Feeder)"
-17296"
-WTC Quarters, (Kabuga Feeder)"
-13392"E
-CMinistry of Higher Education Branch, Dorayi Branch, (Kabuga Feeder)"
-21872"*
-(BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21885"G
-EKURFI 2 BRANCH,KURFI 1 BRANCH,BALA RABI'U BRANCH(KOFAR NA'ISA FEEDER)"
-21886"7
-5KURFI BRANCH,BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21874"E
-CDALA BRANCH,KURFI 1 BRANCH,BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21875"3
-1DAN-BALA BRANCH,LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21887"#
-!LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21893"7
-5TSOHON GABAS BRANCH,LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21873"2
-0BANUFE BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER0"
-21877"1
-/DAN-LAMI AL-HASSAN BRANCH,(KOFAR NA'ISA FEEDER)"
-21870"3
-1AL-AMIR BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-21883"$
-"KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-21869"&
-$AI-SAMI BRANCH,(KOFAR NA'ISA FEEDER)"
-12559"
-Sani Mainagge"
-12550"#
-!Sani Mainagge (Alh. Samaila Line)"
-21892"*
-(SALLAU MUSA BRANCH,(KOFAR NA'ISA FEEDER)"
-21876"(
-&DAN-IZALA BRANCH,(KOFAR NA'ISA FEEDER)"
-12555""
- Sani Mainagge(Alh. Samaila Line)"
-12557"%
-#Sani Mainagge(Salisu Sambajo House)"
-21888"8
-6MAI-TANGARAN BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-17283"L
-JDamisa Street Branch, Gwale LEA Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17289"6
-4Gwale LEA Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-21878"6
-4DAN-SARARI BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-17291"<
-:Layin Mai Sa'ad Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17286"$
-"Gadan Kaya Branch, (Kabuga Feeder)"
-17294"F
-DMasalachin Mallam Ja'afar Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17290"
-12913"K
-I33KV SHARADA DANGOTE FROM KUMBOTSO TRANSMISSION STATION BY ABUBAKAR N. A."
-12514"
-NNDC Branch By Abubakar N. A"
-12912"
-12512"Y
-W11KV NNDC FEEDER FROM SHARADA 2 X 15MVA, 33/11KV INJECTION SUBSTATION BY ABUBAKAR N. A."
-17288"#
-!Gidauniya Branch, (Kabuga Feeder)"
-17292"
-12511"
-12508"
-12509"
-13393"0
-.Salanta Branch, Dorayi Branch, (Kabuga Feeder)"
-13391"0
-.MTN BTS Branch, Dorayi Branch, (Kabuga Feeder)"
-13385"
-Dorayi (Kabuga Feeder)"
-13388"A
-?ITF Compound Branch, ITF Branch, DorayiBranch, (Kabuga Feerder)"
-13394"7
-5Tsamiyar Kuturu Branch, Dorayi Branch (Kabuga Feeder)"
-13387"+
-)ITF Branch, Dorayi Branch,(Kabuga Feeder)"
-13389"C
-AJa'in Workshop Branch, ITF Branch, Dorayi Branch, (Kabuga Feeder)"
-12839")
-'Chiranchi Ahmad Branch By Abubakar N. A"
-12806"
-Phase III Maitama Branch"
-12805"
-Phase III Ja'en Makera Branch"
-12801"
-Phase III (MTN Branch)"i
-g"cables"=>"triple","gauge"=>"100","operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"11""
-12800"
-Phase III (Dillalai Branch)"
-12531".
-,Housing Estate Sabon Gida Branch By Abubakar"
-12865"
-Sharada Dangote Ahmad branch"
-12527"
-12532"
-12507"
-12866"&
-$Sharada Dangote - Small Scale Branch"
-12528"
-12530"2
-0Housing Estate Salamatu Wofan Branch By Abubakar"
-12533"2
-0Housing Estate Sule Ya'u Sule Branch By Abubakar"
-12529"'
-%Housing Estate MTN Branch By Abubakar"
-12526"-
-+Housing Estate Engr. Aji Branch By Abubakar"
-12534"/
--Housing Estate S.K. Bayero Branch By Abubakar"
-12843"0
-.Sharada Dangote Liman Branch By Abubakar N. A."
-12786"
-Dala Food (Gidan Zobo Branch)"
-12845"*
-(Sharada Dangote Branch By Abubakar N. A."
-12850"4
-2Sharada Dangote Lela Agro Branch By Abubakar N. A."
-12793"
-Dala Food Branch"
-12788"!
-Dala Food (Gidan Gongon Branch)"
-12794"
-12536"/
--Housing Estate Rinji Branch By Abubakar N. A."
-12524"
-Housing Estate (Aswan Branch)"
-12525"
-Housing Estate"
-12849"5
-3Sharada Dangote J.K Carpet Branch By Abubakar N. A."
-12447",
-*Sharada Industrial Branch By Abubakar N. A"
-12852"
-12855"
-Sharada Dangote"
-12795"
-12853"0
-.Sharada Dangote Vasco Branch By Abubakar N. A."
-12791"
-12787"
-	Dala Food"
-12549""
- Sani Mainagge (Alh. Nasidi Line)"
-21881",
-*GIDAN KANKARA BRANCH,(KOFAR NA'ISA FEEDER)"
-21880"*
-(FILIN MUSHE BRANCH,(KOFAR NA'ISA FEEDER)"
-21882"/
--GWALE BRANCH,FILIN D.0 BRANCH,(NA'ISA FEEDER)"
-21884"
-KOFAR NA'ISA"
-21879"(
-&FILIN D.O BRANCH,(KOFAR NA'ISA FEEDER)"
-12554"(
-&Sani Mainagge (Sani Buhari Line, Back)"
-12552"%
-#Sani Mainagge (Kwanar Mai Shinkafi)"
-12556"
-Sani Mainagge(Kwanar Marmara)"%
-#"operator"=>"KEDCO","power"=>"line""
-20375"-
-+SAHAD BRANCH,MANDAWARI BRANCH,(CITY FEEDER)"
-12558"
-Sani Mainagge(T-off)"
-21894"&
-$VETNERY BRANCH,(KOFAR NA'ISA FEEDER)"
-20371"*
-(DISO BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-20372"0
-.GALADANCHI BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-12513"
-12510"
-12520"
-21889""
- MTN BRANCH,(KOFAR NA'ISA FEEDER)"
-20376""
- SORON DINKI BRANCH,(CITY FEEDER)"
-20370"#
-!DALIN GWAMNA BRANCH,(CITY FEEDER)"
-20374" 
-MANDAWARI BRANCH,(CITY FEEDER)"
-20377"3
-1SORON DINKI BRANCH,ALI SANYA BRANCH,(CITY FEEDER)"
-20369"!
-ALI SANYA BRANCH, (CITY FEEDER)"
-20373"-
-+MAGASHI BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-20334"
-GUDINDI BRANCH,(CITY FEEDER)"
-20378"-
-+WAZIRI BRANCH, GUDINDI BRANCH,(CITY FEEDER)"
-20252"
-SAGAGI BRANCH,(SAGAGI FEEDER)"
-20424";
-9Hasiya Bayero Branch, Emirs Palace Branch, (Kurna Feeder)"
-20332"
-CITY"
-20417"$
-"Emir Palace Branch, (Kurna Feeder)"
-20254"%
-#YAR-KWARANGA BRANCH,(SAGAGI FEEDER)"
-21798"*
-(UBA WARU BRANCH,(KOFAR NASSARAWA FEEDER)"
-21784"&
-$BOLA BRANCH,(KOFAR NASSARAWA FEEDER)"
-22118"C
-ADURUMIN ZUNGURA BRANCH,SABUWAR KOFA BRANCH (IBRAHIM TAIWO FEEDER)"
-20333"
-EMIER'S BRANCH,(CITY FEEDER)"
-20419"
-20416"8
-6Aminu Babba Branch, Emir Palace Branch, (Kurna Feeder)"
-22124"J
-HGEZAWA 2 BRANCH,GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22125":
-8GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-21793"
-KOFAR NASSARAWA"
-20437"@
->Sudanese Consulate Branch, Emirs Palace Branch, (Kurna Feeder)"
-22115"?
-=AMINU BABBA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22137"1
-/WALI BRANCH, MUBI BRANCH,(IBRAHIM TAIWO FEEDER)"
-12867"
-12394"
-Sharada Industrial Branch"
-20253"
-SAGAGI"
-12864"
-58"
-
-Dan'Agundi"Å
-"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","substation"=>"transmission","voltage"=>"132""
-12358"
-12901"
-YUSIF ALI BRANCH"
-12518"
-12506"!
-NNDC Main Line By Abubakar N. A"
-12515",
-*NNDC Muntari Aliyu Branch By Abubakar N. A"
-12522"
-12851"
-12903"
-12517"
-12521"
-12516"/
--NNDC Sharada Jumma'at Mosque By Abubakar N. A"
-12519"
-12916"6
-4Sharada Dangote Small Scale Branch By Abubakar N. A."
-12863"
-12902"8
-6Sharada Dangote B & B Leather Branch By Abubakar N. A."
-12904"
-12910"
-12909"
-12907"/
--Sharada Dangote Myer Branch By Abubakar N. A."
-12911"
-12906"5
-3Sharada Dangote Karami Oil Branch By Abubakar N. A."
-13286"H
-F33KV SHARADA BATA FROM KUMBOTSO TRANSMISSION STATION BY ABUBAKAR N. A."
-12361"	
-Sharada"í
-è"frequency"=>"50","location"=>"Sharada","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15MVA","substation"=>"injection","voltage"=>"33""
-12535"#
-!Housing Estate Branch By Abubakar"
-12844"
-12848"
-12443"
-12842"
-12449"
-12442"
-12846"
-12847"
-12445")
-'Sharada Industrial - Kumbotso BU Branch"
-12790"
-12792"
-12789"
-12450"8
-6Sharada Industrial Kwarin Baka Branch By Abubakar N. A"
-12908"
-12914"4
-2Sharada Dangote Crane Oil Branch By Abubakar N. A."
-12915"
-12396"
-12401"
-12360"
-Sharada Industrial"
-12400"
-12395"
-12398"
-12399"
-12905".
-,Sharada Dangote VVY Branch By Abubakar N. A."
-12397"
-12446"
-12393"
-12440"6
-4Sharada Industrial Tukuntawa Branch By Abubakar N. A"
-20240"
-Gaida Dan Gote Branch"G
-E"operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"33""
-20243"
-Gaida Dabare Branch"
-20239"
-Gaida Kuyan Ta Inna Branch"
-20244"
-Gaida FCE Form Branch B"
-20245"
-Gaida Sambajo Branch"
-20241"
-Gaida Kuyan Branch"
-20246"
-Gaida Gwazaye Mosque"
-20242"
-Gaida MTN Gwazaye Branch"
-20228"
-Gaida Dala Building Branch"
-20236"
-Gaida Samegu Old Branch"
-20238"
-Gaida samegu Relief Branch"
-20229"
-Gaida A.U Branch"
-20235"
-Gaida Sani Youth Branch"
-20237"
-Gaida Gwazaye Branch"
-12826"
-Chiranchi Mai Waina Branch"
-12827"
-Chiranchi Yamma Branch"
-12820"g
-e11KV Chiranchi Feeder From Gongoni Injection Sub Station (15MVA, + 2.5MVA 33/11KV) BY ABUABAKAR N. A."
-12807"
-Phase III Branch"
-12811"
-Phase III Kwankwasiyya Branch"
-12810"
-Phase III Shago Tara Branch"
-20233"
-Gaida Relief Branch"
-20234"
-Gaida MTN Branch"
-20231"
-Gaida Gareka Branch"
-20232"
-Gaida Gaida Old Branch"
-12809"a
-_11KV SHARADA PHASE III FEEDER FROM GONGONI 15MVA + 2.5MVA INJECTION SUBSTATION BY ABUBAKAR N. A"
-20227")
-'GAIDA Fed. Min. of Water Resource Brach"
-20230"
-Gaida Gida Kuka Branch"
-20226"
-GAIDA"
-55""
- Kumbotso Transmission Substation"ö
-ó"frequency"=>"50","location"=>"Outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"30","substation"=>"33000","voltage"=>"330000/132000/33000""
-11943";
-9Panshekara 11KV feeder, Williams Branch, Muhammad, SAM 05"
-11937">
-<Panshekara 11KV Feeder, Layin Kampani Branch,Muhammad,SAM 05"
-11941")
-'Panshekara 11KV Feeder, Muhammad,SAM 05"
-11936"	
-Chalawa"ç
-ä"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x1500","substation"=>"33000","voltage"=>"33""
-12067"
-Garu"ï
-í"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x30","substation"=>"33000","voltage"=>"132000/33000""
-22438"
-ATM"
-11999"
-
-Abbatoir"í
-è"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"7500","substation"=>"Distribution","voltage"=>"11""
-18926"&
-$Ceramic 11KV feeder, Muhammad,SAM 05"
-11938"
-18927"
-12066"
-12035" 
-Ceramic Feeder,Muhammad,SAM 05"
-12037"
-Ceramic feeder"
-11923""
- ATM 33KV Feeder,Muhammad, SAM 05"
-11940"
-11944"+
-)Panshekara 11KV feeder,Tsohon Gari Branch"
-11942"
-13007"
-NBC"
-11928"
-12036"
-11921"
-11924"
-11920"
-12034"
-13006""
- NBC 11KV feeder, Muhammad,SAM 05"
-13005"
-13008"
-11925"
-11926"
-13012"
-12040"
-
-NBC feeder"
-12002"
-NBC Feeder,Muhammad,SAM 05"
-12038"
-13011"
-11929"
-
-Kano Tan"
-13009"
-11922"
-11927"
-13010"
-11998"
-
-ATM Feeder"
-12003"
-
-NBC Feeder"
-12039"
-NBC Feeder, Kirimbo Branch"
-13013"
-11939"
-12700"
-CHALAWA FEEDER6,ADNAN,SAM 05"
-12701"
-11919"
-11918"
-12804"
-Phase III Ja'en Branch"
-12812"
-Phase III Limamai Branch"
-12808"
-Phase III Dango Branch"
-13341"*
-(Angel Spaniners Branch By Abubakar N. A."
-13284"
-
-Spannish I"
-12802"
-12803"
-13337"
-12799"$
-"Phase III Branch By Abubakar N. A."
-13343"5
-3Angel Spaniners Jana Water Branch By Abubakar N. A."
-13346"
-13339"K
-I33KV ANGEL SPANINERS FROM KUMBOTSO TRANSMISSION STATION BY ABUBAKAR N. A."
-12854"
-13342"
-12797"
-13347"/
--Angel Spaniners S. E Branch By Abubakar N. A."
-13345"H
-F"frequency"=>"50","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-12818"
-12816"
-12796"
-Phase III Main Line"
-13344"
-13340"
-Angel Spaniners"
-13285"
-Spannish II"
-12798"
-12857""
- Sharada Dangote (Gongoni Branch)"
-12858"
-12783"8
-6GONGONI INJECTION SUB STATION (2.5MVA + 15MVA 33/11KV)"ü
-ú"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2.5MVA + 15MVA","substation"=>"distribution","voltage"=>"33;11""
-12859"
-12860"
-12817"
-12819"
-12813"
-12861"
-17268"
-12856"2
-0Sharada Dangote Gongoni Branch By Abubakar N. A."
-12779"
-12862"
-12814"
-13338"
-12815"
-13287"
-Sharada Bata"
-12781" 
-Dala Food - Angel Court Branch"
-12780"
-Dala Food (Royal Foam Branch)"
-12785"
-Dala Food - Burbugaje Branch"
-12784"%
-#Dala Food - Burbugaje Relief Branch"
-12448"
-12441"`
-^11KV SHARADA INDUSTRIAL FROM SHARADA 2 X 15MVA, 33/11KV INJECTION SUBSTATION BY ABUBAKAR N. A."
-12444"7
-5Sharada Industrial Gidan Fako Branch By Abubakar N. A"
-12439"9
-7Sharada Industrial Kerayin Isah Branch By Abubakar N. A"
-6879"	
-bagauda"
-6882"
-12000"
-12001"	
--233555"	
-Bagauda"
-20506"!
-NAF Base Branch, (Kurna Feeder)"
-20494"!
-Airforce Branch, (Kurna Feeder)"
-17441"
-Nomansland,NDLEA branch"
-17429"(
-&Nomansland, Living Faith Church branch"
-17435"
-Nomansland,Fanmlk"
-20509"
-20508"
-17303"
-Sabon Gari (Bara da zuwa)"
-17299"
-Sabon Gari ( MTN)"
-17430"
-Nomansland, Sanyaolu branch"
-17309"
-Sabon Gari (Odutola)"
-17431"
-Nomansland,Airtel branch"
-20499"?
-=Diplomatic Suits Branch, Sabon Gari BU Branch, (Kurna Feeder)"
-20507"D
-BRoyal Tropicana Motel Branch, Sabon Gari BU Branch, (Kurna Feeder)"
-17307"
-Sabon Gari (Jonah Abba)"
-17442"
-Nomansland,New kowa branch"
-17308"
-Sabon Gari (MTN)"
-17369"
-Abuja, Ibadan Road branch"
-17375"
-Abuja,New Road branch"
-17311"
-
-Sabon Gari"
-17374"
-17372"
-Abuja,Aiteken Road branch"
-17376"
-Abuja,Total branch"
-17370"
-Abuja, Middle Road branch"
-17373"
-Abuja,Court Road branch"
-17368"
-Abuja (New Road)"
-17443"
-Nomansland,PRP branch"	
--233475"
-NEW NOMANSLAND"
-19479"
-17472"
-17473"
-PRP INJ. S/S"Ø
-¨"branch"=>"DAKATA BUSINESS UNIT","location"=>"OFF AIRPORT ROAD, KANO","operator"=>"KEDCO","power"=>"substation","rating"=>"7.5","substation"=>"distribution","voltage"=>"33""
-17436"
-Nomansland,Ganduje branch"
-19481"
-19480"
-19488"
-KAURA GOJE (DANMALAM BRANCH)"
-19487"
-20145"	
-BRIGADE"
-20153"
-20150"
-20152"
-17433"
-Nomansland,Court Road branch"
-20510"
-20504"E
-CMarley Pharmaceuticals Branch, Sabon Gari BU Branch, (Kurna Feeder)"
-17306"!
-Sabon Gari (Igbo/Bhallathughes)"
-17300"
-Sabon Gari (Aba road)"
-13361"
-
-IDH FEEDER"
-17301"
-Sabon Gari (Airtel)"
-17304"
-Sabon Gari (Enugu road)"
-17310"
-Sabon Gari (Warri road)"
-17302"
-Sabon Gari (Aiteken Road)"
-13363"
-17305"
-Sabon Gari (Igbo Road)"
-20151"
-20149"
-20517"
-IDH Branch, (Kurna Feeder)"
-22243"¶
-£"branch"=>"Sabon Gari","frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15","substation"=>"injection","voltage"=>"33""
-18726"
-20520",
-*Murna Travel Agency Branch, (Kurna Feeder)"
-17298"
-Sabon Gari ( Aminu Road)"
-13362"
-18733"
-Wapa Branch, (Fagge Feeder)"
-18729"#
-!Masallachi Branch, (Fagge Feeder)"
-18727"&
-$Haruna Kassim Branch, (Fagge feeder)"
-18730"(
-&Offishin Wakilin Yamma, (Fagge Feeder)"
-18724"
-Anwawu Branch,(Fagge Feeder)"
-17371"
-Abuja,Airtel branch"
-17366"
-Abuja ( Main Line)"
-12422"-
-+Murtala Muhammad Feeder,Diamond bank Branch"
-12424")
-'Murtala Muhammad Feeder,Galadima Branch"
-17365"
-Abuja ( MTN)"
-12428"*
-(Murtala Muhammad Feeder,Skye bank Branch"
-12423")
-'Murtala Muhammad Feeder,ECO bank Branch"
-12425".
-,Murtala Muhammad Feeder,Galadima road Branch"
-12429"-
-+Murtala Muhammad Feeder,Stanbic IBTC Branch"
-12416"6
-4Murtala Muhammad Feeder, Sheik Jidda Hospital branch"
-12414")
-'Murtala Muhammad Feeder, M M Way branch"
-12406" 
-Murtala Muhammad Feeder branch"
-12421"+
-)Murtala Muhammad Feeder,Ado Bayero branch"
-12402"*
-(Murtala Muhamad Feeder,Bello Road branch"
-18723"
-Alkali Branh, (Fagge Feeder)"
-20425"&
-$Isa Carpenter Branch, (Kurna Feeder)"
-21792"E
-CKOFAR MATA RELIEF BRANCH,KOFAR MATA BRANCH,(KOFAR NASSARAWA FEEDER)"
-21791",
-*KOFAR MATA BRANCH,(KOFAR NASSARAWA FEEDER)"
-21789"A
-?ISYAKA RABI'U BRANCH,KOFAR MATA BRANCH,(KOFAR NASSARAWA FEEDER)"
-21797"=
-;STADIUM 2 BRANCH,KOFAR MATA BRANCH,(KOFAR NASSARAWA BRANCH)"
-21782".
-,ALKALI HAMZA BRANCH,(KOFAR NASSARAWA FEEDER)"
-21796"
-	STADIUM 1"
-22123")
-'GARBA A.D BRANCH,(IBRAHIM TAIWO FEEDER)"
-22119"8
-6ECOBANK BRANCH,GARBA A.D BRANCH,(IBRAHIM TAIWO FEEDER)"
-22121"*
-(FIRST BANK BRANCH,(IBRAHIM TAIWO FEEDER)"
-22130"@
->KEY STONE BANK BRANCH,UNION BANK BRANCH,(IBRAHIM TAIWO FEEDERD"
-22136"*
-(UNION BANK BRANCH,(IBRAHIM TAIWO FEEDER)"
-22120"?
-=FIDELITY BANK BRANCH,UNION BANK BRANCH,(IBRAHIM TAIWO FEEDER)"
-22114"=
-;ACCESS BANK BRANCH,UNION BANK BRANCH,(IBRAHIM TAIWO FEEDER)"
-12426"0
-.Murtala Muhammad Feeder,Mainstreet bank branch"
-12431"%
-#Murtala Muhammad Feeder,Wema branch"
-12410"&
-$Murtala Muhammad Feeder, FCMB branch"
-12420",
-*Murtala Muhammad Feeder, bello road branch"
-12411"/
--Murtala Muhammad Feeder, Fidelity bank branch"
-12432",
-*Murtala Muhammad Feeder,Zenith bank branch"
-12427".
-,Murtala Muhammad Feeder,Only Computer branch"
-12430"&
-$Murtala Muhammad Feeder,Uzoma branch"
-22113"Q
-OA.G. ABDULLAHI BRANCH,HALAL FOOD BRANCH,YANSIMITI BRANCH,(IBRAHIM TAIWO FEEDER)"
-11042"	
--233549"
-	Bank Road"	
--233553"	
--233551"
-22122")
-'GAP HOTEL BRANCH,(IBRAHIM TAIWO FEEDER)"
-22126"%
-#HALAL BRANCH,(IBRAHIM TAIWO FEEDER)"
-22127">
-<HALAL FOOD BRANCH,YAN SIMINTI BRANCH, (IBRAHIM TAIWO FEEDER)"
-22132"J
-HMALATA BRANCH,HALAL FOOD BRANCH,YANSIMINTI BRANCH,(IBRAHIM TAIWO FEEDER)"
-22139"+
-)YAN-SIMINTI BRANCH,(IBRAHIM TAIWO FEEDER)"
-17364"
-Abuja ( Ado Bayero Square)"
-17367"
-Abuja (Church Road)"
-12405"*
-(Murtala Muhammad Feeder ECO bank, branch"
-12412"+
-)Murtala Muhammad Feeder, Igbo Road branch"
-12438"1
-/Murtala Muhammed Feeder,SabonGari Marted branch"
-12403",
-*Murtala Muhamad Feeder,Charted bank branch"
-11057"
-	Bank road"k
-i"cables"=>"triple","gauge"=>"150","operator"=>"KEDCO","power"=>"line","unit"=>"Nassarawa","voltage"=>"11""
-12417".
-,Murtala Muhammad Feeder, Stanbic IBTC branch"
-12419",
-*Murtala Muhammad Feeder, Yantumatur branch"
-11038"
-12408"+
-)Murtala Muhammad Feeder, Coca Cola branch"
-11053"
-11062"
-11039"
-12407"(
-&Murtala Muhammad Feeder, Airtel branch"
-12409"/
--Murtala Muhammad Feeder, Engr Bandutse branch"
-11063"
-22388"
-Bank Road (Yan Crane T-Off)"
-12661"
-
-Unity Bank"
-21701"
-FLOUR MILLS"
-11966"(
-&Indepedence Feeder, ECWA Hospt. branch"
-12404"/
--Murtala Muhammad Feeder ABY Petroleum, branch"
-12418")
-'Murtala Muhammad Feeder, Starlling bank"
-12413".
-,Murtala Muhammad Feeder, Lagos Street branch"
-12433"0
-.Murtala Muhammed Feeder Enterprise bank branch"
-12436"-
-+Murtala Muhammed Feeder,Diamond bank bransh"
-11066"
-22360"
-	Audu Bako"
-97""
- Audo Bako to Tafawa Balewa North"
-22389"
-12625"
-	CBN cont."
-12437")
-'Murtala Muhammed Feeder,ECO bank branch"
-11030"
-Makama oil branch"
-112"
-Audo Bako to Zenith Bank"
-11031"
-Startimes branch"
-22361"
-22358"
-22363"
-12636"
-12434"#
-!Murtala Muhammed Feeder Main Line"
-12415"$
-"Murtala Muhammad Feeder, PZ branch"
-22387"#
-!Bank Road (Royal Tropicana T-Off)"
-12632"
-22376" 
-'Yan crane branch of Bank road"
-11037"
-11058"
-11043"
-11069"
-12624"
-11072"
-11050"
-11045"
-11054"
-11079"
-Post office branch"
-11078"
-11077"
-11052"
-11046"
-11067"
-11044"
-12640"
-CBN"
-12626"
-22385"
-Bank Road (Audu Lukat T-Off)"
-11074"
-22386"
-12602"
-Abacha"
-11065"
-22117"R
-PCIVIC CENTER BRANCH, HALAL FOOD BRANCH, YANSIMINTI BRANCH,(IBRAHIM TAIWO FEEDER)"
-11048"
-11080"
-22129"_
-]KARAMCHI BRANCH,CIVIV CENTRE BRANCH,HALAL FOOD BRANCH,YANSIMINTI BRANCH(IBRAHIM TAIWO FEEDER)"
-74"
-11073"
-12650"
-
-First Bank"
-11076"
-11060"
-Bank Road (Airtel BTS T-Off)"
-11068"
-11049"
-22356"
-11056"
-12639"
-11047"
-Bank Road (T-Off)"
-11059"
-11055"
-11040"
-	bank road"
-11061"
-12629"
-22365"
-77"
-Audu Bako to Dr Ali Tahir"
-78"
-72"
-12597"•
-¢"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-73"
-75"
-Audu Bako to Mayu road"
-22357"
-12623"
-12634"
-22377"
-Abbas Road Branch"	
--233541"
-CLUB 33KV FEEDER"
-11026"<
-:Bank of the North Guest House (Quarter House Hotel) Branch"
-12637"
-19489"
-20148"
-20146"
-20076"
-	GWAGWARWA"
-20077"
-20075"
-20078"
-19970"
-19966"
-19969"
-19968"
-19967"
-19974"
-MTN BTS GAMA"
-19972"
-TUDUN WADA kankare branch"
-19973"
-20070"
-20073"
-20071"
-11972"
-Mobil Junction"
-11968"&
-$Independence Feeder, Noma Oil branch"
-21705"
-21708"$
-"FLOUR MILLS (PROPOSED FLEXIBILITY)"
-11971"
-Independence"
-21696"
-11962"
-20074"
-19944"
-19946"
-19975"
-20072"
-21707"
-21702"
-21699"
-13360"
-11973"
-Pyramid Junction"
-19945"
-17359"
-17358"
-17236"
-	MAIMALARI"
-17468"
-17360"
-17241"
-17240"
-20633"
-20637"
-20641"
-17235"
-21704"
-11974"
-Tower Junction"
-21695"
-11964"
-Dykhe Junction"
-20631"
-21694"
-17239"
-17237"
-21700"
-21703"
-17238"
-17234"
-12050"-
-+Maimalari Road,branch of Bompai 11KV Feeder"
-13332"
-MTN"
-19434"	
-GASKIYA"
-19439"
-13335"
-12052"
-Tower Galvanise"
-12042"
-Bompai Feeder, Maimalari road"
-12046"
-Bompai"
-12044"
-Bompai Feeder,Triumph branch"
-11970"
-Independence,Eldorador branch"
-21698"
-11967"*
-(Independence Feeder, Maganda Road branch"
-11963"
-11960"
-21697"
-20147"
-11969""
- Independence, Old Cemetry branch"
-11965"&
-$Indepedence Feeder Branch, Club Road"
-80"
-Audu Bako to Manganda Road"
-11958"
-11959"
-11961"
-12635"
-51"
-12435"'
-%Murtala Muhammed Feeder,Airtel branch"
-11041"
-11070"
-21731"
-21721"
-20632"
-11580"
-Club"í
-è"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"3x15MVA","substation"=>"injection","voltage"=>"33""
-11578"v
-t"cables"=>"3","circuits"=>"1","frequency"=>"50","line"=>"busbar","operator"=>"KEDCO","power"=>"line","voltage"=>"33""
-11075"±
-Æ"branch"=>"Tajudden Rabiu Gwadabe","circuits"=>"1","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","ref"=>"150 X 3 core XLPE","voltage"=>"11""
-11496"æ
-ª"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"100 m","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","ref"=>"150 X 3 core","voltage"=>"11""
-11590"
-Badawa"§
-°"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-11579"
-11696"
-Race Course"•
-¢"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-11602"
-21706"
-21729"
-21723"
-21714"
-11571"
-Ahmed Mu'azu Hotoro"
-21734"
-21720"
-22370"
-22368"
-22369"
-11575"!
-Ahmadu Bello - Tiga road branch"
-11574"
-Police HQ branch"
-11569"
-11573"
-
-NTA branch"
-11576"
-Ungogo road branch"
-11568"
-11051"
-12056"
-CLUB (Inside Kano club)"
-11682"
-11677"	
--233545"
-11675"	
--233547"
-22378"
-11703"
-
-branches"
-11714"
-11702"
-11705"
-11719"
-11716"
-11695"
-Miyangu Branch"
-11710"
-11956"(
-&Aljazeera branch of Race Course Feeder"
-11491"
-13281"
-Mahaza"
-13265"	
-Gaskiya"
-12631"
-11678"
-11497"
-Adamu Dan Kabo"
-11713"
-11707"
-11717"	
--233495"
-
-Tukur road"
-11499"
-Ahmadu Bello"
-11701"
-Tukur Road Branch"
-21866"
-
-Yusif Road"
-21864"
-Yusif Road Isa Dutse branch"
-12045"!
-Bompai feeder,Wharf Road branch"
-11567"
-11570"
-12049"
-KNUPDA"	
--233479"
-	Mundubawa"	
--233477"
-11572"
-21867"
-12041"
-AVM Nura Imam"
-19433"
-12048"
-Gongoni warehousa"
-20158"
-DAKATA"
-19435"
-19459"
-19460"
-21865"
-Yusif Road branch"
-21863"
-Yusif Road Bargary branch"
-13282"
-Oasis branch"
-11494"
-13276"
-13279"
-11508"
-Muktar Muhammad link"
-22371"
-11485"
-13264"
-Alh Ali Royal"
-11492"	
--233473" 
-Wada Aliyu (Suleiman Crescent)"
-13278"	
--233471"
-11514"
-Tukur road close"
-11515"
-13269"
-11591"	
--233497"
-11493"
-11487"
-13262"
-11516"
-13274"
-11510"
-Sultan by Korau road branch"
-11613"
-Batawa close"
-13271"•
-¢"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"1","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-13263"
-11615"
-
-Yusuf road"
-13270"
-13275"
-13283"
-Zubairu Kanti"
-11595"
-H Hadejia Branch"
-11503"
-Korau road branch"
-11509"*
-(Ni'imah Guest Palace Branch Ahmadu Bello"
-11505"
-Lamido road"	
--233489"
-11504"
-Lamido road left"
-11606"
-Lamido crescent"	
--233487"
-13272"
-11596"
-	H Hadejia"
-21790".
-,KABARIN WALI BRANCH,(KOFAR NASSARAWA FEEDER)"
-20418"
-22133"P
-NMTN BRANCH, DURUMIN ZUNGURA BRANCH, SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22128"
-IBRAHIM TAIWO"
-20436"8
-6Sarkin Gini Branch, Emir Palace Branch, (Kurna Feeder)"
-22131"<
-:LIBRARY BRANCH,SABUWAR KOFAR BRANCH,(IBRAHIM TAIWO FEEDER)"
-22138"G
-EWRECCA GIDAN RIJIYA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22135",
-*SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22134"8
-6MUBI BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-12468"
-Ajasa I. G. Branch"
-21788".
-,HAUREN BALAGU BRANCH,(KOFAR NASSARAWA FEEDER"
-20423""
- Gidan Radio Branch, Kurna Feeder"
-20331"
-GIDAN RADIO"
-11988"
-Jifatu branch"
-12055"§
-°"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-20431"
-12470"
-Ajasa Helious Branch"
-12473"
-Ajasa Cooperative Branch"
-12462"
-Ajasa MTN Branch"
-22116";
-9BARRACK BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-12057"
-12469"
-Ajasa Rumfa Branch"
-12464"
-Ajasa"
-20430"
-12896"
-DANAGUNDI-ZARIA ROAD"
-12648""
- Engr Rabiu M Kwankwaso Residence"
-12475"
-Ajasa Kwankwaso Branch"
-12463"
-Ajasa Gandu Branch"
-20426"%
-#Jill Plastic Branch, (Kurna Feeder)"
-20435"%
-#Rahama Radio Branch, (Kurna Feeder)"
-12452"
-20410"1
-/ABY Branch, Jill Plastic Branch, (Kurna Feeder)"
-12474"
-Ajasa NSTI Branch"
-20427"
-12451"
-Ajasa Unity Bank Branch"
-20516"0
-.H&M Construcion Company Branch, (Kurna Feeder)"
-12467"
-Ajasa MTN Ummi Branch"
-20428"
-12619"%
-#CBN Feeder SAM 03 Kassim A Burkullu"
-12476"
-12604"
-Ado Bayero Mall branch"
-12466"
-Ajasa Hassan Branch"
-12601"•
-¢"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"1","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"33""
-12477"
-Ajasa BBY Branch"
-12459"
-Ajasa Ado Mill Branch"
-12598"
-12479"
-Ajasa ECO Branch"
-12471"
-Ajasa Mr. Biggis Branch"
-11995"
-branch"
-12058"
-22354"
-Audu Bako to Matan fada"
-22355"
-22353"
-22352"
-12607"
-Audu Bako Dedicated"
-22381"
-22382"
-11993"
-State Road branch"
-11994"
-Yahuza Suya"
-61"	
--233539"
-62",
-*Audu Bako to Tamandu court by Prince hotel"	
--233543"
-22364"
-12659"
-Prince Hotel Dedicated"
-22366"
-11029"
-Dantata Qtrs Branch"
-11027"
-Col Umar Dikko Branch"
-12633"
-22362"
-60"
-Audu Bako to Airtel"
-11028"
-12628"
-12638"
-68"
-Audu Bako to Jigawa road"
-22367"
-22383"
-59"
-Audu Bako to Yan Dutse"
-22359"
-22384"
-12627"
-53"
-12606"
-12645"
-Dedicated Audu Bako"
-11982"
-	Ali Sa'ad"
-11981"
-Ali Sa'ad branch"
-12457" 
-Ajasa Branch By Abubakar N. A."
-12610"
-11987"
-Iyaka Road branch"	
--233501"
-Borno Avenue branch"
-11984"	
-Dr Bala"
-12612"
-11978"
-12608"
-12653"
-Golden star mill branch"
-12656"
-Maitangaran branch"
-12478"
-Ajasa SKY Branch"
-12461"
-Ajasa Darussalam Branch"
-12495""
- Marhaba Ja'oji By Abubakar N. A."
-12613"
-11991"
-Pension Board branch"
-12614"
-11732"
-Emir Palace branch"
-12647"
-Emir Palace Nassarawa"
-11997"
-sokoto road branch"
-11745"
-Sokoto Road branch"
-11986"
-Ibrahim Dabo branch"
-11992"
-Samson Rogers"
-12642"
-City scape branch"
-11980"
-Airtel Booster Station branch"
-12620"
-11985"
-
-IHS branch"
-11990"
-NACB branch"
-11989"
-12643"
-Country Mall"
-12465"
-AjasaKERD Branch"
-12456"
-Ajasa Airtel Branch"
-12472"
-12453"
-12900"
-SHARADA BUSNESS UNIT BRNCH"
-12458"
-12455"
-12460"
-Ajasa Sahad Branch"
-12497")
-'Marhaba Texaco Branch By Abubakar N. A."
-12492"(
-&Marhaba Union Branch By Abubakar N. A."
-12494"(
-&Marhaba Nitel Branch By Abubakar N. A."
-12503"*
-(Marhaba Hausawa Branch By Abubakar N. A."
-12501",
-*Marhaba Yusif Ali Branch By Abubakar N. A."
-12500"
-12499",
-*Marhaba yusif Ali Branch By Abubakar N. A."
-12493",
-*Marhaba M. Murata Branch By Abubakar N. A."
-12502".
-,Marhaba Dan Gwogola Branch By Abubakar N. A."
-12894"
-12496"
-Marhaba SSG By Abubakar N. A."
-12504"*
-(Marhaba Permier Clinic By Abubakar N. A."
-12898"
-RIBADO ROAD BRANCH"
-12899"
-12491"&
-$Hausawa MTN Branch By Abubakar N. A."
-12489"*
-(Hausawa Sankara Branch By Abubakar N. A."
-12488",
-*Hausawa Social Well Fire By Abubakar N. A."
-12895"
-12487"0
-.Hausawa Dahiru Gwaram Branch By Abubakar N. A."
-12486"*
-(Hausawa Primary Branch By Abubakar N. A."
-12498".
-,Marhaba Masallachi Murtala By Abubakar N. A."
-12954"
-MOTGAGE BANK BRANCH"
-12483"3
-1Hausawa Shu'aibu Maigida Branch By Abubakar N. A."
-12484""
- Hausawa Branch By Abubakar N. A."
-12490".
-,Hausawa Babban layi Branch By Abubakar N. A."
-12505"%
-#Marhaba Yan Azara By Abubakar N. A."
-12600"
-12480"%
-#Hausawa Main Line By Abubakar N. A."
-12485"-
-+Hausawa Press Road Branch By Abubakar N. A."
-12956"
-12955"
-12725"
-SARKIN GOBIR"
-12719"
-KARKASARA FEEDER,"
-12723"
-LAYIN MAINGUWA BRANCH"
-12720"
-12897"
-DANGOTE BRANCH"
-12724"
-MAIUNGUWA BRANCH"
-12718"
-12722"
-11715"
-11681"
-11683"
-Abdullahi Bayero Branch"
-11680"
-12630"
-11679"
-11723"	
-samanja"
-11684"
-
-Alu Avenue"
-11721"	
-branche"
-11688"
-Dambazau Road"
-52"
-Audu Bako to Luggard Avenue"
-12618"
-11699"
-
-State Road"
-12644"
-Dangote Group"
-12641"
-Cabinet Office"
-12651"
-
-Gen. Akilu"
-11712"
-11697"
-11488"
-12657"	
-Miyyeti"
-11500"
-12658"
-Muhammad Abacha"
-12615"
-11501"
-11690"
-Kwairanga branch"
-11730"
-Commissioner Road branch"
-12611"
-11740"
-MTN Booster Station branch"
-22379"
-
-Ado Gwaram"
-12646"
-Deputy Governor's House"
-22380"
-12654"
-Government House Dedicated"
-12596"
-12609"
-12599"
-11725"
-11726"
-Ahmad Daku branch"
-11742"
-Marhaba branch"
-12617"
-11727"
-Alh. Gwanau branch"
-11704"
-11743"
-Nafiu Rabiu branch"
-11737"%
-#Industrial Court Guest House branch"
-11728"
-Aminu Sule Garo branch"
-11735"
-Garkuwa branch"
-11738"
-
-Kabir Koki"
-11744"
-Nuhu Bamalli branch"
-11486"
-11490"
-11512"'
-%Sultan road/Ahmadu Bello Ahmadu Bello"
-22372"
-Magajin Rumfa Right Branch"
-12605"
-
-Afficent"
-12603"
-
-Abdulfatah"
-12622"
-11511"
-Sultan road branch"
-11495"≥
-∞"branch"=>"Tajudden Rabiu Gwadabe","cables"=>"250","circuits"=>"3","frequency"=>"50","layer"=>"3","location"=>"underground","operator"=>"KEDCO","power"=>"cable","voltage"=>"11""
-13280"
-11513"
-22374"
-22373"
-22375"
-11507"
-11498"
-Ahmadu Bello Kwairanga Branch"
-11506"
-Magajin Rumfa Left Branch"	
--233449"
-11502"
-Farhan Branch"	
--233451"
-11608"
-Madugu link"
-13267"	
--233447"
-13273"	
--233445"
-11598"
-
-SSS Branch"	
--233481"
-11593"
-Dan Kabobranch"
-13266"	
--233485"
-Lamido terrace"
-11607"
-11720"
-11694""
- Race Course (Magaji Rumfa T-Off)"
-12616"
-11689"
-Race Course (Kura Road T-Off)"
-12655"
-IITA"
-11709"
-11676"
-Race Course (Engr Wali T-Off)"
-12621"
-12660"
-Standard Specialist Hospital"
-11693"
-Lautai Branch"
-11746"
-Tarauni Massalaci"
-11733"
-Engr. Sani Bala"
-11747"
-11748"
-13173"
-TARAUNI GARDEN"
-11711"
-11706"
-11691"
-Laila Buhari Branch"
-11698"
-Sabara Avenue"
-11957"
-NTA Qtrs branch"
-11722"
-masama branch"
-11692"
-13161"
-HOTORO FEEDER"
-13156"
-HOTORO (BRANCH)"
-20035"
-NNPC FDR 6 (GUARANTEE BRANCH)"
-11718"
-11687"
-Bashir Magashi"
-11700"
-Tofa General Textile Branch"
-11686"
-Bashir Magashi Right Branch"
-12873"
-KUNDILA (BASHIR GUMEL BRANCH)"
-19994"-
-+NNPC FDR 6 FROM DAKATA TS.TE/OME MARIRI B.U"
-11979"§
-°"branch"=>"Tajuddeen Rabiu Gwadabe","cables"=>"3","circuits"=>"3","frequency"=>"50","location"=>"underground","operator"=>"KEDCO","power"=>"line","voltage"=>"11""
-11724"
-11996"
-20014"!
-NNPC FDR 6(COUNTRY MALL BRANCH)"
-20016"!
-(NNPC FDR 6COUNTRY MALL BRANCH)"
-11729"
-Assalam Schools branch"
-12652"
-Golden Pharmcy branch"
-11736"
-Incubation Centre branch"
-11739"
-11749"	
-Tarauni"
-11734"
-Farm Centre branch"
-20015"
-12482"-
-+Hausawa Yar Fulani Branch By Abubakar N. A."
-12953"
-ECO Bank BRANCH"
-12952"
-AKTH BRANCH"
-12481"
-
-ZARIA ROAD"ï
-í"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"3X15000","substation"=>"Distribution","voltage"=>"33""
-19993"
-12890"%
-#KUNDILA(Phase 1 BRANCH NEAR MOSQUE)"
-20066"
-NNPC FDR 6 (YANLEMO LEG)"
-11731"
-Daurawa branch"
-20017"
-13162"
-12881""
- KUNDILA (EGYPTIAN SCHOOL BRANCH)"
-13157"
-HOTORO (DAURAWA BRANCH)"
-13168"
-MTN BTS TEE OFF"
-12880"
-KUNDILA (CITY HALL BRANCH)"
-12872"!
-KUNDILA(BABA IMPOSSIBLE BRANCH)"
-12715"
-KARKASARA FEEDER,ADNAN.SAM05"
-12721"
-12717"
-12713"
-BILAL MOSQUE BRANH"
-12882"
-KUNDILA FEEDER"
-20065"
-12883"
-KUNDILA (PHASE 3 BRANCH)"
-12714"
-12885"
-13164"
-11741"
-Maiduguri road branch"
-19996"
-13172"
-HOTORO (RAHINA HOUSE BRANCH)"
-13171"
-MUSA GWADABE S/S TEE OFF"
-20003"!
-NNPC FDR 6(ALYUMA HOUSE BRANCH)"
-20006"'
-%NNPC FDR 6 (BANK OF THE NORTH BRANCH)"
-20007"
-20051"
-NNPC FDR 6(NDIC BRANCH)"
-12892"
-SABUWAR KASUWA TEE OFF"
-12871"!
-KUNDILA (BASHIR MAITAMA BRANCH)"
-12876" 
-KUNDILA(DALHATU BAYERO BRANCH)"
-12870"
-KUNDILA (AIRTEL BTS)"
-12874"
-12878"
-KUNDILA(DANGI BRANCH)"
-12875"
-DALHATU BAYERO TEE OFF"
-12877"
-KUNDILA (DANGI BRANC)"
-12884"
-12889"
-KUNDILA(NAIBI WALI BRANCH)"
-12879"
-KUNDILA(HANGA BRANCH)"
-12887"
-KUNDILA(LABARAN BRANCH"
-20061"
-NNPC FDR6 (VETNARIA BRANCH)"
-12589"
-UNGUWA UKU ( VETNARIA BRANCH)"
-20055"
-TEE OFF KUNDILA"
-20062"
-VETNARIA TEE OFF 33KV FDR6"
-12593"
-UNGUWA UKU FDR"
-20069"
-NNPC FDR 6( YANLEMO LEG)"
-12886"
-KUNDILA(LABARAN BRANCH)"
-12587"
-UNGUWA UKU FDR LGA TEE OFF"
-12590" 
-UNGUWA UKU FDR YANKIFI TEE OFF"
-12577"
-MTN BTS S/S TEE OFF"
-17363"
-17361"J
-H"operator"=>"KEDCO","power"=>"line","status"=>"proposed","voltage"=>"33""
-21726"
-21728"
-21716"
-21724"
-21709"
-21722"
-21710"
-21733"
-21735"
-17327"
-21725"
-21711"
-21712"
-21736"
-20636"
-13333"
-20642"
-13334"
-19437"
-12047"0
-.Branch of Bompai 11KV Feeder(Isyaka Rabiu Lin)"
-13336"
-12051")
-'Nababa Badamasi,branch of Bompai Feeder"
-19466"
-19450"
-19457"
-19446"
-21727"
-21713"
-21718"
-21732"
-20640"
-20634"
-13331"
-20168"
-20164"
-17324"
-21719"
-17326"
-17325"
-21738"
-PROPOSED LINE"
-17249"
-17248"
-17247"
-21805"
-21809"
-20638"
-21808"
-21813"
-21811"
-21814"
-21807"
-21812"
-21806"
-21810"
-21816"
-20639"
-21804"
-21730"
-21737"
-21715"
-21717"
-21815"
-19452"
-20167"
-19448"
-20157"
-20170"
-20165"
-20635"
-19458"
-20162"
-11787"
-Dakata Transmission Station"ë
-é"location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x60MVA & 1x30MVA","substation"=>"transmission","voltage"=>"132000""
-20159"
-20154"
-20156"
-19440"
-12043"
-Bompai Feeder,KASCO"
-19464"
-20163"
-19462"
-19449"
-20161"
-19443"
-19461"
-20169"
-19445"
-20166"
-19948"	
-YANKABA"
-19947"
-KAWAJI INJECTION S/S"ù
-ö"branch"=>"DAKATA B. UNIT","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"15 MVA","substation"=>"distribution","voltage"=>"33""
-19455"
-20160"
-19956"
-19965"
-19442"
-19954"
-19959"
-19441"
-19962"
-19465"
-19951"
-19961"
-19953"
-13268"
-19964"
-11612"
-Badawa main"
-11610"
-
-Ali Badawa"
-11614"
-Gayawa branch"
-11611"
-Badawa branch"
-19957"
-19963"
-19960"
-19952"
-19955"
-19958"
-19949"
-19950"
-17390"
-KWANAR BAZAWARA TEE OFF"
-17391"
-20171"
-19438"
-17411"
-mtn bts s/s"
-19454"
-17409"
-WALIN GANYE TEE OFF"
-19436"
-17389"
-17394"
-NY FOAM COMPANY"
-20056"
-TEE OFF RIGHT"
-20045"
-METAL POINT TEE OFF"
-20057"
-19453"
-19463"
-19444"
-20155"
-19995"2
-033KV NNPC FDR 6 FROM DAKATA TS.TE/OME MARIRI B.U"
-19997"
-19989"
-17403"
-TOKARAWA FEEDER"
-17386"
-HAYE TEE OFF"
-17384"
-ABC POLYMERS TEE OFF"
-17392"
-LEFT TEE OFF"
-17385"
-19456"
-19451"
-17400"
-SIR SANUSI TEE OFF"
-17388"
-KAURA MACARONI TEE OFF"
-20031"
-DANTSUKU TEE OFF NNPC FDR 6"
-20063"
-WURO BAGGA TEE OFF NNPC FDR 6"
-20064"
-WURO BAGGA TEE OFFNNPC FDR 6"
-20030"
-19990"
-17410"
-YANNONO TEE OFF"
-19447"
-17393"
-MAIRAKE TEE OFF"
-17401"
-TALAS TEE OFF"
-17395"
-
-ONE SPAN R"
-17397"
-SALISU GARBA TEE OFF"
-17398"
-17387"
-KANO PLASTIC COMPANY TEE OFF"
-17404"
-TRUSCO TEE OFF"
-17399"
-SECONDARY SCHOOL TEE OFF"
-17406"
-17405"
-20000"
-17408"
-USMAN MAHMUD TEE OFF"
-17407"
-17402"
-17396"
-RAPID HOSPITAL TEE OFF"
-20005"
-AREWA RICE MILLS"
-11600"
-Sankore branch"
-11601"
-Umar Galadima"
-11589"
-After Sankore"
-11592"
-Booster station"
-11594"
-	GM Ringim"
-11603"	
-Engr YB"
-11599"
-Sabo Zango street"
-11597"
-Off Zango street"
-11604"
-Kofar Arewa"
-11609"
-Ubale Garko"	
--233483"
-11708"
-11605"
-Lajawa branch"
-11685"
-Bashir Magashi Left Branch"
-13166"
-HOTORO FDR(MADU S/S )"
-13160" 
-HOTORO FDR(GIDAN SHANU BRANCH)"
-13165"
-HOTORO FDR(MADU BRANCH)"
-19999"
-13152"
-HOTORO FDR(AMINU WALI BRANCH)"
-20038"
-KAWO TEE OFF NNPC FDR6"
-20037"
-KAWO TEE OFF 33KV FDR6"
-20046"
-20054"
-PUBLIC TEE OFF"
-20010"
-BUKAR MAKODA TEE OFF"
-20059"
-TINSHAMA TEE OFF NNPC FDR6"
-19991"
-20002"
-AIRTEL BTS TEE OFF"
-13159"
-HOTORO (ENGR SHAIBU BRANCH)"
-13175"
-HOTORO (TSAMIYAR BOKA BRANCH)"
-13174"
-13170"
-HOTORO {MTN TEE BRANCH)"
-20034"!
-NNPC FDR 6 (GIDANDAWISU BRANCH)"
-20047"
-20052"
-NNPC FDR6( NNPC BRANCH)"
-19992"
-13163"
-19998"
-20048"
-NNPC FDR 6(MTN BTS)"
-12891"
-KUNDILA (REB QUATERSBRANCH)"
-20004"
-NNPC FDR 6(AMINU WALI BRANCH)"
-13153"
-20029"$
-"NNPC FDR 6 (DANLADI NASIDI BRANCH)"
-13167"
-MOBILE BARRACKS TEE OFF"
-20058"	
-TEE OFF"
-12888"
-KUNDILA(LIMAWA BRANCH)"
-13158"
-HOTORO FDR(DOGON RIMI BRANCH)"
-13154"
-HOTORO FDR(AMMASCO BRANCH)"
-13169"
-HOTORO FDR (MTN BTS BRANCH)"
-20033" 
-NNPC FDR 6 (FIRST BANK BRANCH)"
-20023"
-13130"
-NNPC FDR 6 (ECO BANK BRANCH)"
-20001"
-NNPC FDR. 6(AA RANO BRANCH)"
-20024"#
-!NNPC FDR 6(DANLADI NASIDI BRANCH)"
-13123"#
-!MAIDUGURI RD.(BAYAN DEPOT BRANCH)"
-12585"
-UNGUWA UKU FDR KUKA TEE OFF"
-12588"
-UNGUWA UKU FDR TASHA TEE OFF"
-13142"
-13124"$
-"MAIDUGURI RD. (BAYAN DEPOT BRANCH)"
-13155"
-HOTORO FDR (AMMASCO BRANCH)"
-13131"
-HABIBU GWARZO S/S"
-13141"!
-MAIDUGURI RD (MASALLACI BRANCH)"
-13133"
-HOTORO MALALA TEE OFF"
-13143"
-MTN TEE OFF"
-20012"#
-!NNPC FDR 6 (COLONEL DAUDU BRANCH)"
-13140"!
-MAIDUGURI RD.(MASALLACI BRANCH)"
-13137"
-MAIDUGURI ROAD FDR"
-13147"
-20013"!
-NNPC FDR 6 COLONEL DAUDU BRANCH"
-13150" 
-MAIDUGURI RD. (WALAWAI BRANCH)"
-20027"
-13126"#
-!MAIDUGURI RD (BAYAN STORE BRANCH)"
-13125"
-BAYAN STORE TEE OFF"
-13127"$
-"MAIDUGURI RD. (BAYAN STORE BRANCH)"
-13145"
-RAMIN KWALABE TEE OFF"
-13132"&
-$CTV BRANCH (HADEJIA JAMA ARE BRANCH)"
-13122"!
-MAIDUGURI RD (BAYAN CTV BRANCH)"
-20025"#
-!DANLADI NASIDI TEE OFF 33KV FDR 6"
-20049"	
-MTN BTS"
-13139"
-MAIDUGURI ROAD 11 KV FDR"
-20026"
-13149"
-TOTAL TEE OFF"
-13148"
-20032"
-NNPC FDR 6(EASTERN BRANCH)"
-20009"
-BRANCH"
-19988"
-20042"
-LADANAI TEE OFF 33KV FDR 6"
-20041"
-20011"
-CHICKEN FEED MILLS"
-20040"
-20043"
-17463"
-YARAWA TEE OFF"
-12988" 
-FARAWA (UNGUWAR FULANI BRANCH)"
-13134"
-HOTORON AREWA TEE OFF"
-13129"
-BYEPASS TEE OFF"
-12992"
-YANDODO TEE VOFF"
-12984"
-12990"
-12986"
-12989"
-12982"
-FARAWA (MAKABARTA BRANCH)"
-20022"
-13144"
-NNPC DEPOT TEE OFF"
-13138"
-20028"
-NNPC FDR 6 (DANLADI NASIDI)"
-12968")
-'FARAWA FEEDER DUAL CONSTRUCTION (RIGHT)"
-12967"
-12969"
-FARAWA FEEDER"
-20039""
- NNPC FDR 6 (KWANAR YASHI BRANCH)"
-20021"
-20053"
-NNPC FDR 6 (OIL MILLS BRANCH)"
-12971"
-12966"
-FARAWA( BABBAN LAYI BRANCH)"
-12974"
-FARAWA (FARAWA GABAS BRANCH)"
-20020"
-20044"*
-(NNPC FDR 6 (LEGISTLATIVE QUATERS BRANCH)"
-13136"
-12973"
-FARAWA (FARAWA GABAS GABAS)"
-12987"
-FARAWA (PRIMARY BRANCH)"
-12869"
-HASSAN GWARZO BRANCH"
-12868"
-HASAN GWARZO"
-12712"!
-BILAL MOSQUE BRANCH,ADNAN,SAM05"
-12711"
-13015"
-WAILARI KANKARE BRANCH"
-12996"
-LAYIN CHAIRMAN BRANCH"
-13014"
-WAILARI BRANCH"
-12997"
-13002""
- NA'IBAWA YANLEMO, WAILARI BRANCH"
-86"%
-#Bagauda Feeder - AsS Petrol Station"
-13004" 
-NAIBAWA YANLEMO WAILARI BRANCH"
-19807"
-12716"
-12998"
-NA'IBAWA TASHA BRANCH"
-13001"
-NA'IBAWA YANLEMO, MAIN LINE"
-6873"
-20067"
-20068"
-12576"
-GIDAN DAGACI TEE OFF"
-12586"$
-"UNGUWA UKU ( LAYIN YARBAWA BRANCH)"
-20060"
-UKU TASHA TEE OFF 33 FDR 6"
-12570"
-AIRTEL S/S @ 4 SPAN"
-12591"
-12595"
-ZENITH BANK TEE OFF"
-12574""
- DANHASSAN TEE OFF UNGUWA UKU FDR"
-12584"
-RIRUWAI RELIEF BRANCH"
-12571"
-12581"
-RIRUWAI RELIEF 3 TEE OFF"
-12994"
-BALA GAYA BRANCH"
-12575"
-FIRST BANK TEE OFF"
-12582"
-12592"
-12579"
-NAIBAWA HAMCO TEE OFF"
-12995"$
-"KAREFA COMPREHENSIVE SCHOOL BRANCH"
-13000"
-88")
-'Bagauda Feeder - Jamilu Amaryawa - tOff"
-13003"!
-NA'IBAWA YANLEMO,WAILARI BRANCH"
-6870"
-6875"
-6866"
-12999")
-'NA'IBAWA YANLEMO, MAIN LINE,ADNAN,SAM05"
-6846"
-11378"
-87"
-Bagauda Feeder - Dotsa T-Off"
-6861"
-Unguwar Rimi branch"
-6862"
-Waratalawa Branch"
-6871"
-6877"
-6865"
-64"&
-$Bagauda Feeder - Tamburawa Old T-Off"
-6874"
-6881"
-6868"
-6854"
-Fari Branch"
-82"
-11375"
-6841"
-Naibawa Branch"
-84"&
-$Bagauda Federr - Takin Village T-Off"
-12594"
-YANSHANA TEE OFF"
-12573"
-12578"
-NAIBAWA GABAS TEE OFF"
-12580"
-NAIBAWA UNGUWAR GABAS TEE OFF"
-20008"
-12572"
-12975"
-FARAWA (KUREKE BRANCH)"
-12970"
-20036"
-IBRAHIM KUNYA SS TEE OFF"
-13146"'
-%FARAWA (REHABILITATION CENTRE BRANCH)"
-12983"
-FARAWA (MASALLACHI BRANCH)"
-12976"
-20019"
-12977"
-FARAWA (KUREKEN SANI BRANCH)"
-12981"
-FARAWA (MAGADAWA BRANCH)"
-12978"
-12985"
-12991"
-YANAMAR TEE OFF"
-12979"
-KUREKEN SANI TEE OFF"
-12980"
-12965"
-BURMA TEE OFF"
-11781"
-33KV Gezawa feeder"c
-a"operator"=>"KEDCO","power"=>"line","ref"=>"33KV GEZAWA FEEDER","voltage"=>"33","wires"=>"triple""
-19357"
-MADAKI TEE OFF"
-17451"
-A AND N TABLE WATER TEE OFF"
-17454"
-CONTROL PLASTIC CO."
-17460"
-19366"
-17465"
-17448"
-11KV TSAMIYA FEEDER"
-17452"
-ALH. BALA TEE OFF"
-17462"
-ULTIMATE GAS TEE OFF"
-17464"
-17461"
-TSAMIYA RELEIF TEE OFF"
-17466"
-17457"
-MALAMAI TEE OFF"
-19325"
-11KV TALAMIZ FEEDER"
-12993"
-FARAWA (YANGORO BRANCH)"
-12972"
-13135"
-13128"#
-!MAIDUGURI RD (BAYAN TASHA BRANCH)"
-20018"
-21577"
-YANKATSARI TEE OFF"
-19159"0
-.Kwankwaso Feeder, Yola Branch Muhammad, SAM 05"
-12693"3
-1KWANKWASO FEEDER KAURAN MATA BRANCH,ADANAN,SAM 05"
-11370"
-Bagauda, Umza Branch"
-6856"
-Kore Branch  "	Gú"?•
-S1 "%	Ó⁄j[G5	◊7˚RÕoQUói≠AK%5+C "	üö# 	"	éÙ=B0Z®4$C;}2 
-"
-	öü
-πﬁ "	‰ü
- 	* 
- "	‰ü
-/ "	Œc"](i(E+
- "		Ü$& "	‹U
-†I& "	í :◊Wk/uGÖqìã°üW "K	êŒäx{ $:Ó∞
-	9;W 0 :B(*;*M
-+ "	Ó"V2:U,M
-! "	¯#Q  "		⁄#a0*/ "#	†%»r	I
-.3:6&ü "		Ê'_r  "	ÿ(
-0 !""$	æ*¥z9  A%	+	- #$"	¨.e
-D %$"	ñ/t2C)#/59 &$"	Ã0	5# '$"
-	÷1ù	   ()*"	Ú7ï.ñ
-  +,"	¶Í*£G√%ıü, -." 	úﬁb-ïMßC 99!93'G3 /"	Çí"ã2ÅFßógk 012"	Í¢	
-	Z 34"	é Eè'? 56"	ÊÓ
-
- 76"		ä
-*Ç 89"	º¢
-'# :;"	¯ËB97?_/'%c¢A <="	Ó¢
-5] >6"	úî
-% ?@"	“∂Jj/.[È	A " AB"	ﬁBb'Q/- CD"	† 
-O4 EF"(	óéj åOÙçV-Äo‰˘H∆k>>`3ÜS GH"	˙æ" IJ"	ÃËB	+:S-#  KL"
-	∞ˆ J . MN""	Ü»r8"n4p1
- OP"
-	‰í QR"	Æ§
-q ST"e	ÓÓ 'QÈII	;19?1ß@ù2á,I7/=%!!#;/©[	7,cDuB3_&˜Ru*≈§±RU,Öñüd UV"		¯Ë
-Hû WX"	Ê∫<8Ç YZ["
-	¿‰' \]["	“ÿ2,
-6"
- ^_"	§	∫*W)5 `a"	Œ⁄"4"  bc"	¯
-Í
-%! d6"	 
-¸:û$"0
-@\ e6"	Äî
-G) fg"	Ã®Z!	+1bA!ÅCQ- h6"	≤∞~û ij"	¬÷"^ö R k6"
-	Æû`K2@( lm"	–
-¨R€ò
-&5*  no["	Ñ	÷
- pq"
-	û¢ rs"	“Í
-cF tu["	¸ƒ"˘zÅà#  vw["	Ç˛:#
-& xy["
-	‰§) z{["	åæ
- |}"	å÷"-”I	 ~"	†º",< ÄÅ"	‹Ë
-/ ÇÉ["	Ç∫$
-$ ÑÖ["	ö‰*ä+!  Üá["	¬º
-Ä àâ["r	˙‹ ˙O]¡ûØî≥Ç'9
-/)É-Hø2©,9!	1%'?!%_		*' T? ##-'ô
-/	#´) õÇ8*d äã"
-	í3 åç"	∏¯	+ éè"	∫Ù
-W êè"	û“
- % ëí"	¸ºB>«.	B ìî"
-	Ë## ïñ"	¨¥ :<±E "
-
-  ó"	∫
-
- ò"	Ù2
- ô"	å∆œ>N∂ öõ"	Ë∆"%y˚ úù"	Äö
- ûü"	¸Ç
- †°"
-	ÑEZ ¢£"	Ó“
-0' §"	⁄û
-vW •"	¬∆
-& ¶ß"	ËÊB}¡èZe*!
-QgJ
- ®©"	é¸
- ™´"	¬∞
- ¨≠"
-	ÆÃN# ÆØ"	æ‹
- ∞±"	∞»%I"Y2{ ≤≥"m	¶–˙@"6
- ,^B & &(62E.OF
-°$3Î;#˜`H>®3 m$/=!G3=+/7A1y°µ∑gì ¥µ"	Ù‡
-  ∂∑"	∏å
-
-{G ∏π"	ºñ
-
-$ ∫∑"	¨¿
-
-s ªº"
-	‡Œ
-*U Ωæ"	ê¬* 5") ø¿"	Ç»B0«ˇ0µ~Â3o)—se ¡¬"	‚¥
-9	 √¬ƒ"	≤Í
-  ≈∆"	™¶
-*, «»"	Ï∫"  … "	Ïä	
- ÀÃ"	ûú©k  ÕŒ"	ÃË2>mBk3N œ–"@	§‘¬   ª=´+JÿñÇL ì<%##$õé*#dI	€" ( —“"	ÿ®J2U6S&) ¿O I√  ”‘"	†Ï
-% ’÷"	∆Ä
-5* ◊ÿ"	‘¿Z@ :
- 
-  Ÿ⁄"	Ï¶º≠ €‹"	Ë⁄) =# ›ﬁ"	⁄‹
- ﬂ‡"	†Ï"/X0J1 ·‚"#	ÓÃjQeÄJ–!NÄ%"T!  „‰"	ƒæ26-B'>!$ ÂÊ"	ú¥*7F1" ÁË"	éﬁ:+"# ÈÍ"	≤Ç"?	% „
- ÎÏ"
-	˛˙<% Ì“"	˙¥B#i!U	%	öev% ÓÔ"	‘ÆBJ,Ä9  Ò"	ê 
-$ ÚÛ"	¯ä*#;3o  /# Ùı"	‡Ù
-- ˆÛ"	¯ä
-`) ˜¯"	ƒÓ*
- aB3Q] ˘˙"	Ñ*44" ˚¸"	§Ù
- ˝˛"	Ùö
- ˇÄ"	ƒ %/ ÅÇ"	¿¬
-+ ÉÑ"	∫ÚR?c%/1ó0°xã(/ro ÖÜ"
-	Íí: áà"		™∆
-™	 âä"
-	äà ãå"	ƒ˙*	;+ çé"	˛Ä
-I" èÑ"	∂Æ::  f,\	2  êë"	¯å
-  íì"	¿‚*= îï"	≤¥
- ñó"	úº
- òô"	¢Ù
-9, öõ"
-	¨ËgB=< úù".	∞ﬁíÿ$r®Hƒ$le% ûü"	‰àBf 8á##	_$  †°"	ˆ¿
- ¢£"	–∞
-o §•"	Ç†
- ¶ß"	êé" (D ®©"6	Ä¬∫6*-`;òl`62 ';!#$, ™´"	¶à
-
- ¨≠"	∞¢
-j; ÆØ"	æƒ
->	 ∞±"	 Ï"  2	 ≤≥"	˛ƒ	"!  ¥µ"	Ê˛	
- ∂∑"	Ú¢	
-2	 ∏π"	ê⁄	*;4 =N!< ∫ª"
-	¨¬
-(( ºΩ"	∫Œ<
- æø"	àö	
- ¿¡"	 à	
-D& ¬√"	ò
-  ƒ≈"	⁄ú((* ∆«"	¨í
- »…"	æ‹
->  À"	ö‰
- # ÃÕ"	ö÷
-  Œœ"
-	Ñé  –—"
-	û∫ “‚"	òî"&v6 ”‘"	∏‡
- ’÷"	˙‹	
-G ◊ÿ"9	Ã ﬁ	¬ U;ª?KQ	K;(7Ÿ0 $"
- x<,,
-B Ÿù"	∂ú., ⁄€"	¸ú	
-" ‹›"
-	å™
-* ﬁﬂ"	íò
-"%#^ ‡·"P	  ﬁ	¢	 			Éy\
- M,Q$
-
-<		
-$-0,	 
-2  ‚„"
-	¸Ù	5O ‰Â"A	ñ"Ç⁄73#1ó≥XS /]µÛ!?/;#++O	1] 	]Y%	6 ÊÁ"(	– ò
-Ç 6f 0$
-$.6E4Q2Ôw+5W ËÈ"
-	ê¨   ÍÎ"	§ 2	  ÏÌ"	»Ê
- ÓÔ"	˙∆9qK Ò"	Ü§
-
-" ÚÛ"	Ñ‰:	-''  Ùı"	¯Ó
-  ˆ˜"	™ƒ!1 ¯˘"	§ƒ$4  ˙˚"	î÷
-2G ¸˝"	äå"'OE ˛ˇ"	ú“
- ÄÅ"	‘º
- ÇÉ"	‘º   ÑÖ"	ÚŒ
- Üá"	Ú‘*7		 àâ"
-	∂ ö
-Ÿé äã"	¨Ä
-
-	 åçé"	Ëæ"  èê"
-	äÿ $ ëí"	ÓÃB	QD *`  ìî"	Ê“* D~7 ïñ"
-	®§# ! óò"	Ã 	  ôö"	Æ∏
-<% õú"	¨⁄:FÒlŸ
-'/] ∑ ùû"	å¸
-  ü†"	–2O7?g °¢"	⁄∫
-5 £§"	Çú
-; •í"-	§†í	D!2B@*I˙B("X9< Œ> ¶ß"
-	ÓﬁN  ®©"
-	¯‡( ™´"	¬∂*
-$,
- ¨≠"	‘˙
-8	 ÆØ"	ˆŒ
-f4 ∞±"	¬ú
- ≤≥"
-	“˛	 ¥µ"	¬ú
-  ∂∑"	¥àG  ∏π"
-	ÑÑO 0 ∫ª"
-	˙Ñ  " ºΩ"	Ü–:S 	3  æø"
-	‘ÑN  ¿¡"	òé
-! ¬√"	¢î2#9 +	
-
-ö ) ƒ≈"	ÏÏRÇ(6@\&#J ∆«"<	¯Ã“ú8	:@l RH0.\#\)62(	^.0|IwKA »…"	Ä∞*1   À"	öÑ
-  ÃÕ"	ÄÚ
-	 Œœ"	‰¬"7		I –—"	ÿä
- “”"
-	åû'3	 ‘’"	÷í
-; ÷◊"	ûåç
-5 ÿŸ"	åû
-6 ⁄€"	òË"H   ‹›"	¶Ñ2G	E	9 ﬁﬂ"	†⁄
- ‡í"	å¥åU¢= ·‚"	Ó∞
-	 „‰"	‡
-5! Â‚"	∞û2	[Ì	CL ÊÁ"	ˆÏ
-	 ËÈ"	òﬁ
-& Íû"	å≤
-" ÎÁ"	–⁄
- ÏÁ"	Üñ*)$¥A$1 ÌÁ"#	ö‹r'kË11r#
-&RN +( ÓÔ"	æ∂\	 Ò"	÷ﬁ*:
-¿
-($ ÚÛ"	  :E%	]M«¯: Ùı"	∏ê
-  ˆ˜"
-	Ó¥ |& ¯˘"	†êJxt 2p#  ˙˚"	“Ñ
-D ¸˝"	ÑÙ
-" ˛ˇ["
-	ñ‰	 ÄÅ["	Œ‚
-*W	 ÇÉÑ"	‚˙
-$ ÖÜ["	∆Ñ B,6
- &4 áà"	Ê–# âä"
-	“Ú-= ãà"	ÍËÉó[N åà"	Ù™"  çÁ"	∞ñ
-	D éè"6	¨˙¢Ñ€êïÑmˆ8
-5`	0	r&*9>aL
-|
-¢9< êà"	¿¢!ACl]0 ëí""	úéjAQ#
-)≥ñ'
-+ ìî"	úÆ
-;C ïñ"	‘Ã
-
- óò"	¿ñ" /%âü ôö"
-	⁄û& õú"	‹"Wcwã-$ ùû"	∂ñ AM! ü†"	‰‘
- °¢"
-	Íæ08
-	 £§"	í»
-GU •¶"	‘¸
-	 ß§"	Ïÿ
- ( ®©"	Ê∂"	  ™´"	“Œ
-	@ ¨≠"2	∆¢¢ çM&—P!),&4gÜaRK:AI!% E:)1	 ÆØ"
-	∆$ ∞±"	¸Ç
-9A ≤†"
-	§û"* ≥¥"	ƒDV*4 µ§"	¨¯ ∂∑"	¸ŒLX
-	,2 ∏§"
-	»Æ
- π∫"	¿å ê·xà ªº"	ÙÄ" 	 Ωæ"	¯¿
- ø¿"	ﬁ⁄o ¡¬"	¬‹
-%N √ƒ"@	Ï‚“'?√17Oa'1#kS	')%#K≠H'9Uã
-√• '$ ≈∆"	 ‘B%- «»"
-	»∆,3Q … "	Œ⁄
-+	 ÀÃÕ"	ºÆ
-  Œœ"
-	¯˛ –—"	∏ú
-  “”"	Íº*0
- ‘’"	∏¥
- ÷◊"	˙û
- ÿÁ"
-	¬∂ ŸÁ"	û 
- ⁄Á"
-	⁄‚_(![ €‹"
-	ƒê3 ›ﬁ"	“Æ
- ﬂ‡"
-	÷Ê6 ·‚"	÷‚*EA
-,:	@ „‰"	í∏
-" ÂÊ"	ÿ‹:	:*  ÁË"
-	‘Ç! ÈÍ"	∞‰"7Si 	 ÎÏ"	Ê¸
-" ÌÓ"	¿º:
-
-= Ô"	¬Í
-: ÒÚ",	í‹í u#%AK)M
-		9√#!5!W$ ÛÙ"	äöB+S	
- ıˆ"
-	Äÿ,  ˜¯"
-	∫¸#; ˘˙"
-	Úö( ˚¸"	¥ ¢R; /)# C- ˝˛"	úÏ
-k ˇÙ"
-	òÍ ÄÅ"	åÃ
-@ ÇÉ"	ÿº
-	 ÑÖ"	Ê∫
-9M Üá"?	å‹‚`10:+\Y2O	!m !5
-7 =	So9#- %
-7Y9	K6M<8B J àâ"		ÏÆ
-&í äã"	˙ˆ"cT$@ åç"	å ∞
-] é‚"
-	¯‹R7@< èê"	 ¸
-A ëí"3	Ñú≤   $
- Vn"
-
-	; ìê"	≤Ç
-!	 îïñ"	Êﬁ2 B"+
-)!  óê"	»º
- òô"	à º"5<	 ö‰"	ö
-1 õú"#	 ¢bã	/5ΩF7$ôëG¶=  ùû"	ú˛2*%GE!75,  ü‰"
-	∆ÿB	 ††"	Óò
- °†"	ÊŒ
- ¢‰"	îî
-  £‰"
-	Ä˛Q% §•"	Í¨B73A I°O ¶‰"	˙¿
- ß®"	‰÷*E	 ©†"	Ã
-' ™´"	‹‹J/(#'VìP
-  ¨†"	Ú¯
- ≠†"
-	∏‰   Æ†"	º‰
-  Ø∞"	Æí*ê 
- ±†"	Ä‹
- ≤≥"		¯†
-∂ ¥µ"	∆§
-	 ∂∑∏"	¿û*  π∫"
-	Ê∂$$ ª‚"	§
- º†"	∫ê
- Ω±"	≤“
- æ†"	Íæ":2Zh ø±"
-	¨÷2)/1 ¿±"	ﬁ¨
-(. ¡†"	íˆ
-
- ¬†"	å
-	$ √ƒ"	Ü»2l=D[VΩ™ç°OH ≈§"	¯ÿ
- ∆§"	äÏ
- «§"	†Ü
-
- »…"	ö‡"!
-   †"	Ü®
-  ÀÃ"	Œ˛k	 Õ†"	§ˆ
-  Œê"	ûÙ
- œê"
-	™Ä
-> –—"0	 ¢ö 	  B ß\IDEéßjw,98j/ (
-B “ê"
-	¥à ”ê"	¸ÿ""≤ ‘ê"	Üﬁ
- ’ê"	ÜË
- ÷◊"
-	˙ûL4 ÿê"	à®
- Ÿê"	àÿ
- ⁄ê"	‘22!& €‹"	§§J,n +0 	 ›ﬁﬂ"	§‰#
-		 ‡·ﬂ"	˙≤#
-+%	 ‚„ﬂ"	‡º#2O45. ı¥E@üÑ	 ‰Âﬂ"	R‰&
-,	 ÊÁﬂ"	FÚ&" é$,	 ËÈﬂ"	é¯$
-	 ÍÎﬂ"	Ú¸"
- 	 ÏÌﬂ"	Æ¸"
-	 ÓÔﬂ"	‹Ù"*M /5	 Òﬂ"	®ˆ"6	"	 ÚÛﬂ"	÷Ù""$,2@	 Ùıﬂ"	∆‰"
- 	 ˆ˜ﬂ"	Ü‰"
- :8	 ¯˘ﬂ")	∞ƒ*r^¡Ñó*è«3/Ò•=
-/
-_* ˙˚["	Ã– 
-) ¸˝["
-	˙ﬁ!G! ˛ˇ"	®» 
-  ÄÅ"	îÜ 
-P ÇÉ["	˙ﬁ#
-1. ÑÖ[" 	⁄ﬁ"jeP%=*z*$ .	$ 2	 Üáﬂ"	ˆÜ%
-	 àâﬂ"
-	îÆ$# 
-	 äãﬂ"	¬¶&
-	 åçﬂ"	ê∆'
- éè"	¢ﬁ$
-	 êëﬂ"	»
-™+Õ˜	 íìﬂ"	Óº(
-+	 îïﬂ"	å∫)R	 ìÇ) I>g\!	 ñóò"	Çº)2JNRI
-$ESf ôö"	¢˙3"M1 K & õú"	˙¯4J3G5'-C  ùû"	ñ 7<	 ü†°"	∏–7*   	 ¢£§"	÷Ê="(Åv(+vq •¶"	§	Œ0
-	 ß®©"	∫	¿0" ™´"	»	‰0
- ¨û"	à	Æ1
-* ≠´"	Ã
-í1) Æ´"
-	ﬁ
-û1
-=, Ø∞"	º	‹0Z†>r$ 
-3NÄ  ±≤"
-	⁄∆1$_	 ≥¥"	Ã»1
-	" µû"	∏Ã7!˛∑ ∂∑"	⁄‚5* 6T@ ∏û"	º⁄5*, π∫"	∂	⁄0Ræjr¢F 
-@¥R ª¶"D	Çº)⁄C6 ŸË'x^Pi‡
-§bF "$6ä*v
-:û
-(*NŒB"\"  º∞"
-	ÿŒ1'' Ω¥"	º¢2
-	 æ¥"	‹Ù2
- ø¥"	Ä–3
-	 ¿∞"	¶Œ2
- ¡¬"	Óú3
-, √¬"	Ä 3
-	 ƒ∫"	Ä 3
- ≈¥"
-	Ñ⁄3 ∆¥"	™∏4"Q'	 «∫"	¨∏4
-s& »…"
-	æƒ4)
-a$5  À"'	ƒ	‡0r‘v
-Ü–V&xVÍ*.º
- Ã¬"	îŒ4
- Õ∫"	‘®5
-i. Œœ"	÷¥5
-  –∫"	¯5
-' —¥"	ÊÊ5
-  “¥"		Ùò6
-Å4 ”∫"	å»6
-K" ‘’"	Óî7
-	 ÷◊"	¨¸6
-m. ÿŸ"	‡§5"`H(  ⁄∫"	˙ñ6
-z#& €û"	®˛6Bö¨.<$(&j|682(9 ‹›"+	 
-Ë>ÇH 	O1/#!ø	Kó+/%óµ% ﬁ›"	⁄“="hBäF6H ﬂ¥"	÷î8
- ‡¥"	®∂8
-1 ·‚["#	Ãﬁ!jSa´íqPÈ;!75c) „‰["
-	Ü†#> ÂÊ["	‘‰""
-2 ÁË"
-	ú∫"";	 ÈÍﬂ",	‹¸(zkT5,óúÇ˜ö—.®ƒ@LSFZl@J Îè"	ÄÑ!
-! Ïè"	¢Æ!
- ÌË"	Æ∞!
-
- ÓÔ"
-	ûÇ"! Ò"	ƒÊ!/9
- ÚË"	Ã“!
-.' ÛÙ"	¶Ê"
-
-C	 ı¥ﬂ"4	ÚÊ(öÖf)$SRA6Ç˘$	VhÜñ¬ì$)Vs.S2# ˆË"
-	¯§"-5 ˜Ô"	öƒ#
- ¯˘"	Ïò#`v
- 
-	 ˙Ù˚"	Úî#¢ÛBP ¸Ô"	‰¥"
-8> ˝è"	à‹"
-" ˛ˇ"	ˆﬁ 2	Ωå(.;4  ÄË"
-	∞Ä#.<D	 ÅÇﬂ"5	Ë(≤	Ì!"A+,
- @	$	$@3`CP^:120>3EMZKvä&	 ÉÑﬂ"	ˆ‚(2fYîyˆøÚèGQ ÖÅ"	∏Ä!
-)5 Üá"	ÆHRgVBL à‚"	˛‚ 
-!	 âäã"	 Ú 2.##' å‚"	òê!
-
- ç†"	éò!
- éÅ"	¶∂!
- èè"	ƒÙ 
->J êÅ"		ê∏"
-}ó ë‚"
-	êÿ  í§"
-	¯– $ ìî"	ˆ¬ "
-,8>3 ï∫"	¯– dz ñî"	≤Ñ!
-:J óÔ"	∫Í!à†& òË"	ò "
- ôè"	∞Ú"
-	;	 öõﬂ",	¯‡(r$Ä”àw¨çre¬˜~mØRK·
-   úù"	†Ç!
-* ûü"	¸» RD;Äú$4 	 "`: †°"	ƒ‘"*. \~*  ¢£"	ÑË$26>	 	84\ §±"	ÿö!	 •¶"	ˆÍ!
-
-1 ß®"#	ÿ⁄r0pJX506>
-:& §$8Xdd
-P ©™"	ÿÓ!*DF7<3 ´¨"
-	Ë2.  ≠¨"
-	ÿÑ4<T Æ¬"	‘é9å¬3 Ø¬"	ö‡8
-b° ∞±"í	ﬁ$†AÇ		[5	c©mM9E  )â-kMãI/]73o9!_5}C%3!ãì]è	=e±É'=iüÖA'K%y7K3! Å	)+.% ≤≥"
-	⁄Ù~ 8 ¥µ"*	ú¸ä
-*◊3#
--M*86<&0$6< ∂∑"	Ã#™
-!+ ∏π"
-	∂#‘
-  ∫ª"	Ù#∂2=a,6Yi# ºü"	¶#Ñ*)/)0$ Ωü"	∞#º:} ÉüC	 æø"	ò!‰
-Q ¿¡"	ú!»
-%	 ¬√"	¶"‚V&
- ƒ≈"	Ç"Ê
- & ∆«"	™#¥
-A »…"	™#Ñ
-   À"	∞#º
- ÃÕ"	¯#ä
-- Œœ"	§"Ü ∞ –—"	“"¥
-+! “”"	Ã"¶	*Õ/ ≈ç0 ‘’"		 "ÿ
-á9 ÷◊"+	Œ ‹	Ç18•w£ (pH∫ 
- ≈ ÿ’"
-	 "ÿ6 Ÿ⁄"	Œ"Ç
-l  €‹"	û#™
- ›ﬁ"
-	Œ"¨h. ﬂ‡"	Æ#™
-! ·‚"		ƒ$⁄
-ç „‰"	ö$Ñ
-B ÂÊ"	í%ƒ	 cL Á "	§%ò
-  ËÊ"	ñ%æ
-	 ÈÍÎ"	é%∏"
- ÏÌ"	¶$î
-4& Ó "	à&
-
-0 Ô "	æ& 
-> Ò"	‡' 
-¨ ÚÒ"	⁄'D
- ÛÙ"	⁄'∂* #
-M8 ıÙ"
-	Æ&Ç!+e ˆÙ"
-	í&º( ˜Ù"
-	–'®	 =*0 ¯˘""	Æ#àr)@t   -SC(! ˙ü"	Ë$Ë2# ã1 ˚¸"	ñ$º
-  ˝˛"	ñ%à"ùÃ  ˇÄ"	ñ%
-Q6 ÅÇ"(	˛&öÇ'	 )E/AG
-;?)9[≈#rY ÉÑ"	ñ% 
-@  ÖÜ"	ˆ#ê
-h áà"	ñ%ñ
-5  âä"
-	æ$∂ J  ãÇ"	‚$ﬁ
- åç"		î%∞
-à@ éÙ"2	∫'®	ö$Ø]Y+?5	ïØå@H M Ö U èÙ"	≤'
-+ êë"	ñ¢
-*n}2M8.  í$ì"	ﬁ ﬁ	2 
-" îÁ"	Œ ‡	
- ïñ"	˙¨	"6D|: óò"	ò!é
-#  ôÇ"	ñ!†	
-+ öõ"
-	– ò
-#	 úù"	Ï ®
-
- ûü"	à!‡
-
-_2 †°"	≤!∞
-1 ¢£"
-	“!‡N+E §•"	®"¶	
- G$ ¶ß"	  ÿ	:Jx™uí ®©"	‚"®	
-  ™´"	“"Œ	
- ¨≠"	∞#Ï
-  ÆØ"	Ñ#®	
-  ∞±"	º#®	
-  ≤≥"	“"»
-*;=%t ¥µ"	“"®
-
-  ∂∑"	ò#⁄
-
-  ∏π"	ñ$‹
-2K3 ∫ª"	ö$‹
-
-C$ ºΩ"	¿$‚
-B%		
- æø"
-	‘#∫64 ¿¡"	‚!Ñ
-G ¬√"	û!∫
-8  ƒ≈"	º ®
-  ∆«"	∞!≤2[s7$}N »…"	– ∏
-  À"	Ï ‹
- ÃÕ"	¬ Í
- Œœ"	¶!¶>)
- –—"
-	¢"Ù&5 “”"
-	»"ÿ ‘’"	¥"ö
-  ÷◊"	–"‘
- ÿŸ"	∆"∆"$
-' ⁄€"	‹"‚
-  ‹›"	‚"Í
- ﬁﬂ"	∫#¿
- ‡·"	º#˛
- ‚„"	¬#∏
- ‰Â"	ä$Ó3: ÊÁ"	÷#®
- ËÈ"	Ê#ñ
- ÍÎ"	ÿ#‡
- ÏÌ"	ò$öMX ÓÔ"	ö#¶
-  π"	∞#Æ
- ÒÚ"	ˆ#§G	  ÛÚ"	ˆ#§
- ÙÚ"	Ù#∏
- ıˆ"	¬"Ó
-> ˜¯"	‘"ñH2	 $ ˘˙"	Ã#îB
-} ; 
- ˚¸"	‘#∞
-! ˝˛"	∞#íº ˇÄ	"
-	¿$∂[2 Å	Ç	"	¿$∂
-\ É	Ñ	"	ò%¸
-?  Ö	Ü	"	§&ä*}i3K ã! á	à	"	é%‹
-2
-ï  â	ä	"	å$Í
-	 ã	å	ç	"	æ$Ó
-	 é	è	"	Ü%¨
- ê	ë	"	˙#Ä*"!
- dk	 í	å	ç	"	Í$ñA;	  ì	î	"	ú%é
-2F  ï	π"	‘%–
-
- ñ	π"	¿%Ê
-
-	 ó	Úç	"	⁄%û"!# 23 ò	ô	"	Ä%¶
- ö	õ	"	Ü%¨
-($ ú	π"	∫%¬
- ù	û	"
-	™$⁄
-∞ª ü	†	"	‰%‚
-  °	¢	"
-	Ü(ä	T £	§	"	⁄'Ä"4T •	¶	"	∂&™
-
-+  ß	®	"	ò&®
- ©	™	"	û&ä
-D ´	¨	"	≤&é
- ≠	Æ	"	ÿ&î
-> Ø	π"	–&Ú
- ∞	±	"	Ñ'¬
-	 ≤	≥	"	∞'ú
-
- ¥	≥	"	å'ö"uA  µ	∂	"	à(¿
-2f1Q] ∑	∏	"	˛&ö
-) π	∫	"	ê'Ç
-  ª	º	"	ä'≤
-
- Ω	æ	"	é'ê&  ø	±	"	Ñ'¬
-  ¿	±	"	Ñ'–
- ¡	±	"
-	Ñ'–* ¬	∂	"	»'®
-f! √	ƒ	"	Æ) 21 q«% ≈	∆	"	∞$Ñ
- «	»	"
-	™$⁄ …	∂	"	û$
-  	À	"	Æ$‡
- Ã	À	"	 $¸
- Õ	π"	‡$Ê
- Œ	π"	˛$ƒ
- œ	π"	¯$ÿ
-' –	∂	"	÷%†*É —	π"	˙#ö"&	 “	π"	é$™
-  ”	π"	∫$é
- ‘	π"	¥$î
- ’	÷	"
-	∏$Ã Q ◊	÷	"
-	∏$ﬁ% ÿ	÷	"	ú$¨* Z Ÿ	π"	ﬁ$‘
-  ⁄	π"	Ê$÷
-  €	π"	é%ÿ
-  ‹	π"	é%ÿ
- ›	ﬁ	"	 %å
-* ﬂ	∂	"	º%öZi	
-C	=1	4 ‡	·	"	Ã%“
- ‚	·	"	 %‰
- „	·	"	Ã%“
-  ‰	Â	"	Ó%˙
- Ê	π"	í%‡
-  Á	Ë	"
-	‘#∞B  È	π"	∞$∫
-	 Í	÷	"	∫$¯"  & Î	Ï	"	ñ$∂ ,f Ì	±	"	Ñ&»	
-%# Ó	π"	˛%	w Ô		"	ò&Ú
- : Ò	Ú",	Ë(‘í	
-7D'
-		O*!	©!MP% Ú	Û	"	∂&˛
-
- Ù	π"	–&»2&2
-j ı	π"	¸&¨
- " ˆ	±	"	˛&˙:V46$ ˜	π"	Ù&Ã
-%  ¯	∂	"	≤&∂2	& ˘	˙	"	¥&å
- ˚	π"	Ä'ú
- ¸	π"	û'“
-
-	 ˝	˛	ç	"	–'¥
- ˇ	π"	⁄'æ
-0 Ä
-∂	""	∏'¿jÅu"¶.=dW9?	Oe Å
-±	"
-	ú&˙6 Ç
-É
-"	Ê&Ï
- Ñ
-É
-"
-	ﬁ&í
-1  Ö
-±	"	Ñ&»
-5 Ü
-á
-"	¶&ê
- à
-±	"
-	Ñ&»  â
-ä
-"	û&í"J 46' ã
-±	"	î&∞" 0
-2R–  å
-∂	"	ﬁ'‰"'$W ç
-∂	"	¯'˛
-?= é
-è
-"	'¯
-& ê
-ë
-"	˛&BYÈ!5MHÆ í
-ì
-"
-	ú'ò  î
-∂	"	û'ò"*. ï
- "	ﬁ'"H"$  ñ
-Ù"	∏(Æ
-, ó
-Ù"	⁄'∂*, (`: ò
-ô
-"
-	∞)îc ö
-ô
-"	™)‘q  õ
-ô
-"	Ü)∂"*E]g} ú
-ô
-"	∞)å
- ù
-""	Œ*t
- û
-""	é*Ã
- ü
-""	û+∞"@  †
-""
-	ˆ)¿` 0 °
-""#	˙)îrÅ 1"^$*  ¢
-£
-"
-	î+K #  §
-•
-"	Ù*¥2LU"!8; 
-2 ¶
-""	à+ú
-$ ß
-ô
-"	ñ(ö
- ®
-ô
-"	Ç(ú
- ©
-ô
-"	¸(ÿ
-# ™
-´
-"		å(ê
-— ¨
-≠
-"	ö(é Æ
-¢	"	ƒ)†3á5 Ø
-∞
-"	¿(í
-o. ±
-≤
-" 	Í,ÑbKß99U´? K ≥
-¢	"	∏)Ê
- ¥
-π"	æ)¢
-L µ
-ô
-">	Ï,ò⁄ ã] 	' m?31!!!)	- ∂
-""	Œ+∞
-: . ∑
-""!	¸,úb Ìá6O9U#	Å  ∏
-""	Ã+Ä
-H  π
-ô
-"	¿+Ä
-2 ∫
-¢	"	ﬁ*Ä;A   ª
-¢	"	ﬁ*˛
-	+ º
-¢	"	÷,ÄR;ª 7IÄ◊')ê Ω
-Ç"Å	ê7é“7 ;C)a1Qõä9{;!S!M#7K8∑ >H V/ M/
- -1A) 
-% ü<3 /ó€Np=!' æ
-ø
-"	‰+Ä
-+ ¿
-""		é+à
-† ¡
-$"	¶-¥
- ¬
-$"	Ë-à
-	 √
-ƒ
-"	˙-‹
-	C ≈
-$"		⁄.#0 ∆
-$"#	¢-är3
-	a	&4?4)¢mJ;VORO «
-ƒ
-"	‚.¿U »
-ƒ
-"		Í/≤
-#Ö …
-¢	"	Í,Ü
-
-   
-¢	"	∆-¢
- À
-¢	"
-	≤-ö@  Ã
-ƒ
-"	 -Ë
-  Õ
-¢	"	Ã-¯76  Œ
-œ
-"	˛+Ä
-O –
-¢	"	ö,˛
- —
-“
-"	û,Ä
-' ”
-¢	"	–,¯
-  ‘
-¢	"	⁄,¸*
-	 l 0 ’
-ƒ
-"
-	ú-Ç   ÷
-ƒ
-"	Œ-Ä
-  ◊
-¢	"	ƒ.Ù
-! ÿ
-¢	"
-	∆. *$= Ÿ
-ƒ
-"/	Ê,åö 	 	 ]RÖ- ( &(ä	t-" ⁄
-ƒ
-"	“/∫:
-4+> €
-‹
-"	ê/ÙqA  ›
-ﬁ
-"	ê/¨
--
- ﬂ
-‡
-"	®.Ã*0/CGk ·
-‡
-"	∞.÷
-	 ‚
-ﬁ
-"	é/¸
-r „
-‰
-"	é/§
-&	 Â
-Ê
-"
-	ê/»&! Á
-Ë
-"	Ú,Ç*zñ	é-≤  È
-Í
-"	Ç/ˆ",(z , Î
-Ï
-"	§)†"i ü! Ì
-¢	"	Ù(û
-@% Ó
-Ô
-"	ä(åB	\ 
-4 ¢ 
-π"	ú(¬	
-  Ò
-π"	ñ)ˆ
-  Ú
-¢	"	ö*í
-9	3 Û
-Ù"%	‚,ñr 	£Vä5#	@ "09g∑ Ù
-ı
-"	§)†",B49  ˆ
-˜
-"	¿)ò*à8!†0z ¯
-˘
-"	Ñ(∞a ˙
-π"	¯(û
-
-  ˚
-π"	¯(®
-
-  ¸
-π"	Ê(˛
-
- ˝
-∂	"
-	¢( 
-1	% ˛
-±	"	æ)¬B	1á7 ˇ
-Ä"	Ñ(≤
-, Åπ"	¬(Ç
- Çπ"	ﬁ(ﬁ
-9 É¢	"	)≤
-++ Ñ¢	"	Ê)î
-
-	  Ö¢	"	)≤
-
-	 Üáà"	§)¥"   âä"	æ)º
-  ãå"	Ë(‘
-V çé"	æ)¿
- 	 èêë"	∂)¬
- íä"	æ)ƒ
- 	 ìîï"	¬)æ
-  ñê"	ƒ)∆
-@ ó¢	"	∏*ä"n	p ò¢	"
-	∂*Ù		 ô¢	"	à+Æ	
- ö¢	"	™+Ç	
-
- õú"	¥*⁄
-K ù¢	"	¿)¶J
-^ û¢	"	ä*∞
- üê"	Ñ*“
- †ê"	Ñ*“
- °ê"	†*‘
- ¢£"	¢+∏cI §•"
-	®+ƒ
-E	; ¶π"	Ê+¥
-
-
-  ß®"	®+ƒ
-2>@"
- 	& ©™"	¶,ˆ
-"#!4
- ´π"	»+‘
-* ¨π"	û(™
-
-* ≠Æ"	∫(†Z-
-? Øè
-"	 (‘*/ ∞è
-"
-	 (‘#5"$ ±∂	"	†(®B')8'@X!8 ≤π"	î(†
-
- ≥∂	"	†(®
- ¥è
-"	'¯îñ µ∂"	¨)º
- ∑∂"	ˆ)¨
- ∏∂"	∏)¿
- π∂"	¨)÷
- ∫∂"	∆)†
-	 ª∂"	º)∂
- ºΩ"	∆*ú"I
- æ∂"	û*Ó
- ø¿"	“*Ç"\ ,   ¡π"	ÿ+˛
- ¬√"	§+ò
- ƒ≈"	˙,ò"a{S ∆∂	"	¯)®
-p  «è
-"	∏+¨*„ 
-'9
-  »…"	¬+¨2 A   ∂"	û+¨
- À∂"	¶+¨
- Ã∂"	¨+¨
-  ÕŒ"	¸+¨
-A S œ–"E	¢)¿‚  !" éà™D 
- .˙"X@	
-ãäkt74" —“"	ƒ+í:A  -: 9 k5) ”‘"	÷,¢RP6."4à' ) ’÷"	Ú-Ù
-? ◊ÿ"1	™/÷™m&2
-c ,!72	(V\Z@i
-  Ÿë"	ä,Æ
-
- ⁄ë"	∂,§
-
-	 €‹"	ˆ-í
-S ›ﬁ"	ä-ò
-  ﬂﬁ"	ê-ò
-  ‡ﬁ"	¸, m= ·‘"	Ä.‡	Z6∂ ‚„"	˛-í
- @" ‰‡
-"	Ä0¬	:-is(  ÂÊ"	æ/ñ
-P ÁË"	÷/Ú
-# È‡
-"	Æ1å	:q'cù
- Í‡
-"	Ä0¬	(+, Î‡
-"	–.‰	F ÏÌ"	-¶"<Vµ ÓÔ"	û/ÑDã Ò"	˛/Ú
-/ Úπ"	Ü,í
- Û≈"
-	˙+®
-r. Ù≈"	˙,ò"5%
-9 ıˆ"		®,¨
-Å) ˜ê"	†*‘RVl,F|î ¯π"	¸,Ù
- 	 ˘˙Õ"	˙,Ñ
-  ˚π"	¸,Ç
-  ¸˝"	≤-˙
-  ˛≈"	“.‘€7 ˇ˝"	≤-Ç*&$		 ÄÅ"	é,¨
-" ÇŒ"	Ó,™"%5    É≈"	ˆ,–2Ri * > Ñê"0	ƒ)ƒöhÇp2@Ñ‡Zoj
-
-:jH  Ö≈"	¯,¶R	 Üπ"	Ã,®
- áπ"	∆,∞
- àï"	‡,§
- â˝"	Ú,Ä
-@ ä≈"
-	˙,¸8  & ãå"	‹-“*&-8 çé"	≤.ò"$N	 è≈ê"	‘.‚
-  ëá
-"	Œ/˛
-)/ íì"!	å-¿j&jú2 4,4L2 ` z	 î≈"	¶0÷” ï≈"
-	‡/÷H? ñó"	¶0÷"+1K ' òô"	Ê/“
-  öõ"	Ï,»"$Ê
-D	 úù"
-	 .ò
- ûü"	¢.÷&).  †ü"	¯.í
-  °¢"	¢.÷*F £§"	Ë/–*b36IFWv •ü"	¯.ò
-( ¶≈"	Ê/ûR   _^  ß®"	∂/‡
- ©™"	¯ ‡*$
-2) ´Ù"	ñ"ÇR	T;
-ª.Ms? ¨≠"	» ∂H ÆØ":	í‹¬
-<`C:165(59ïJ,E
- )
-µ9!;ô()	!' ∞±"
-	“!˙	  ≤≥"	÷ ú
- ¥µ"	˛å
-<	( ∂∑"	Ó ∂RIKQQR8*  ∏π"	§ Í2
- 	 ∫ª["	à"‡
- ºΩ"	é"∏
- æø"	î"⁄
- ¿¡"	®"Ã
- ¬√"	∆#Ù
- ƒ≈"	‚"∂
- & ∆Â"	ñ"ÇJ 2 00&
-z2 «»["
-	Œ"Ç … ["
-	"à ÀÃ["	Ê"¿
- ÕŒ"	‘ ò
-;
-' œë
-"	¸ÊB4$L8X<—MûÎ –—["	ñ î 8B9 “”["+	˛‰í82bG>701&7*&	, * ‘Â"	é‡J*nú.7æ$á$1$%á ’÷"	ö Ë
- ◊ÿ"	Ñ!˛
- Ÿ⁄["
-	∂!Ã'=8! €‹["	∞!∆
- ›ﬁ"	–"¨"U%	+ ﬂ‡"	ÿ"˛
- ·ª["	⁄"∞"C'0)	 ‚„"	∆"ÿ
-_ ‰Â["
-	ﬁ"™	  Êﬁ"
-	 "˛ Q ÁË["	Ù"Ê
-$K ÈÍ"	ú#
-  ÎÏ["
-	ö$§  Ìﬁ"	æ"˛b5	> ÓÔ"0	¸Êö4@" @(3
-DjäUfh
- , ∞ï'-OX ‹["J	∆"Ëä0&2*n[ (0 Zh(Wx3&
-g29'KÉL.V(r, N ÒÚ"	˛"∂
-  ÛÙ["	‚"Ä
- ıˆ"
-	Æ#⁄ * ˜¯["	Ä$∂+g  ˘˙["	–#à
-  ˚ˆ"	û#¨
- ¸˝["	∞#÷" 
- 
-
-%0 ˛ˇ["
-	“#Í(! ÄÅ"	ê$‡
-  Çë
-"	‚"¥*ä%¬7 ÉÑ"	Í%û
- ÖÑ"
-	Í%û( ÜÑ"	Í% 
- áÑ"	Í% 
-L àâ"
-	¥$‚7!$ äÑ"	Ú%ñBz5/ 
-% ãÑ"	Ú%ñ
-
- åç"	Ë%∞
- éè"	‰%º
-  êÑ"		¯&ˆ
-ç( ëë
-"		˛%ò
-Ä' íì"	‹&¨*B	 îë
-"	˛&
- ï±	"
-	&‚( ñó"
-	“'ñ ò±	"	¯&˙(D
- ôö"
-	å'¢: õú"	ú'÷
- ù∂	"
-	¢'¬ $b û±	"	§'Ê
-( ü†"	¶'Ù
-  °ö"	∆'î
-$ ¢∂	"	‚&é
-G £∂	"	¿'§"G !_ §•"	∏'§A	  ¶±	"	≤'é
-4 ß±	"	¿'¬
- ®©"	»'¯
-M ™±	"	≤'é
- ´±	"	¿'¬
-6 ¨∂	"
-	Ó'ﬁ#	? ≠±	"	»'¯
-$  Æâ"	Ü%‰2
-	++/= Ø∞"
-	∆$‹ ±≤"
-	Ú$§
- ≥¥"
-	ÿ$“-4, µ∂"	Œ$‡
-
-	 ∑Ô"	Ü%¬"	uã ∏π"	Ç%é
-9 ∫ª"		“%¶
-2ã< ºΩ".	Æ(Üí97SW%9ß;Mj—µi	GP" æÔ"	»%Ü:		SC' øï"	‹%à
- ¿Ô"	˙$Ñ*Nf$) ¡¬"	⁄$é
-  √ƒ"	ﬁ$º
-  ≈∆["	Æ$∏& «»["	¸#ê
-
-  … "	ÿ%¸
-#)% ÀÔ"	–%®B4ã+/N @ ÃÕ"	î&¿
-& ŒÔ"	∂&ÃJD 53+T œ–"
-	‡'ú/ —“"	‹'†
-3 ”‘"	í'Ó
-* ’÷"	ÿ'Ä
- ◊ÿ"
-	˛&®A Ÿ⁄"	Ï&⁄
- €‹"	‹&¯
-$' ›ﬁ"	∞'ò
-+ ﬂÔ"	¢%ƒZ	*!	îrjl#(|x85NS! ‡·"
-	‡'»"# ‚„"	®'î ! ‰„"	»'Ú
- ÂÊ"	∆'‰
-.4 ÁË["	∫ §
--$ ÈÍ["	Ú ®
- Î∂"
-	æ"‘ Ï∂"	¶"ú6v!/> ÌÓ"	å#‹*%$ * Ô∂"	®"¥
- ∂"	‹"í
- ÒÚ["	æ#Ü
- ÛÙ"	»#ﬁ
-' ıˆ"	å"ƒ
- ˜¯"	í"û
- ˘˙"
-	“"ÏPA  ˚¸"	»"¸
- ˝¸"	‚"Ë
- ˛ˇ"
-	ò#¿O<Xl ÄÅ"	ò#¿
-
- ÇÉ"
-	˙"÷(<"<D Ñ÷"6	åÙ¢($`»*X/ÄSvxÜoå≤ F*B@0Í8N)ñI$( ÖÜ"	∏$˛
-' áà"	Ä%ƒ
-CU âä"	≤%§*iN%" ãä"	»$Ú
-
- åç"	Ù$∆
-# éè"	%ä
- êë"	û%∞
- í÷"	Í%ä
- ( ìî"	¸&ÓR3_G-	 W. % ïñ"
-	∆$úBPQ óò"C	ö)Ù‚	79:8	ÌÈ
-
-iX
-' UFsdU	+B¥⁄$ ôö"	–%º
- õú"	ˆ%
- ùû"	Œ%æ
-LZ ü†"	¢&
-2	 °¢"	í&Ã*`ÜZX £á
-"	ﬁ'∆
-+ §•"	ñ)ÓZq<-SüXG% ESA23C ¶ß"
-	¸&Ó.*; ®ö"-	æ&îöG@PK>7$	3.=15' ©ö"	¸#†
-  ™´"	˛%¨"	79'+ ¨≠"	§$‚
-.% ÆØ"	Ù&∏*wv7>=6KO ∞≠"
-	%ñ ±≤"	ƒ%‡*>F ≥¥"
-	∫& µ≠"	‚&§
- ∂≠"
-	§(¨72#( ∑∂"	ê(»
- ∏è
-"
-	˛(†M ? π∫"
-	à)úQ  ªè
-"	≤(¿
-F" º∂	"	Ó'ﬁ:(gN-!W[ Ωè
-"	à)ú
-	 æø"	Ä)∫
- ¿¡"	Ë(Ù
-p ¬√"	Œ)Ù
- ƒ≈"	ä)æ"Xy\ ∆«"	»'¯&§4 »Ô"&	ä&»z;æ	 ú4 *,fe1- … "	§)ﬁ;- ÀÃ"	¿)¥
-  ÕŒ"	∞)Ë
- œ–"	Ó)ò
-/. —∂"	¬*¿
- @ “î"2	¬)‘íxZ!.-ZªÑ#B8ŒÚ¢ÑJ\6™t ”π"	Œ*∏
-
- ‘’"
-	ﬁ*®	 ÷–"	)ú
-&$ ◊ÿ"	¸*¯
-  ŸÔ"	Ñ+Ç
-*,  ⁄–"	Ç+ˆ2 & $" K €‹"	¶+å"PÖ O#g ›ﬁ"	Ü)÷"A/Å$ ﬂÔ"	Ñ(¢B	?=2h&
-  ‡·"	‹(ú
- ‚„"	ˆ(ú
- ‰Â"	Æ)ä
- Ê„"	ˆ(ú+#% ÁË"	∫)‡B'3ÄV8  Èï"	º)Ë
-$ ÍÔ"	‡(¥mir{	 Îï"	Ó(ÿ
-5 Ï„"'	⁄)ÙÇIPV%!;
-AYG_ !)+b: ÌÓ"	Æ)Ú-1 Ô"
-	æ)Ù= ),< ÒÔ".	û*Ëö/020&$0*
-O~ñR+J%'>$  ÚÛ"	˙*Ë
- Ù∂"	⁄+™
-
- ıˆ"	Ã*ê
- ˜¯"	ñ+ˆ
-! ˘˙"
-	¬+Ù# ˚¸"	ê+Ë
-) ˝˛"	Æ)ÙJŒÇ"ä48S! ˇÄ"	å+ˆ26î@ Åπ"	é,ä
- Çπ"	Ç,æ
-
- ÉÑ"	¸+Ó"Z	2 ÖÜ"	†,ä
-' áà"	‚,∞
- âä"	¯,Í
- ãÔ"	ò-Œ"3ç+ åç"		î-»
-7ï éè"
-	î-Ê  ê≈"	‡-‘*- 9  ëÑ"	ú-˙*  &, íÜ"	†,ä
-	 ìÜ"	™,û
-	 îÜ"	™,û
-
- ïÜ"	¬,‰
-E" ñó"	Ç+Ñ:
-&(Hl-NT òô"	¬,‰
-`& ö§"	ä.¥Bÿ,| #ú" õú"	î-»"
-"\ " ù§"	Ñ.∞
- ûü"	¶.å
-.  †≈"	§.å2%0~4 °ü"	¥.Ã
-$ ¢≈"	‹.¿B7L(*$`  £ü"
-	∫.» $ §•"		Ë.–
-´ ¶≈"	†/†
- ß®"
-	Ê.†;9  ©≈"	‡-‘2h(l| ™´"	¥.†
-( ¨´"	å.¬
- ≠∂"	Ä/
- ÆØ"	Ç,¿Rá/ ∞Ô"!	Ü,¬jJÅ- 3AR.lf
- ±≤"	™,˛*8 ,G
-? ≥¥"	ò,Ã
-	 µ∂"	¥,
- ∂∑"	⁄,ö
- ∏Ô"
-	º,ﬁ@(
- π∫"	ê,®
- ªº"
-	Ç,∫.G Ωæ"	í,Ñ"2^- ø¿"	ñ,ö
-  ¡æ"	ú-≤
-	 ¬æ"
-	¢-Ù$)
- √ƒ"	¯-º
-	 ≈∂"	.∏
- ∆∂"	‰.Ó
- «»"	Ä.‡*NQ-C $£ … "	Ê.‰<Å ÀÃ"
-	∏/í' ÕŒ"
-	».î1') œ»"	Ü/≤
-7# –—"	Ù-æ*
-	
- "  “”"	‹.†
- ‘’"
-	ä/ 	 ÷∂"	÷/§
- ◊ÿ"	Ï.‡*∂v
- Ÿ⁄"	‘/Ê
-% €‹"
-	/∂0=\ ›ﬁ"	Ñ/÷
- ﬂ‡"
-	‚/ê+'+ ·‚"
-	º(Ä	 „‚"	®(ê
- ‰Å"	Æ(Ü
-
-
- ÂÊ"	ö(ˆ/3 ÁË"	∆(†
-+) ÈÍ"	¸(ò
- ÎÏ"	Ñ)é
- ÌÓ"	‚)∂
- Ô˛"	¨)ê6Y	)+ Ò"	®(ê‰‹
-
- ÚÛ"
-	ñ)˙JN ÙÊ"	Ñ*ö"3mm ıˆ"
-	ˆ'ÊV1	 ˜¯"	‡(Ë 	! ˘˙"	¢(à* l  	 ˚¸˝"	û)‰" ˛‡"	¿)‹
- ˇÄ"	‚)û"
-1  ÅÇ"	∫)˙
-zv ÉÑ"
-	¶+“ -P ÖÊ"
-	§*¿'  Ü—"	™)Ù2 j\	 áà"	ò*ÿ".O âä"	†+∏"	 ãå"	¨+∏
-$ çé"	Ù*“B(* !]K- èê"	Ï+Œ
-C ëí"5	∞)˙ö6..0¢‘êí28-4#=Hkpç£/-mO°•iq	 ì≠"	Œ(ÿ
-74 î≠"	Ë(Ï
- ïñ"
-	¨)ˆ2 óò"	Æ)Ï"*&((tò>H ôÇ"	¥*
-^l öõ"	¢,ê"a~ úí"	∫+™
-" ùõ"	≤+ö0  , û—"	í+∏b 
-Dk>a  ü†"	Ë,∆
-
-3 °‡"%	ä/ r/ 1')2°˙)©1 ¢£"	¶,º
-(  §•"	à,Ë
-  ¶ß"	∏,§
-< ®©"	®-˙
- ™©"	¿-å
-Z: ´¨"	ˆ-Æ
- ≠Æ"	‘+ú*0K4Q
- Ø∞"	‘.®
-5! ±≤"
-	¨.Ê@c7 ≥¥"	Ï.Ç
-  µ≤"
-	».æJ0 ∂∑"
-	¸.™U; ∏π"	™/˙"    ∫ª"	“/‰
-U9( ºõ"	Ó+ÆJB*&1åV>E.+'Zi|â Ωæ"	ä/∫!I ø¿"	‹.ˆ
-8$ ¡¬"
-	Æ.¢nJ √ƒ"	í+‹*véXO"7" ≈∆"	†,à:#, «»"	∂-Æ
-% … "	∂-Æ$' 8 ÀÃ"*	≤)¯Ç ""(tòTfﬁ‚BN,8"2FJ`  ÕŒ"	à,Í2: D.*,(<* 8 œ–"	ö/Ó#@/F+ —“"	¿-ÆZ HLT"Ce0ç ”‘"	å/‹ ’÷"	Ü/æ
- ◊$"	Ú0=>F ÿ$Ÿ"	®1F
- V ⁄¢	"	≤2Ê
- €¢	"
-	é2ﬁ- ‹¢	"	¶2“
-# ›¢	"	™2–
- ﬁ¢	"	¿3Œ"1#W,X ﬂ¢	"	“2¿
- ‡¢	"	¨3®"GU&6 ·¢	"	û3Ó  ‚¢	"
-	Æ3†C! „$"
-	û4“OV ‰¢	"	§3Ä
- Â¢	"	ê3∫"1(π!dg Ê¢	"	Ù1î
- Á¢	"
-	ú2ÄO& Ë¢	"	‰1Ç
-N Èﬁ
-"	ú0à
-a Í¢	"S	ê7ñíG )I9ﬂ)[2 Y$ 5Ci2À
-èS+'+-Sƒ 	8 D’ñóÑ/t 	 Îﬁ
-"	»1û
-: Ï‡
-"	“1ÿ
-	  ÌÓ"	 1ƒ
-
-LB Ôﬁ
-"4	û7ö™]#A…<%q/={#i _!â 	 	Á	Z Ò"	ê1»"T0>.ú" Ú‡
-"	‚1¯:
-1	 ? Û‡
-"	≤1Ñ
- A Ù‡
-"	1é
-' ı‡
-"	ﬁ1∆
-  ˆ¢	"	ú2Ä
-  ˜¢	"	ò3à
- ¯¢	"	é3∆
-  ˘¢	"	ê3∫LD ˙¢	"	‡3¥
-	9 ˚¢	"	»3º
- ¸ﬁ
-"	ä2ê
- ˝Ë"	å4¿"&" ˛Ë"	Ê2¸D  ˇ$"	‹4î2#U3 Ä¢	"	ñ4‰
- Å$"
-	“4û* Ç$"	∫5>= ÉÑ"	∂4ƒ*zwJ3,% Ö$"
-	Œ5Ä $ Ü$"	ˆ4¸:9∑M àÉhMD9 á$"	ƒ58"tV  à¢	"	í4¯
-  â¢	"	ê4Ù
-	 ä¢	"	¿4ö
-G ã¢	"	»4Ë
-  å¢	"	≤5Œ
-# ç¢	"	¨5æ
-# é¢	"	æ5»
-; è¢	"	⁄5∞
-  ê¢	"	ﬁ5¿
-! ë¢	"	Ï5∫
- í¢	"	¬5Ã
- ì¢	"	Œ5ÿ"	> î¢	"	ƒ5‡
-. ï¢	"	æ6ñ
- ñ¢	"	¥6¿
-= ó¢	"	ä6‹*^-!8 ò¢	"	 6¥
- ô¢	"	¯6û
-N% ö¢	"
-	û4™5R9 õ‡
-"+	í7êä/
-@)'!	#G$Ri.4v≈65© úË"	ê5ö) ù‡
-"	å5‹
- ûË"	Œ5º
-O üË"	ƒ5äR  †Ë"
-	÷5‹& °¢	"	∫6Í
-  ¢‡
-"	‚6ÿi5 £Ë"'	Ü3ﬁr 	Øoñ&ÏG|åÃN(	 §•¶"	Ó6˙* >J ?M  ßË"	¯/¸
-$ ®Ë"	í0¿	
-. ©Ë"	à0¸	
-  ™‡
-"	“0¶	
-	 ´¨"	¢1
- ≠‡
-"	1Ç	";E: ÆË",	Ë2íEC	 k&0í"	<0D   Ø‡
-"	û0∫	6§ ∞‡
-"	é0¨
-
- ±Ë"	ú0¨
-
- ≤‡
-"	å0Í
-
- ≥‡
-"	å0ÿ
-6   ¥Ë"	 0¨
-" 
-BW  µ‡
-"	å0å
- ∂Ë"
-	å1¥
-&  ∑∏"	ƒ1æ*> : 	 π∫ª"	Ü3‘* 
-  º‡
-"
-	Ü3Ï ΩË"		‰2ƒ
-Ü  æ∏"	Ù3÷
- "" ø∏"	∆2î:1Y3$ ¿‡
-"	“2ö
-
- ¡∏"	Ù2Æ
-
-3
-6 ¬∏"(	Ü3ﬁÇ nx
-4§k
-Yk6G,} √‡
-"	ﬁ2∞
-
- ƒ∏"
-	Ñ3
-A7 ≈‡
-"	ä3ÄgB5 ∆∏"	‚2Ç
- «∏"
-	≤2†&L »∏"
-	ú3‰
-&& …≈"	à0™J	H ..
-  3  ∏"	Ä1¬*F,   ÀÃ"
-	Ù0–= ÕŒ"	1Ù
-$ œ–"	∂2Ó"Nú	 —“"	à3Ê.(F ”∏"
-	é5æ	 ‘∏"	˛4‘< ’∏"
-	∂4∫
-M ÷∏"	®4º
-
- ◊∏"	⁄4∏
-
-% ÿ∏"	4∂
-
- Ÿ∏"	Ã4∏
-å"I ⁄∏"	–4Ñ
-"  €‹"	Œ5≤
-
-V ›‹"
-	–5àH L ﬁË"	™8Ñ=a !0 ﬂ‡
-""	™2¸b"ñ>n8j4å:&t
-¿¸3l ‡·"	‹6∫
-
- ‚‡
-"
-	¿7“
-33 „‰"	ƒ7¿
-% Â‡
-"	î7Œ
-
- Ê‹"	ò6–*<' ÁË"	‚5‘
-" ÈÍ"	†6ñ:- ? ÎÏ"	å6‹
- ' ÌÍ"	å7ÊJ9â[Ow 7e
-Y	 Ó‡
-"
-	¨8÷A Ô‡
-"	Ã6Ó"‡`D  ‡
-"	¨8÷
-.' ÒË"	¶8–J@§3D6	b &0 ÚÛ""	ú8∫r  2
-
-&$$pH ÙÛ"
-	ú<ö ıÛ"	Œ<û**T2 :*. ˆ˜" 	∏<Ç
-b]Oeë$C5	e! /õ  ¯˘"	Æ8Œ
-"!(82 ˙˚"	»9æ
-
-X ¸˝"	ÿ9ñ
-  ˛˚"
-	ÿ9ñ h8 ˇ‡
-"	Ë;ò
-
-A Ä‡
-"	ò:º
-
- ÅÇ"	®:‚
-
-	5 ÉÑ"	ò;î
-
-,$ ÖÜ"	∞9úB7	%O  áà"	ÿ8¶2 +;  âä"	∞9ú
-W
-  ãÜ"	‹9ƒ2 	?* å‡"	¿;¸Z	
-	
-#* O< çé"	¿=ˆ	*K7 è‡
-"	‰;à
-
-D êë"	î<Ü
-
-	 íì"	î<Ü
-"	
-
-, îï"	∏<Ç
-
-  ñó"	˙<¸	
-
- òó"
-	<ö
-  ôö"	¿=ˆ	
- õú"		‹=Ù	
-Ñ ùû"	Ï=ñ
-) üú"	Í=¯
-
- †ú"	Ï=ñ
- ] °‡"O	–>ﬁ¢
-
-,2
-R@X(	6	 	_T#$/
-
-%0+	/&K;` ¢£"	Ó=‰
-7 §ú"	Ï=¥
-
-f* •˜"	Ä@∆	R…cô ¶ß"	¸>Í	
- ®©"	∆?∫
-~ ™´"	Ä0ƒ"2   @ ¨≠"	ÿ0û ∫C  ÆØ"	‰.§"∂r
- ∞±"	ÿ0º
-  ≤≥"	–1¢  ¥µ"	ﬁ1ê!	4 ∂∑"	ê2®Y4 ∏π"	ê2‰".JK. ∫ª" 	∏1˙j3 2HV2 
-. ºΩ"
-	û3®- æ´"	®.»b–.
-:VH< ø∂"	§0Í
-	 ¿¡"	‚1¥ ¬√"	/∂*'#$8$ ƒ≈"	¥1Ó
-
-  ∆«"	Ó1 2/C3 	 »…"	Œ1⁄m-
-/.  ‡" 	˛6Ób5BI:qd≠î18C8'/2CDK@# ÀÃ"	⁄1“:Ü5,%@1
- jY ÕŒ"	ÿ5
-q œ–"
-	‰5˙ —÷"	≤6Ä
- “”"	∏6é
-
- ‘’"	ƒ6¨
- ÷◊"	˛6Ó"	 )
- ÿÛ"	⁄8≤*
-	=.m^ Ÿ⁄"	˙7à
- €‹"
-	å4†Y ›ﬁ"	ˆ4™7( 5$ ﬂﬁ"	§5∫B  ‡·"	Ó5∞ ‚„"
-	–7Ï55 ‰å"	§7Ù
-1 ÂÊ"#	˛6Ób"0ûF≤(í ä"®fN: Á‡"	≤0÷
-OE& Ë—"	‹.†J ,$$P>ZNtN È‡"
-	⁄0ƒ	 ÍÎ"	⁄0ƒ
-	 ÏÌ"	î0ú
-( ÓÔ"	ö1ä
- Ã"	–0⁄"*!@= ÒÚ"	æ0‡Çf ÛÙ"	‘1ƒ
-
- ıˆ"	Ã1 
-  ˜¯"	“/‰2J0$	,9 ˘˙"	˙2é%?
-- ˚¸"
-	ä2Í	 ˝˛"	‰2®
-X ˇÄ"
-	∂2˙ ÅÚ"	Ã1 >,^6X: ÇÉ"	 2ê
- ÑÖ"
-	Ä3∫ -  Üá"	¿3Ê
-^2 àâ"	¸3é
- äã"	∆0»¿ * åç"	†0ºZ6X@$ B$  éå"	®3Ï
- 2 èê"$	Ù3†z'D$68&4B
-81 ëí"#	ö2⁄j 3 4öM	ÍÑ
- ìî"	¸4é
-  ïñ"
-	ˆ4ÿ 9 óò"	ˆ4ÿ
-  ôö"	Ï4Í
- õú"	ñ5î'-5  ùû"	Ä4˛2, :U, ü†"	Ê5b;I%#1		 //#7# °ˆ"	º4‡
-
-  ¢£"
-	–4≤.o- §•"	Ä4˛2  ¶Ú"	û4ò`., ß®"	ê6Ç
- ©™"	¿6ÿ
-
- ´¨"
-	 6÷2  ≠Æ"
-	Ã7§= Ø∞"	‡4ò
-   ±≤"	Ñ5¿2#B
-
-< ≥¥"	ƒ5Ê*&H µ∂"	¥5ò 
-9 ∑∏"
-	ﬁ6ò%Q! πÚ"	Ó5¸.0¿& ∫ª"	ﬁ6òJ
-
-  &" ºª"	Œ6¨:" 5' Ωæ"	∏8æB.?r-4ÒË#(kÜ	 ø¿"	å7»
- ¡Û"	‹9ƒ""1&" ¬√"	⁄8≤:0 ƒ√"	¶9ﬁ"
-2< ≈∆"	‡9Ë
- «√"
-	Ü9‹6H »√"	Ñ:Í
-p … "
-	Ó?»2  ÀÃ"	ú:∆*[U3 ÕŒ"	¸8∂
-=  œ–"	¿8™(kIC —“"
-	ú:∆ ?S ”å"	Œ:‘A"Q ‘Ã"	Œ:‘
-1 ’å"	 :‰
-
-$ ÷Ã"	∫9⁄B C!Rg9S  ◊ÿ"
-	†;™	%7 Ÿ¥"	å8¥
- ⁄€"	ò8¨
- , ‹†"	¶:‡b!3#;'W	'7a ›ﬁ"	ö8∂
-|. ﬂ‡"
-	¬9‡ ·‡"	⁄9
- ‚„"	Ó9¸
- ‰Â"	¬9Í
-@  ÊÚ"	¬9Í2"64
- ÁË"	Ù:Ä
- È„"	å<¯ây99YG  ÍÎ"	⁄92*x)2	&`' ÏÌ"
-	å<¯L ÓÚ"	Ù:Ä"BDƒ™  Ô"	∏<¥
-, Ò†"	†?¿"Z?W+=)'ESìâ3+#SO" ÚÛ"	‡<⁄:	6	$( Ùı"	û>û!RD9( Pc"Y' ˆ˜"	‚$§J&8;í	
- ¯˘"	Ù$“ 'Q ˙˚"C	ò)åÚ
-BV
-]&G"%#',&*$$$M%
-% ) ¸π"	í&‰"
- * ˝˛"	∂&¿*Z31I/g-A3C ˇÄ"	∂'ƒ)
- ÅÇ"	¨&Ã**##. ÉÄ" 	(ê)jq GD%#S`m ÑÖ"	Ç(Ú+
-% Üá"		Ê(å,
-”). àâ" 	Ï(‹+j+c
-/3*L2 ä≠"
-	º+æ 2> ãí"
-	Ä+˛ @r åç"	ÿ+ê'
-aS éè"	û,»&
-qW ê¨"	˛+˙&
-7$ ëÇ"	».ò!B0
->	z .7xs| íÇ"	å.Ç 6| ìî"	¥.‹ 
- ïñ"
-	î.ñ 0P óò"	».ò!
-6 ôö"	⁄.Ç"
-2 õÃ"	æ.æ#
-'` úù"	“.¢#
-	 ûü"
-	⁄.≤#		" †°"	Ù.Ó#
-	' ¢ü"	–.™# å) £§"	Ù.Ó#
- •¶"	ﬁ-∂$
-(W ß®"	‘.¯#
- ©°"	Ñ/®$
-9 ™Ã"	Ï.¨$
-" ´¨"	¸.‹$
-> ≠Æ"	÷(ê)*U/ Øè"	ˆ(ê)
- ∞±"	¨*Ï(
-Y% ≤≥"
-	¨(Í+ ¥¨"	™)÷*
-	 µ¨"	¿*Ñ)
-!	 ∂¨"	Ç+ä(
-Y ∑∏"K	Œ(é-ÇP˜ 	' 	 7Ä#@U"%PQ '™≥@G_/+7 π±"	‰(î,
-  ∫±"		à+ä(
-Ù ªº"	‚&ƒ1
-W! Ωæ"	ﬁ&“1
-  ø¿"	Ç&Ë5
-M ¡¨"	Ë%ƒ7
- ¬¨"
-	Ù%–6&   √¨"	“!é<
- ƒ≈"
-	ú#≤>S, ∆¨"
-	ú#≤>	 «¨"	Ã#Ç?
-) »¨"	‡%í8
- … "	–%§9
- À±"	§%í<
-D Ã±"	ê%ÿ=
-{ ÕŒ"m	ﬁ$†A˙-qO(—•>±ßóMY3PŸ"Q		"	$<
- ?òùDWFO-
-  >G(#^gBA œ–"	Ú$Í?∆y‡c —“"
-	˙/¨%C70 ”ü""	∆.Ã#r4V4R46($&zh ‘’"	Ë0ˆ&W(9* ÷◊"	‡0–&"N
-  ÿ¿"	Æ4∫!
-: Ÿü",	Ù1Í'äVD$X&|™ à¬HVDb(6,U$/ ⁄€"!	Ñ>ú#jgM≠"%3=% =
-#O ‹„"	™>™!õ∑Åy ›ﬁ"	¶=§ 
-	 ﬂ‡"
-	‡>Ë! ·‚"
-	˙>ä"`; „€"		 ?à#
-≈$ ‰Ú"	¶=§ :PZ‘¸ <( ÂÊ"	‘?¸"
-	 ÁË"	Ñ?Æ%	'7, ÈÊ"	 ?à#ZRF: J00Ç*	@5à Íå"	Í>§&
-.# ÎÏ"	ê>ò*:A{ A;
-Ω&) ÌÓ"	ê>ò*J&   	FMêõ˛ ÔÓ"	ä<∆4"?C32 Ò"$	<–0z1		6	 ÚÛÙ"'	¸6ÑzG)±#%#BââQ	-H/^7	 ıˆ"	†Aö
- ˜¯"
-	î@å
-	 ˘˙"	î@∞
-
-R ˚ˆ"
-	ñ@“
- ¸ˆ"	‚@÷	
- Z ˝ "	¢@≤
-f3 ˛ˇ"%	å@ƒ	z 6Ä" *H ÄÅ"	íA™
-  ÇÉ"
-	˛@™^ 6 Ñ "(	®@òÇ*%   n$ >	ä$ ÖÜ"
-	‚@êa " á "	Ä@Ä2D¯é^
-
-" àâ"	‚@ê
->" äã"	ö@¿	:
-2D>" åç"	™?»":"	4  	X)  é„"	†Aí$23kQ#?WUe è†"	†Añ$üwOQ êë"
-	ÄA¸#	6 íÚ"	‡@Ú#
-@, ìî"	†A¯/
-	# ïñ"	˛†A:7?C_GoI+· G( óò"	Ê∏@R"LV	&,"LR $F" ôö"	‚$êA.$	" . ! õú"	ÿ<†A"˚ü)FÉﬂÖ∆$x
-nigeria_cluster(Ä FID" ≠Ú" ÌÒ" ä¯" ÆÉ" †Å" ê»" ˆÉ" ¬Å" £¸" ∑¸" ∏Ã" Ï…" À»" √…" Ä∆" àƒ" ù»" ¬≈" ∏»" ˝ƒ" ™»" ‡À" ƒ»" º»" ¢∆" »˛" ßÕ" Â»" Œ«" Ç≈" ∂∆" ·˝" §¸" ⁄˛" £À" ≤…" ’…" ∞ƒ" ‘ƒ" ‡Ä" …À" √À" È¸" û«" …Õ" ÏÃ" ìÃ" ÒÀ" ˚È" Ó˝" ï " ªÕ" •˛" ﬂ " ¢À" Û…" ï∆" »˜" ∫Ä" ΩÄ" ÄÑ" è¯" Ñ" ¡˝" û " ù˛" ê≈" ÿ«" è≈" Ì˛" ÂÃ" ˛À" ﬂ…" ø˚" ÁÒ" ‰Ò" ¨Ú" ì¯" Ô˜" ≥Å" ›Ä" √˝" ˜Ç" ≤Å" ™ˇ" û¸" ∑Õ" ÷˛" ËÀ" ñ˝" ùÕ" Úƒ" ≤ƒ" ã˙" ©˘" ˇˆ" çÑ" Í˘" ˚ˆ" ˝˛" ÃÄ" óÖ" ÕÅ" üÖ" ∫À" §˛" ‚…" ∞˝" ¨¸" Æ»" ◊«" ‡˙" –˜" •Ö" í√" ô√" ó√" ∏√" Õ¬" ò√" ã√" ¢¡" ‘¬" Õ√" é¡" ’¬" Ó√" ß√" ñ¬  "	üÊ. "	ñ/ (  "	=‘1*&%P%5@% "	q¬32@4(( [j9I e  "	1ÿ5J2
-5= A$ "	K˙=RBB
-D ã&  ≥ "	Ü‹3"  ' "	†º5B4'(g %4 "	∫å9:& 3 O 	"	˙˛8" (  
-"	‘™: '  "	v˛;  % "	Ü⁄<J&Ñ œj ë®A "	‚å<   "	‘Ë<(M  "	†»>   "	Ïº>:BN6's  3" "	≤ò<Bjg‘? õO É5 "	¢Æ>* 3  "	⁄‡="   "	ÚÆ>2   ! "	∏
-Ç:B®(&hM(ÁA'A& "	Ù¢>"4 6% ' "	ﬁ
-˙=B4 ?6 K5 [ "	ﬁ
-Œ? B 3 "	¿∞8*2  %' "	¿Œ9*   "	Ü¥<Bh&YP 1'  "	†‰>: % & "	‰ê=*\v6µ%M "	ÿŒ?"   "	∂“7*%(    "	Œ÷8:tíg( i !"	™î8* ((' '' ""	ˆ“:B@( 3[ w #"	éå<* (   $"	Ç˛;2  5 %"	‡Ü> &"	ÿ“=:4'3 '"	⁄ö6*  % ("	ÙÏ:% )"	éÏ:"   *"	ƒ÷8" # +"	Ñ‰>R(6343'  '34 ,"	¨¶9 65 -"	“ˆ9"M  ' ."	†™:2(  4 /"	‚∏:2&(3 ?5 á 0"˛	†Aü¬ ﬁ-ü$Áà \M5 Éé 	≈dB 6Y(ı4 'wÖ4 èj ?3 «,R6úvB^& P ['õr62(46ô3''Õíç ©O[i' >˝u;^ıÁﬁH(ê»\ôÑ'?3ßiMAM[O"Y◊0 ´ò( ('6 K' 
-1ÅtK
-(S[= %35Ìıg[üˇüá ·+ 1"	º'“7"   2"	⁄! ;26% 3  3"	Ñ$¿9  ) 4"!	Í$û7ZúNPv (MPsj %'Å≈ 5Zù 5"	Í$¢;" 3(5 6"	í%˙:&( 7"	û%‰;" P%  5- 8"%	º(¶<b 4còz&© sü1MB∑@AêOﬁA 9"	¥+∞2  :"	 (¬6% % ;"	–,‰5R4 [&ß6 ' @É <"	¯-‹3%  ="	î/‡1*( ( %' >"	Ñ-¢5    ?"	 (“7:4( ( A3  @"	(‰;  0 A"(	¿*¢8réB µ∞e4''AA[¬ë B"	ò)“=&u  C"	Ú)>"    D"	ò*“="%  E"	Ù+‡72( 4  F"	í.Œ9B 4 3 i G"	˙/™:*(  5" H"	¨/¢;BvÜ &Å& 3≈  I"	™6 /*N(M %% J"	˙7ñ/"4M   K"	Æ9¢/ L"	æ;Ó. (  ' M"	˙/˙1"( 3   N"	ò2à2"63  ' O"	é5‰5" %  P"	‹4å62(õ  hA Q"	®4Ó7" % R"	¯6∏4B 6   S"	ƒ6Ú5*  T"	∏7ê7  & U"	÷1÷8J(P ?‘ çù'éü V"	Ú2¥92 %  W"	¬4∞8   X"	Í5∆:" 3 ' Y"	–6à8*1  3 Z"	˙7Œ9"   ["	Ù4™=:v(&4(33 g[  \"	Œ4Ü>Z6 ? ]"	†8‹0"  ^"	»9í1  _"	Ó8 2* (?  & `"	º9‰2:46P [jA 2i a"	å<¬02P&? Yw  b"	:‰2    c"	Ó8™7 & d"	‘8Ú5RË4 œB ç' A" e"	∞:Ñ4JZ( Yv Yù f"	æ; 5" % g"	Ã<‹3R@û A(?3ù4 h"	‚9à;   i"	¿<∞8:4 6&s'%Oé%! j"	î9÷;J(P'(M ' 5& k"	¬=Ó72&3 & l"	ﬁ?å92(   m"	ê?î>B4 ' % n"	í@“=R@ †M\%Y n≠ o"	†Aƒ/2 íüqA	 p"	¨@˙1:4@( ( [[  q"	†Aò3" ÷?õ O r"	à“@"%   s"	ú	Ç@B +vì Og@t t"	∆ƒ@: (   u"	∫™@2 41 &A v"	ñÏ@4=   w"	 Ù?Bd88hõ [i D x"	™“@*(   y"	íîA  z"	Ñ-ﬁ@*&Å %%  {"	‰1™@"    |"	¶3Ë?:"  A }"	®4˙@* )! & ~"	Ä4Ù?"(3' "	Ù4∏@2(1 3 Ä"	ˆ=“@dNù  A
