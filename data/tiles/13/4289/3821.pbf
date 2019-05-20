@@ -1,555 +1,0 @@
-±Пx
-kedco_lines(А osm_idname
-other_tags"
-57"
-
-BUK Feeder"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"33""
-13386"/
--Gobirawa Branch, Dorayi Branch(Kabuga Feeder)"5
-3"operator"=>"KEDCO","power"=>"line","voltage"=>"11""
-13390",
-*Karshenwaya, Dorayi Branch (Kabuga Feeder)"
-12828"
-	Chiranchi"G
-E"operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"11""
-12836"0
-.Chiranchi Gado da Masu Branch By Abubakar N. A"
-12834"5
-3Chiranchi Gidan Sarki Dutse Branch By Abubakar N. A"
-12688"
-11KV AMINU KANO FDR"
-21891"%
-#PRISON BRANCH,(KOFAR NA'ISA FEEDER)"
-21890"0
-.MTN BRANCH,PRISON BRANCH,(KOFAR NA'ISA FEEDER)"
-17335"
-Jakara"
-21871"2
-0AYAGI BRANCH,AISAMI BRANCH,(KOFAR NA'ISA FEEDER)"
-12553""
- Sani Mainagge (Marmara Hospital)"
-21794")
-'MADATAI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21786")
-'ECOBANK BRANCH,(KOFAR NASSARAWA FEEDER)"
-21795"*
-(SHAHUCHI BRANCH,(KOFAR NASSARAWA FEEDER)"
-21903",
-*YAN-SANTSI BRANCH,(KOFAR NASSARAWA FEEDER)"
-17224"	
-G/Dutse"Х
-Т"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15MVA","substation"=>"distribution","voltage"=>"33""
-17223"О
-Л"cables"=>"3","circuits"=>"1","frequency"=>"50","layer"=>"1","operator"=>"KEDCO","power"=>"BUK G/Dutse branch","voltage"=>"33","wires"=>"3""
-12707"
-Kabuga"
-12551"
-Sani Mainagge (KCC Line)"
-17295"4
-2WATC Education Quarters II Branch, (Kabuga Feeder)"
-12007"
-BUK FDR BRANCH SHOP WELL KANO"
-12709"
-Kabuga N ID Card branch"
-12006"
-BUK FDR BRANCH FCE KANO"
-17293"!
-MTN BTS Branch, (Kabuga Feeder)"
-17287"
-Gamco Branch, (Kabuga Feeder)"
-12005"%
-#BUK FDR BRANCH DUKA WUYA SUB BRANCH"
-17284"%
-#Dan Gwalalo Relief, (Kabuga Feeder)"
-12710"
-17285"
-Dan Gwalalo, (Kabuga Feeder)"
-17297"
-WTC School, (Kabuga Feeder)"
-17296"
-WTC Quarters, (Kabuga Feeder)"
-13392"E
-CMinistry of Higher Education Branch, Dorayi Branch, (Kabuga Feeder)"
-21872"*
-(BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21885"G
-EKURFI 2 BRANCH,KURFI 1 BRANCH,BALA RABI'U BRANCH(KOFAR NA'ISA FEEDER)"
-21886"7
-5KURFI BRANCH,BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21874"E
-CDALA BRANCH,KURFI 1 BRANCH,BALA RABI'U BRANCH,(KOFAR NA'ISA FEEDER)"
-21875"3
-1DAN-BALA BRANCH,LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21887"#
-!LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21893"7
-5TSOHON GABAS BRANCH,LADO BRANCH,(KOFAR NA'ISA FEEDER)"
-21873"2
-0BANUFE BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER0"
-21877"1
-/DAN-LAMI AL-HASSAN BRANCH,(KOFAR NA'ISA FEEDER)"
-21870"3
-1AL-AMIR BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-21883"$
-"KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-21869"&
-$AI-SAMI BRANCH,(KOFAR NA'ISA FEEDER)"
-12559"
-Sani Mainagge"
-12550"#
-!Sani Mainagge (Alh. Samaila Line)"
-21892"*
-(SALLAU MUSA BRANCH,(KOFAR NA'ISA FEEDER)"
-21876"(
-&DAN-IZALA BRANCH,(KOFAR NA'ISA FEEDER)"
-12555""
- Sani Mainagge(Alh. Samaila Line)"
-12557"%
-#Sani Mainagge(Salisu Sambajo House)"
-21888"8
-6MAI-TANGARAN BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-17283"L
-JDamisa Street Branch, Gwale LEA Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17289"6
-4Gwale LEA Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-21878"6
-4DAN-SARARI BRANCH,KAURA BRANCH,(KOFAR NA'ISA FEEDER)"
-17291"<
-:Layin Mai Sa'ad Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17286"$
-"Gadan Kaya Branch, (Kabuga Feeder)"
-17294"F
-DMasalachin Mallam Ja'afar Branch, Gadan Kaya Branch, (Kabuga Feeder)"
-17290"
-12913"K
-I33KV SHARADA DANGOTE FROM KUMBOTSO TRANSMISSION STATION BY ABUBAKAR N. A."
-12514"
-NNDC Branch By Abubakar N. A"
-12912"
-12512"Y
-W11KV NNDC FEEDER FROM SHARADA 2 X 15MVA, 33/11KV INJECTION SUBSTATION BY ABUBAKAR N. A."
-17288"#
-!Gidauniya Branch, (Kabuga Feeder)"
-17292"
-12511"
-12508"
-12509"
-13393"0
-.Salanta Branch, Dorayi Branch, (Kabuga Feeder)"
-13391"0
-.MTN BTS Branch, Dorayi Branch, (Kabuga Feeder)"
-13385"
-Dorayi (Kabuga Feeder)"
-13388"A
-?ITF Compound Branch, ITF Branch, DorayiBranch, (Kabuga Feerder)"
-13394"7
-5Tsamiyar Kuturu Branch, Dorayi Branch (Kabuga Feeder)"
-13387"+
-)ITF Branch, Dorayi Branch,(Kabuga Feeder)"
-13389"C
-AJa'in Workshop Branch, ITF Branch, Dorayi Branch, (Kabuga Feeder)"
-12839")
-'Chiranchi Ahmad Branch By Abubakar N. A"
-12806"
-Phase III Maitama Branch"
-12805"
-Phase III Ja'en Makera Branch"
-12801"
-Phase III (MTN Branch)"i
-g"cables"=>"triple","gauge"=>"100","operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"11""
-12800"
-Phase III (Dillalai Branch)"
-12531".
-,Housing Estate Sabon Gida Branch By Abubakar"
-12865"
-Sharada Dangote Ahmad branch"
-12527"
-12532"
-12507"
-12866"&
-$Sharada Dangote - Small Scale Branch"
-12528"
-12530"2
-0Housing Estate Salamatu Wofan Branch By Abubakar"
-12533"2
-0Housing Estate Sule Ya'u Sule Branch By Abubakar"
-12529"'
-%Housing Estate MTN Branch By Abubakar"
-12526"-
-+Housing Estate Engr. Aji Branch By Abubakar"
-12534"/
--Housing Estate S.K. Bayero Branch By Abubakar"
-12843"0
-.Sharada Dangote Liman Branch By Abubakar N. A."
-12786"
-Dala Food (Gidan Zobo Branch)"
-12845"*
-(Sharada Dangote Branch By Abubakar N. A."
-12850"4
-2Sharada Dangote Lela Agro Branch By Abubakar N. A."
-12793"
-Dala Food Branch"
-12788"!
-Dala Food (Gidan Gongon Branch)"
-12794"
-12536"/
--Housing Estate Rinji Branch By Abubakar N. A."
-12524"
-Housing Estate (Aswan Branch)"
-12525"
-Housing Estate"
-12849"5
-3Sharada Dangote J.K Carpet Branch By Abubakar N. A."
-12447",
-*Sharada Industrial Branch By Abubakar N. A"
-12852"
-12855"
-Sharada Dangote"
-12795"
-12853"0
-.Sharada Dangote Vasco Branch By Abubakar N. A."
-12791"
-12787"
-	Dala Food"
-12549""
- Sani Mainagge (Alh. Nasidi Line)"
-21881",
-*GIDAN KANKARA BRANCH,(KOFAR NA'ISA FEEDER)"
-21880"*
-(FILIN MUSHE BRANCH,(KOFAR NA'ISA FEEDER)"
-21882"/
--GWALE BRANCH,FILIN D.0 BRANCH,(NA'ISA FEEDER)"
-21884"
-KOFAR NA'ISA"
-21879"(
-&FILIN D.O BRANCH,(KOFAR NA'ISA FEEDER)"
-12554"(
-&Sani Mainagge (Sani Buhari Line, Back)"
-12552"%
-#Sani Mainagge (Kwanar Mai Shinkafi)"
-12556"
-Sani Mainagge(Kwanar Marmara)"%
-#"operator"=>"KEDCO","power"=>"line""
-20375"-
-+SAHAD BRANCH,MANDAWARI BRANCH,(CITY FEEDER)"
-12558"
-Sani Mainagge(T-off)"
-21894"&
-$VETNERY BRANCH,(KOFAR NA'ISA FEEDER)"
-20371"*
-(DISO BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-20372"0
-.GALADANCHI BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-12513"
-12510"
-12520"
-21889""
- MTN BRANCH,(KOFAR NA'ISA FEEDER)"
-20376""
- SORON DINKI BRANCH,(CITY FEEDER)"
-20370"#
-!DALIN GWAMNA BRANCH,(CITY FEEDER)"
-20374" 
-MANDAWARI BRANCH,(CITY FEEDER)"
-20377"3
-1SORON DINKI BRANCH,ALI SANYA BRANCH,(CITY FEEDER)"
-20369"!
-ALI SANYA BRANCH, (CITY FEEDER)"
-20373"-
-+MAGASHI BRANCH,GUDINDI BRANCH,(CITY FEEDER)"
-20334"
-GUDINDI BRANCH,(CITY FEEDER)"
-20378"-
-+WAZIRI BRANCH, GUDINDI BRANCH,(CITY FEEDER)"
-20252"
-SAGAGI BRANCH,(SAGAGI FEEDER)"
-20424";
-9Hasiya Bayero Branch, Emirs Palace Branch, (Kurna Feeder)"
-20332"
-CITY"
-20417"$
-"Emir Palace Branch, (Kurna Feeder)"
-20254"%
-#YAR-KWARANGA BRANCH,(SAGAGI FEEDER)"
-21798"*
-(UBA WARU BRANCH,(KOFAR NASSARAWA FEEDER)"
-21784"&
-$BOLA BRANCH,(KOFAR NASSARAWA FEEDER)"
-22118"C
-ADURUMIN ZUNGURA BRANCH,SABUWAR KOFA BRANCH (IBRAHIM TAIWO FEEDER)"
-20333"
-EMIER'S BRANCH,(CITY FEEDER)"
-20419"
-20416"8
-6Aminu Babba Branch, Emir Palace Branch, (Kurna Feeder)"
-22124"J
-HGEZAWA 2 BRANCH,GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22125":
-8GEZAWA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-21793"
-KOFAR NASSARAWA"
-20437"@
->Sudanese Consulate Branch, Emirs Palace Branch, (Kurna Feeder)"
-22115"?
-=AMINU BABBA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22137"1
-/WALI BRANCH, MUBI BRANCH,(IBRAHIM TAIWO FEEDER)"
-12867"
-12394"
-Sharada Industrial Branch"
-20253"
-SAGAGI"
-12864"
-58"
-
-Dan'Agundi"Б
-"frequency"=>"50","location"=>"outdoor","operator"=>"KEDCO","power"=>"substation","substation"=>"transmission","voltage"=>"132""
-12358"
-12901"
-YUSIF ALI BRANCH"
-12518"
-12506"!
-NNDC Main Line By Abubakar N. A"
-12515",
-*NNDC Muntari Aliyu Branch By Abubakar N. A"
-12522"
-12851"
-12903"
-12517"
-12521"
-12516"/
--NNDC Sharada Jumma'at Mosque By Abubakar N. A"
-12519"
-12916"6
-4Sharada Dangote Small Scale Branch By Abubakar N. A."
-12863"
-12902"8
-6Sharada Dangote B & B Leather Branch By Abubakar N. A."
-12904"
-12910"
-12909"
-12907"/
--Sharada Dangote Myer Branch By Abubakar N. A."
-12911"
-12906"5
-3Sharada Dangote Karami Oil Branch By Abubakar N. A."
-13286"H
-F33KV SHARADA BATA FROM KUMBOTSO TRANSMISSION STATION BY ABUBAKAR N. A."
-12361"	
-Sharada"Т
-П"frequency"=>"50","location"=>"Sharada","operator"=>"KEDCO","power"=>"substation","rating"=>"2x15MVA","substation"=>"injection","voltage"=>"33""
-12535"#
-!Housing Estate Branch By Abubakar"
-12844"
-12848"
-12443"
-12842"
-12449"
-12442"
-12846"
-12847"
-12445")
-'Sharada Industrial - Kumbotso BU Branch"
-12790"
-12792"
-12789"
-12450"8
-6Sharada Industrial Kwarin Baka Branch By Abubakar N. A"
-12908"
-12914"4
-2Sharada Dangote Crane Oil Branch By Abubakar N. A."
-12915"
-12396"
-12401"
-12360"
-Sharada Industrial"
-12400"
-12395"
-12398"
-12399"
-12905".
-,Sharada Dangote VVY Branch By Abubakar N. A."
-12397"
-12446"
-12393"
-12440"6
-4Sharada Industrial Tukuntawa Branch By Abubakar N. A"
-12804"
-Phase III Ja'en Branch"
-13284"
-
-Spannish I"G
-E"operator"=>"KEDCO","power"=>"line","unit"=>"Sharada","voltage"=>"33""
-12854"
-13285"
-Spannish II"
-12857""
- Sharada Dangote (Gongoni Branch)"
-13287"
-Sharada Bata"
-12780"
-Dala Food (Royal Foam Branch)"
-12444"7
-5Sharada Industrial Gidan Fako Branch By Abubakar N. A"
-20418"
-22128"
-IBRAHIM TAIWO"
-22138"G
-EWRECCA GIDAN RIJIYA BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22135",
-*SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22134"8
-6MUBI BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-22116";
-9BARRACK BRANCH,SABUWAR KOFA BRANCH,(IBRAHIM TAIWO FEEDER)"
-12057"
-CLUB 33KV FEEDER"
-12469"
-Ajasa Rumfa Branch"
-12464"
-Ajasa"
-20430"
-Kurna Feeder"
-12896"
-DANAGUNDI-ZARIA ROAD"
-12619"%
-#CBN Feeder SAM 03 Kassim A Burkullu"
-12465"
-AjasaKERD Branch"
-12894К  "~	Њ;ЉЏ•«C≈+њ#°’#		І#п√нJ€`«RЯАяD7џt5°∞•<Еў≈!ЌG%ЫyГЙcХ-W;њ!С1Ђ-©Х%љ-g92 "	0Џ*/З "	ПҐ/
- 	
-"	д†A"ЗЯ?MYNњ†+ "	Яъ3b4	@,†7R-R8<D "	Ям:
-0  "	О†DЯ&Я "	ҐУ5s "	мН
-F "	Ї∞*nC.≥&Я "	Цш*Ў±vEО[t7 "	д-{
-U "	Р8k
-3 "	а7G
- D  "	А9Я
- !""	ђ;Я
-" #$%"	§ъ"the_ &'"	®в/-!. ()""	Ї∞b#9«	D6 FМ™ zЖ0P@! *+"	Ш»2L
-
- ФqF/фг ,-"	¶	Т	Л ./"	і
-®
-"] )I 01"		Ї	в	
-рB 23"6	≤мТ\Ќ,uE&s`ЌЎ°GX≠0w<—*£їTЯ[iЈІ 45"	ґр
-6' 67"	¬јBњl_Бџ9©WeЫ 89"
-	оо},[* :;"	Оф
-LZ <)"N	ФД“8!)ДCО=»CК?юЪ\'v_ёKАYТdCґRR†9ИGдзоi.Џ.ђ"іцO =>"	ЉьD
-Њ ?@"	вЖ2nF AB"	И
-Џ*.Тђ*|	A CD"
-	“
-о|d EF"	ёЇH,ҐЦ, GH"
-	КтC'' IJ"
-	»ь7f#n KL"
-	Кт,R. MN"	“†*ЫP0 OP"	ЦТ√™ QR"	иТ"@/' ST"	ЬјRГM '?}O# UV"	‘Тґ WX"
-	дЉ+)	- YZ"!	И÷bНе/Y&L@
-Rё\T;8 [\",	ґMВ$¬F"юF8 JЎp"Њ.оЦ	y\GVyx ]^"l	аі¬GФZf|)t
-дВ0і~¬n^»јґМ-д_оІtG‘#N"HЮ%ь?ґ-¬UJ5юХf/@1q'зЗ/ )Q#" _`"	Ж ƒ	B]#a3k7#E ab"	мФ
- cd"	Аќ
-!5 ef"	ТМ
-"-б+C#І; gh"	д™
-O$ ij"	∞ъ23 iYE	 kl"		Џ 
-л mn"	ъ≤"1Г$— op"		∞ъ
-Ў qr"	ж§2ЬYA1%! st"	ЪР27Щ%Х%	й uv"	Вм
-E" w)"	∞÷*Ш{“I“?ъUЖщ xy"	Љ∆
-- z{"
-	јД}]( |y"	јш$Bss%5Јй-gНл%Й∞?Z }~"	Ўґ
-#k А"		жъ
-0Ь Б5"		∞»
-6М В~"	¬к
-+W" Г~"	Шё *?ІЦA–Й4Р.B Д~"5	офК°ѓ?†ЋC√H!Г∆Н
-@@»EЄKl≠Ґ6 ЕЖ"	шЎ%":ф'>O$ ЗИ"	№ь"2к$ф+Ж',!†B ЙК"4	ђ™ВЧXХ+NйНiѕK√Вc№wмOЦ/ФGв1МFP ЛМ"	а¬(
- НО"	G–-"0тЮ4 ПР"&	Аƒ(r @ АимBPr8Њ{
- СТ"	»Ц(.И УФ"	“3
-
-Ж ХЦ
-"	^Ц?C#H! ЧШ
-"	ЊИ?N±ZІ	 ЩЪЫ"	Ии?
-/ ЬЭ
-"!	ШР@j4~/Z|xC.v.hFМ( ЮЯ"	Юј2)П4 †°"	»
- 7'3НЅAG" ҐЯ"	ђ†7"≥ЁўБхЊ<D £Я"	÷Ѓ1"y:C c §~"
-	јё$2d •¶"V	і	и7кМпј—§СрІ÷в	&'OY\®Ф	(∞r$Ъ®PJXзъБ∞Nv$Z2т(Ж5Bv-8& ІЯ"	АИ5:)7CKЭЩks~qжЅPGJ ®©"<	тЊ8≤±зUc[{M8G(gW$'1(MХS@УzЭМ…ШЫ"U]Q$I. ™Ђ"	рЉ5/59GБХ ђ≠"	÷і6
-$) Ѓѓ"	Ж№4BАљB9?У-9EGQiЁЩ ∞±"	мь0&#t_$, ≤≥"	∆ф6BEKЫ≈+Ієeu„Е©И" іµ"	Џё@2I]oЙIQ3		Еl ґЈ"	Ф–:
-4B Єє"	™ш=јв,% Її"	ћ§>ЋщQ_ Љљ"	÷р?
-)+ Њї"	∞ж> "^x  њј"	ЬЏ1")k=Ec5 Ѕ¬"	 Њ2
-E+k √ƒ"]	Ь.И-т1…%щ 7?њhs4см„VЙPWD•≤}ФБ“QdЋґqdЩж[<’™Г©! iX2:66ЧВ>FЩиІ√% ≈∆"	Ш∆3xК)" «»"	рО85719{Ч …Ј"	Рш8М™   Ћ"	Рƒ;"ёШ4>@5ђќ ћї"	∞ж;"XX8>P" Ќќ"	цЄ6*Ц≤DJTf(#ђ» ѕї"
-	§Љ9m{/(1 –—"#	Дґ@R@5МwTA:1кы\[§ЇЬЄ†і “”"	‘Д"0 8%5y ‘’"	вВ
-
-v+ ÷„"	ь"м*£H%w3.0 Ўў"
-	О&р
-{П Џџ"А	і;ОВ;aБ9єYЙ…Yyi≈y≥+”Э√П≠"Б,’R%I_£qm'9q+m3+ЗЦ•0н e	•GuХПП	?	ы)’П	oMQ* №Ё"	Ѓ&÷RA=/O	5+FЩk0 µ0_ ёя"	†*Ьі—b≠ аб"
-	Є*оAq	 вгд"	ф-Є
-S еж"
-	ж/ю15+ зи"	д-т
-V# йк"	Ѓ+р::¬.#6*m8 лм"	а-“
- но"
-	к/ш1I п~"
-	И"№s= р~"	ю$™
-U с~"	к"ОП4пjЙу ту"	Т.∆m_/ фх"	 2Ї
-	 цч"	Џ2Ъ"R К	- шщ"	№2ОR—LI9З%≤<'Ѓ)ь ъы"	»4в
-I) ьэ"	д2рR'B=К'^'D!`G G ю€"	÷2К"'7)+{e	. АБ" 	¬5ЦZEЧ0Н6√@G_  Eє8% ВГ"
-	Ю3р
-
-"' ДЕ"	Ж6фJ#=c$1(ыnOB ЖЗ"	М6Ѓ
-=Z ИЙ"L	 <тк-Ogaу7НЫЙEяKk?Ќ$i=	#'3#?aЌЛ√=K)
-%У'E!AkAЯ* КЛ"	™8иRNЂЙ4E;737IW)( МН"	Д4ж ђД ОП"	о=	"
--Q&сJ РС"	 ?n.
-*, ТУ"	†AФZ!3I E AП
-_BkЫ ФХ"		ц8ґ
-≥ ЦЛ"
-	в8ЃX ЧШ"	∞<≤
-(rАh ЩЪ"	д>ц	
-)? ЫЬ"		Ш?и	
-еBM ЭЮ"?	ґ<ц"ьЌN1vM*!	 Б:/Y50O!}KщЯ	І ByX[HГhI2ВТZzВ® Я†"	∞?Ї	P∞HЦ+ °Ґ"	к?№R…8i*- 
-ќ@V&g‘ £§"	≤@¬1√R •y"	ж3т"Цg≤u÷∆&* ¶І"	®6ц
-{9[ ®©"M	Т8фК!9#
-#3~Lp$ PК*,6nVx...HДЪ0J<@$"'pн  ™І"	 9М
-_C'	 Ђђ≠"	Ь;ю:Ж6,ВЂ)U"З ЃІ"	Ґ>т
-!  ѓ∞"	†@ц*$± MMs`' ±{"
-	к ƒ'**!M ≤≥"?	®.И-Ъ5Q;я'7&ЙJў^уШеТ±ІПЧХыПЙsy?o°X#ƒ’. іµ" 	ц ь+JҐЧЩХ
-RoяџҐYВ[ ґ{"	Ш"д*"*~+f+'9 ЈЈ"	Є#ж,
-Bd ЄЈ"	Ъ'Ї.
-3 є{"	“(÷ 
-L Ї{"	В,ш#±С	"4 їЉ"&	®+≤)jЕ
-Y>ЋuЧ25Г#ЕS©y љ{"	о+Ж&
-2# Њњ"	Ц/Џ&:C#√C	9=m' јЈ"	∆/і&
-#6 Ѕ¬"(	ц.ф&j98Зj
-2УZЯL$< ЇЮЕ«. ™&  √Ј"	ќ+д+
-9 ƒЈ"
-	в-Ф+ ≈Ј"	т-Р+
-$ ∆«"	Њ-»(:ќ
-~ш
-,p	M »Ј"	В,ф.
-\	 … "	а+В-"т*и Ћћ"
-	Ю.Р-	 Ќќѕ"	В.ъ,*
-@zY{  –—"	ЬЏ1zJvО “y"	Ф!¬3
- ”Ј"	м!¬4
- ‘»"	 ! 6
-68( ’Ј"	Ѓш1B&ј∞Tj†ƒ@F *dn ÷»"	ґ!№6ƒ•ECuГ „»"
-	ъ"ґ5`j>L ЎЈ"	»$Џ7
-)& ўЈ"	ґ$∆7
-0'H Џџ":	Ь0Ґ.ЪDА &f^щР— ODGP50SFН ef31c{П«ЙСхаK< №ї"	жв:
-XO Ёї"
-	ђ ≤;D7$! ёї"	В!Ъ<
-,- яа"	м(В?*Н~G0q,-! бЈ"	Ь,Ґ1
-9 вг"	Љ2ш#"O Х+5 дЈ"	Т1ё#
-  еІ"	ш4‘#
-4, жІ"
-	ђ5А$*$^uc зи"U	®.И-к %АмЩ/ЗgMqрІРЩ†ЈTm>GВµ®ў~Э2O‘ШЅЪ8¶!lE6 йІ"
-	÷5§$( кІ"	ц3д"JXH*(Yj†Ф~  лІ"	Ш4ъ&
-^ мІ"	Ъ4Ґ'
-< но"	о/ш(р:ќ пІ"	¶4§)
-u рІ"	†0ж.
-l  сІ"	–6∆*:2 »»(3.S/ ту"!	Ф-Ф5bЃ6\|ґ%R "/BRYј#J+ фх
-"	а†AZ!;"1"wѕ]*i"#L	 цчш"=	§†AВVЯЄЧм√
-і†рАҐ:Р†tРC4ПдК†ШјLNБjь™W	 щЋш"H	¶†A≤VЯЄЧp№ҐФ‘т«ВбdQшµЖc85К•ё’Є…VmtqИgB+\/6	 ъыш"	Р†A!i}Wi ьэ"	Єј?4@М†2	 ю€ш"#	≤†AJґЯ–џДq–б∆≠ЧEл* АБ"
-	К†AziZj& ВГ"	в&о:2NҐ2РDКђ÷xО( ДЛ"	†AюBЯ(OAљjыPO0ЕI$ ЕЖ"	ћ<ц:(El+Д=rI<+†s ЗИ"	ю?ґ †' ЙК"	†A≤B	/uЅ[Qу>*†) ЛМ"	ЦA™
-
- НО"	†AИ
-9$ ПР"	р;Ъ2–$&<Тё†T>L СТ
-"	Ў@–аpМ# УФ
-"	ш;Ц:h!^-	»g\CX?H5! ХЦ"	Њ<Ж"¶vЬТЬа ЧШ"	о@§
-2& ЩЪ"	т;Ю:–Dzю\ОZ`rж.+ ЫЬ
-"	†Aќ!
-oT( ЭШ"	∞<‘:<0NЮZРЉь<Мd÷;x
-nigeria_cluster(А FID" ый  "	†AЯ јBњB  њB
